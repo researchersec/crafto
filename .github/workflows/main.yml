@@ -28,7 +28,7 @@ jobs:
       uses: browser-actions/setup-chrome@v1
 
     - name: Run scraper
-      run: python scrape_wowhead.py combined_spells.txt recipes.json
+      run: python scrape_wowhead.py --headless combined_spells.txt recipes.json
       
     - name: Show recipes.json
       run: cat recipes.json
