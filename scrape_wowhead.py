@@ -46,6 +46,10 @@ class RecipeData:
     materials: List[Dict[str, int]]
     result_item_id: int
     result_quantity: int
+    difficulty_orange: int
+    difficulty_yellow: int
+    difficulty_green: int
+    difficulty_gray: int
     url: str
     scraped_at: str
 
@@ -140,13 +144,22 @@ class WowheadScraper:
     
     def _extract_profession(self, soup: BeautifulSoup) -> str:
         """Extract profession from breadcrumb navigation."""
-        breadcrumb = soup.select_one("div.breadcrumb")
+        breadcrumb = soup.select_one("nav.breadcrumb")
         if not breadcrumb:
             return "Unknown"
         
+        # Find all links in the breadcrumb
         links = breadcrumb.find_all("a")
         if links:
+            # Look for the profession link (usually contains '/professions/' in href)
+            for link in links:
+                href = link.get("href", "")
+                if "/professions/" in href and href != "/professions":
+                    return link.text.strip()
+            
+            # Fallback: return the last link if no profession-specific link found
             return links[-1].text.strip()
+        
         return "Unknown"
     
     def _extract_skill_level(self, soup: BeautifulSoup) -> int:
@@ -158,6 +171,27 @@ class WowheadScraper:
             if match:
                 return int(match.group(1))
         return 0  # Default to 0 if not found
+    
+    def _extract_difficulty(self, soup: BeautifulSoup) -> Tuple[int, int, int, int]:
+        """Extract difficulty levels (orange, yellow, green, gray)."""
+        skill_divs = soup.find_all("div", attrs={"data-markup-content-target": "1"})
+        for div in skill_divs:
+            text = div.get_text(strip=True)
+            if "Difficulty:" in text:
+                # Find all span elements with difficulty classes
+                r1 = div.find("span", class_="r1")
+                r2 = div.find("span", class_="r2")
+                r3 = div.find("span", class_="r3")
+                r4 = div.find("span", class_="r4")
+                
+                orange = int(r1.text.strip()) if r1 else 0
+                yellow = int(r2.text.strip()) if r2 else 0
+                green = int(r3.text.strip()) if r3 else 0
+                gray = int(r4.text.strip()) if r4 else 0
+                
+                return orange, yellow, green, gray
+        
+        return 0, 0, 0, 0  # Default if not found
     
     def _extract_materials(self, soup: BeautifulSoup, recipe_id: int) -> List[Dict[str, int]]:
         """Extract materials from recipe tooltip."""
@@ -238,6 +272,7 @@ class WowheadScraper:
             name = self._extract_recipe_name(soup)
             profession = self._extract_profession(soup)
             skill_level = self._extract_skill_level(soup)
+            difficulty_orange, difficulty_yellow, difficulty_green, difficulty_gray = self._extract_difficulty(soup)
             icon_name = self._extract_icon_name(soup)
             materials = self._extract_materials(soup, recipe_id)
             result_item_id, result_quantity = self._extract_result_item(soup, recipe_id)
@@ -251,6 +286,10 @@ class WowheadScraper:
                 materials=materials,
                 result_item_id=result_item_id,
                 result_quantity=result_quantity,
+                difficulty_orange=difficulty_orange,
+                difficulty_yellow=difficulty_yellow,
+                difficulty_green=difficulty_green,
+                difficulty_gray=difficulty_gray,
                 url=url,
                 scraped_at=time.strftime("%Y-%m-%d %H:%M:%S")
             )
