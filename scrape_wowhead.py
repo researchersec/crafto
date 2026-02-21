@@ -262,7 +262,7 @@ class WowheadScraper:
             
             # Load page
             self.driver.get(url)
-            time.sleep(2)  # Allow page to load
+            time.sleep(5)  # Allow page to load
             
             # Parse HTML
             soup = BeautifulSoup(self.driver.page_source, "html.parser")
