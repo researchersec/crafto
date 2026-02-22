@@ -28,18 +28,18 @@ jobs:
       uses: browser-actions/setup-chrome@v1
 
     - name: Run scraper
-      run: python scrape_wowhead.py --headless combined_spells.txt recipes.json
+      run: python scrape_wowhead.py --headless failed_urls.txt recipes2.json
       
-    - name: Show recipes.json
-      run: cat recipes.json
+    - name: Show recipes2.json
+      run: cat recipes2.json
 
-    - name: Commit and push recipes.json
+    - name: Commit and push recipes2.json
       run: |
         git config user.name "github-actions"
         git config user.email "github-actions@github.com"
-        git add recipes.json
-        git add failed_urls.txt
-        git commit -m "Update recipes.json from scraper" || echo "No changes to commit"
+        git add recipes2.json
+        git add failed_urls2.txt
+        git commit -m "Update recipes2.json from scraper" || echo "No changes to commit"
         git push
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
