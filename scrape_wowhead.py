@@ -356,7 +356,7 @@ class WowheadScraper:
         
         # Save failed URLs to a separate file
         if failed_urls:
-            failed_file = output_path.parent / "failed_urls.txt"
+            failed_file = output_path.parent / "failed_urls2.txt"
             with open(failed_file, 'w') as f:
                 f.write('\n'.join(failed_urls))
             logger.info(f"Saved {len(failed_urls)} failed URLs to {failed_file}")
