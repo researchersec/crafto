@@ -262,7 +262,7 @@ class WowheadScraper:
             
             # Load page
             self.driver.get(url)
-            time.sleep(5)  # Allow page to load
+            time.sleep(2)  # Allow page to load
             
             # Parse HTML
             soup = BeautifulSoup(self.driver.page_source, "html.parser")
@@ -324,6 +324,8 @@ class WowheadScraper:
             'recipes': []
         }
         
+        failed_urls = []
+        
         # Scrape each URL
         for i, url in enumerate(urls, 1):
             logger.info(f"Processing {i}/{len(urls)}: {url}")
@@ -345,11 +347,19 @@ class WowheadScraper:
                 stats['successful'] += 1
             else:
                 stats['failed'] += 1
+                failed_urls.append(url)
                 logger.error(f"Failed to scrape after {max_retries} attempts: {url}")
         
         # Save results
         with open(output_path, 'w') as f:
             json.dump(stats, f, indent=2)
+        
+        # Save failed URLs to a separate file
+        if failed_urls:
+            failed_file = output_path.parent / "failed_urls.txt"
+            with open(failed_file, 'w') as f:
+                f.write('\n'.join(failed_urls))
+            logger.info(f"Saved {len(failed_urls)} failed URLs to {failed_file}")
         
         logger.info(f"Scraping completed. Success: {stats['successful']}, Failed: {stats['failed']}")
         return stats
