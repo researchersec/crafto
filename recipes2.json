@@ -1,0 +1,7251 @@
+{
+  "total_urls": 265,
+  "successful": 257,
+  "failed": 8,
+  "recipes": [
+    {
+      "recipe_id": 22808,
+      "name": "Elixir of Greater Water Breathing",
+      "profession": "Alchemy",
+      "skill_level": 215,
+      "icon_name": "inv_potion_05",
+      "materials": [
+        {
+          "itemId": 7972,
+          "quantity": 1
+        },
+        {
+          "itemId": 8831,
+          "quantity": 2
+        },
+        {
+          "itemId": 8925,
+          "quantity": 1
+        }
+      ],
+      "result_item_id": 18294,
+      "result_quantity": 1,
+      "difficulty_orange": 215,
+      "difficulty_yellow": 230,
+      "difficulty_green": 250,
+      "difficulty_gray": 270,
+      "url": "https://www.wowhead.com/tbc/spell=22808/elixir-of-greater-water-breathing",
+      "scraped_at": "2026-02-22 15:43:39"
+    },
+    {
+      "recipe_id": 2329,
+      "name": "Elixir of Lion's Strength",
+      "profession": "Alchemy",
+      "skill_level": 1,
+      "icon_name": "inv_potion_56",
+      "materials": [
+        {
+          "itemId": 2449,
+          "quantity": 1
+        },
+        {
+          "itemId": 765,
+          "quantity": 1
+        },
+        {
+          "itemId": 3371,
+          "quantity": 1
+        }
+      ],
+      "result_item_id": 2454,
+      "result_quantity": 1,
+      "difficulty_orange": 1,
+      "difficulty_yellow": 55,
+      "difficulty_green": 75,
+      "difficulty_gray": 95,
+      "url": "https://www.wowhead.com/tbc/spell=2329/elixir-of-lions-strength",
+      "scraped_at": "2026-02-22 15:43:49"
+    },
+    {
+      "recipe_id": 2330,
+      "name": "Minor Healing Potion",
+      "profession": "Alchemy",
+      "skill_level": 1,
+      "icon_name": "inv_potion_49",
+      "materials": [
+        {
+          "itemId": 2447,
+          "quantity": 1
+        },
+        {
+          "itemId": 765,
+          "quantity": 1
+        },
+        {
+          "itemId": 3371,
+          "quantity": 1
+        }
+      ],
+      "result_item_id": 118,
+      "result_quantity": 1,
+      "difficulty_orange": 1,
+      "difficulty_yellow": 55,
+      "difficulty_green": 75,
+      "difficulty_gray": 95,
+      "url": "https://www.wowhead.com/tbc/spell=2330/minor-healing-potion",
+      "scraped_at": "2026-02-22 15:43:56"
+    },
+    {
+      "recipe_id": 2331,
+      "name": "Minor Mana Potion",
+      "profession": "Alchemy",
+      "skill_level": 25,
+      "icon_name": "inv_potion_70",
+      "materials": [
+        {
+          "itemId": 785,
+          "quantity": 1
+        },
+        {
+          "itemId": 765,
+          "quantity": 1
+        },
+        {
+          "itemId": 3371,
+          "quantity": 1
+        }
+      ],
+      "result_item_id": 2455,
+      "result_quantity": 1,
+      "difficulty_orange": 25,
+      "difficulty_yellow": 65,
+      "difficulty_green": 85,
+      "difficulty_gray": 105,
+      "url": "https://www.wowhead.com/tbc/spell=2331/minor-mana-potion",
+      "scraped_at": "2026-02-22 15:44:03"
+    },
+    {
+      "recipe_id": 2332,
+      "name": "Minor Rejuvenation Potion",
+      "profession": "Alchemy",
+      "skill_level": 40,
+      "icon_name": "inv_potion_02",
+      "materials": [
+        {
+          "itemId": 785,
+          "quantity": 2
+        },
+        {
+          "itemId": 2447,
+          "quantity": 1
+        },
+        {
+          "itemId": 3371,
+          "quantity": 1
+        }
+      ],
+      "result_item_id": 2456,
+      "result_quantity": 1,
+      "difficulty_orange": 40,
+      "difficulty_yellow": 70,
+      "difficulty_green": 90,
+      "difficulty_gray": 110,
+      "url": "https://www.wowhead.com/tbc/spell=2332/minor-rejuvenation-potion",
+      "scraped_at": "2026-02-22 15:44:10"
+    },
+    {
+      "recipe_id": 2333,
+      "name": "Elixir of Lesser Agility",
+      "profession": "Alchemy",
+      "skill_level": 140,
+      "icon_name": "inv_potion_92",
+      "materials": [
+        {
+          "itemId": 3355,
+          "quantity": 1
+        },
+        {
+          "itemId": 2452,
+          "quantity": 1
+        },
+        {
+          "itemId": 3372,
+          "quantity": 1
+        }
+      ],
+      "result_item_id": 3390,
+      "result_quantity": 1,
+      "difficulty_orange": 140,
+      "difficulty_yellow": 165,
+      "difficulty_green": 185,
+      "difficulty_gray": 205,
+      "url": "https://www.wowhead.com/tbc/spell=2333/elixir-of-lesser-agility",
+      "scraped_at": "2026-02-22 15:44:34"
+    },
+    {
+      "recipe_id": 2334,
+      "name": "Elixir of Minor Fortitude",
+      "profession": "Alchemy",
+      "skill_level": 50,
+      "icon_name": "inv_potion_42",
+      "materials": [
+        {
+          "itemId": 2449,
+          "quantity": 2
+        },
+        {
+          "itemId": 2447,
+          "quantity": 1
+        },
+        {
+          "itemId": 3371,
+          "quantity": 1
+        }
+      ],
+      "result_item_id": 2458,
+      "result_quantity": 1,
+      "difficulty_orange": 50,
+      "difficulty_yellow": 80,
+      "difficulty_green": 100,
+      "difficulty_gray": 120,
+      "url": "https://www.wowhead.com/tbc/spell=2334/elixir-of-minor-fortitude",
+      "scraped_at": "2026-02-22 15:44:42"
+    },
+    {
+      "recipe_id": 28554,
+      "name": "Shrouding Potion",
+      "profession": "Alchemy",
+      "skill_level": 335,
+      "icon_name": "inv_potion_144",
+      "materials": [
+        {
+          "itemId": 22787,
+          "quantity": 3
+        },
+        {
+          "itemId": 22791,
+          "quantity": 1
+        },
+        {
+          "itemId": 18256,
+          "quantity": 1
+        }
+      ],
+      "result_item_id": 22871,
+      "result_quantity": 1,
+      "difficulty_orange": 335,
+      "difficulty_yellow": 350,
+      "difficulty_green": 357,
+      "difficulty_gray": 365,
+      "url": "https://www.wowhead.com/tbc/spell=28554/shrouding-potion",
+      "scraped_at": "2026-02-22 15:44:50"
+    },
+    {
+      "recipe_id": 28589,
+      "name": "Flask of Relentless Assault",
+      "profession": "Alchemy",
+      "skill_level": 0,
+      "icon_name": "inv_potion_117",
+      "materials": [
+        {
+          "itemId": 22794,
+          "quantity": 1
+        },
+        {
+          "itemId": 22793,
+          "quantity": 3
+        },
+        {
+          "itemId": 22789,
+          "quantity": 7
+        },
+        {
+          "itemId": 18256,
+          "quantity": 1
+        }
+      ],
+      "result_item_id": 22854,
+      "result_quantity": 1,
+      "difficulty_orange": 0,
+      "difficulty_yellow": 390,
+      "difficulty_green": 397,
+      "difficulty_gray": 405,
+      "url": "https://www.wowhead.com/tbc/spell=28589/flask-of-relentless-assault",
+      "scraped_at": "2026-02-22 15:44:57"
+    },
+    {
+      "recipe_id": 28590,
+      "name": "Flask of Blinding Light",
+      "profession": "Alchemy",
+      "skill_level": 0,
+      "icon_name": "inv_potion_116",
+      "materials": [
+        {
+          "itemId": 22794,
+          "quantity": 1
+        },
+        {
+          "itemId": 22793,
+          "quantity": 3
+        },
+        {
+          "itemId": 22791,
+          "quantity": 7
+        },
+        {
+          "itemId": 18256,
+          "quantity": 1
+        }
+      ],
+      "result_item_id": 22861,
+      "result_quantity": 1,
+      "difficulty_orange": 0,
+      "difficulty_yellow": 390,
+      "difficulty_green": 397,
+      "difficulty_gray": 405,
+      "url": "https://www.wowhead.com/tbc/spell=28590/flask-of-blinding-light",
+      "scraped_at": "2026-02-22 15:45:05"
+    },
+    {
+      "recipe_id": 28591,
+      "name": "Flask of Pure Death",
+      "profession": "Alchemy",
+      "skill_level": 0,
+      "icon_name": "inv_potion_115",
+      "materials": [
+        {
+          "itemId": 22794,
+          "quantity": 1
+        },
+        {
+          "itemId": 22793,
+          "quantity": 3
+        },
+        {
+          "itemId": 22792,
+          "quantity": 7
+        },
+        {
+          "itemId": 18256,
+          "quantity": 1
+        }
+      ],
+      "result_item_id": 22866,
+      "result_quantity": 1,
+      "difficulty_orange": 0,
+      "difficulty_yellow": 390,
+      "difficulty_green": 397,
+      "difficulty_gray": 405,
+      "url": "https://www.wowhead.com/tbc/spell=28591/flask-of-pure-death",
+      "scraped_at": "2026-02-22 15:45:12"
+    },
+    {
+      "recipe_id": 28596,
+      "name": "Alchemy",
+      "profession": "Alchemy",
+      "skill_level": 275,
+      "icon_name": "trade_alchemy",
+      "materials": [],
+      "result_item_id": 0,
+      "result_quantity": 1,
+      "difficulty_orange": 0,
+      "difficulty_yellow": 0,
+      "difficulty_green": 0,
+      "difficulty_gray": 0,
+      "url": "https://www.wowhead.com/tbc/spell=28596/alchemy",
+      "scraped_at": "2026-02-22 15:45:19"
+    },
+    {
+      "recipe_id": 3176,
+      "name": "Strong Troll's Blood Potion",
+      "profession": "Alchemy",
+      "skill_level": 125,
+      "icon_name": "inv_potion_78",
+      "materials": [
+        {
+          "itemId": 2453,
+          "quantity": 2
+        },
+        {
+          "itemId": 2450,
+          "quantity": 2
+        },
+        {
+          "itemId": 3372,
+          "quantity": 1
+        }
+      ],
+      "result_item_id": 3388,
+      "result_quantity": 1,
+      "difficulty_orange": 125,
+      "difficulty_yellow": 150,
+      "difficulty_green": 170,
+      "difficulty_gray": 190,
+      "url": "https://www.wowhead.com/tbc/spell=3176/strong-trolls-blood-potion",
+      "scraped_at": "2026-02-22 15:45:26"
+    },
+    {
+      "recipe_id": 3177,
+      "name": "Elixir of Defense",
+      "profession": "Alchemy",
+      "skill_level": 130,
+      "icon_name": "inv_potion_64",
+      "materials": [
+        {
+          "itemId": 3355,
+          "quantity": 1
+        },
+        {
+          "itemId": 3820,
+          "quantity": 1
+        },
+        {
+          "itemId": 3372,
+          "quantity": 1
+        }
+      ],
+      "result_item_id": 3389,
+      "result_quantity": 1,
+      "difficulty_orange": 130,
+      "difficulty_yellow": 155,
+      "difficulty_green": 175,
+      "difficulty_gray": 195,
+      "url": "https://www.wowhead.com/tbc/spell=3177/elixir-of-defense",
+      "scraped_at": "2026-02-22 15:45:34"
+    },
+    {
+      "recipe_id": 45061,
+      "name": "Mad Alchemist's Potion",
+      "profession": "Alchemy",
+      "skill_level": 325,
+      "icon_name": "inv_potion_28",
+      "materials": [
+        {
+          "itemId": 8925,
+          "quantity": 1
+        },
+        {
+          "itemId": 22787,
+          "quantity": 2
+        }
+      ],
+      "result_item_id": 34440,
+      "result_quantity": 1,
+      "difficulty_orange": 325,
+      "difficulty_yellow": 335,
+      "difficulty_green": 342,
+      "difficulty_gray": 350,
+      "url": "https://www.wowhead.com/tbc/spell=45061/mad-alchemists-potion",
+      "scraped_at": "2026-02-22 15:45:41"
+    },
+    {
+      "recipe_id": 4508,
+      "name": "Discolored Healing Potion",
+      "profession": "Alchemy",
+      "skill_level": 50,
+      "icon_name": "inv_potion_35",
+      "materials": [
+        {
+          "itemId": 3164,
+          "quantity": 1
+        },
+        {
+          "itemId": 2447,
+          "quantity": 1
+        },
+        {
+          "itemId": 3371,
+          "quantity": 1
+        }
+      ],
+      "result_item_id": 4596,
+      "result_quantity": 1,
+      "difficulty_orange": 50,
+      "difficulty_yellow": 80,
+      "difficulty_green": 100,
+      "difficulty_gray": 120,
+      "url": "https://www.wowhead.com/tbc/spell=4508/discolored-healing-potion",
+      "scraped_at": "2026-02-22 15:45:48"
+    },
+    {
+      "recipe_id": 47046,
+      "name": "Guardian's Alchemist Stone",
+      "profession": "Alchemy",
+      "skill_level": 375,
+      "icon_name": "classic_spell_nature_healingway",
+      "materials": [
+        {
+          "itemId": 13503,
+          "quantity": 1
+        },
+        {
+          "itemId": 22451,
+          "quantity": 6
+        },
+        {
+          "itemId": 30183,
+          "quantity": 2
+        }
+      ],
+      "result_item_id": 35748,
+      "result_quantity": 1,
+      "difficulty_orange": 375,
+      "difficulty_yellow": 390,
+      "difficulty_green": 397,
+      "difficulty_gray": 405,
+      "url": "https://www.wowhead.com/tbc/spell=47046/guardians-alchemist-stone",
+      "scraped_at": "2026-02-22 15:45:56"
+    },
+    {
+      "recipe_id": 7257,
+      "name": "Fire Protection Potion",
+      "profession": "Alchemy",
+      "skill_level": 165,
+      "icon_name": "inv_potion_16",
+      "materials": [
+        {
+          "itemId": 4402,
+          "quantity": 1
+        },
+        {
+          "itemId": 6371,
+          "quantity": 1
+        },
+        {
+          "itemId": 3372,
+          "quantity": 1
+        }
+      ],
+      "result_item_id": 6049,
+      "result_quantity": 1,
+      "difficulty_orange": 165,
+      "difficulty_yellow": 210,
+      "difficulty_green": 230,
+      "difficulty_gray": 250,
+      "url": "https://www.wowhead.com/tbc/spell=7257/fire-protection-potion",
+      "scraped_at": "2026-02-22 15:46:03"
+    },
+    {
+      "recipe_id": 7258,
+      "name": "Frost Protection Potion",
+      "profession": "Alchemy",
+      "skill_level": 190,
+      "icon_name": "inv_potion_13",
+      "materials": [
+        {
+          "itemId": 3819,
+          "quantity": 1
+        },
+        {
+          "itemId": 3821,
+          "quantity": 1
+        },
+        {
+          "itemId": 3372,
+          "quantity": 1
+        }
+      ],
+      "result_item_id": 6050,
+      "result_quantity": 1,
+      "difficulty_orange": 190,
+      "difficulty_yellow": 205,
+      "difficulty_green": 225,
+      "difficulty_gray": 245,
+      "url": "https://www.wowhead.com/tbc/spell=7258/frost-protection-potion",
+      "scraped_at": "2026-02-22 15:46:11"
+    },
+    {
+      "recipe_id": 7259,
+      "name": "Nature Protection Potion",
+      "profession": "Alchemy",
+      "skill_level": 190,
+      "icon_name": "inv_potion_06",
+      "materials": [
+        {
+          "itemId": 3357,
+          "quantity": 1
+        },
+        {
+          "itemId": 3820,
+          "quantity": 1
+        },
+        {
+          "itemId": 3372,
+          "quantity": 1
+        }
+      ],
+      "result_item_id": 6052,
+      "result_quantity": 1,
+      "difficulty_orange": 190,
+      "difficulty_yellow": 210,
+      "difficulty_green": 230,
+      "difficulty_gray": 250,
+      "url": "https://www.wowhead.com/tbc/spell=7259/nature-protection-potion",
+      "scraped_at": "2026-02-22 15:46:18"
+    },
+    {
+      "recipe_id": 7836,
+      "name": "Blackmouth Oil",
+      "profession": "Alchemy",
+      "skill_level": 80,
+      "icon_name": "inv_drink_12",
+      "materials": [
+        {
+          "itemId": 6358,
+          "quantity": 2
+        },
+        {
+          "itemId": 3371,
+          "quantity": 1
+        }
+      ],
+      "result_item_id": 6370,
+      "result_quantity": 1,
+      "difficulty_orange": 80,
+      "difficulty_yellow": 80,
+      "difficulty_green": 90,
+      "difficulty_gray": 100,
+      "url": "https://www.wowhead.com/tbc/spell=7836/blackmouth-oil",
+      "scraped_at": "2026-02-22 15:46:25"
+    },
+    {
+      "recipe_id": 15294,
+      "name": "Dark Iron Sunderer",
+      "profession": "Blacksmithing",
+      "skill_level": 275,
+      "icon_name": "inv_weapon_halberd_02",
+      "materials": [
+        {
+          "itemId": 11371,
+          "quantity": 26
+        },
+        {
+          "itemId": 7077,
+          "quantity": 4
+        }
+      ],
+      "result_item_id": 11607,
+      "result_quantity": 1,
+      "difficulty_orange": 275,
+      "difficulty_yellow": 295,
+      "difficulty_green": 305,
+      "difficulty_gray": 315,
+      "url": "https://www.wowhead.com/tbc/spell=15294/dark-iron-sunderer",
+      "scraped_at": "2026-02-22 15:46:38"
+    },
+    {
+      "recipe_id": 15295,
+      "name": "Dark Iron Shoulders",
+      "profession": "Blacksmithing",
+      "skill_level": 280,
+      "icon_name": "inv_shoulder_09",
+      "materials": [
+        {
+          "itemId": 11371,
+          "quantity": 6
+        },
+        {
+          "itemId": 7077,
+          "quantity": 1
+        }
+      ],
+      "result_item_id": 11605,
+      "result_quantity": 1,
+      "difficulty_orange": 280,
+      "difficulty_yellow": 300,
+      "difficulty_green": 310,
+      "difficulty_gray": 320,
+      "url": "https://www.wowhead.com/tbc/spell=15295/dark-iron-shoulders",
+      "scraped_at": "2026-02-22 15:46:47"
+    },
+    {
+      "recipe_id": 16652,
+      "name": "Thorium Boots",
+      "profession": "Blacksmithing",
+      "skill_level": 280,
+      "icon_name": "inv_boots_plate_08",
+      "materials": [
+        {
+          "itemId": 12359,
+          "quantity": 20
+        },
+        {
+          "itemId": 8170,
+          "quantity": 8
+        },
+        {
+          "itemId": 11185,
+          "quantity": 4
+        }
+      ],
+      "result_item_id": 12409,
+      "result_quantity": 1,
+      "difficulty_orange": 280,
+      "difficulty_yellow": 300,
+      "difficulty_green": 310,
+      "difficulty_gray": 320,
+      "url": "https://www.wowhead.com/tbc/spell=16652/thorium-boots",
+      "scraped_at": "2026-02-22 15:46:54"
+    },
+    {
+      "recipe_id": 16653,
+      "name": "Thorium Helm",
+      "profession": "Blacksmithing",
+      "skill_level": 280,
+      "icon_name": "inv_helmet_23",
+      "materials": [
+        {
+          "itemId": 12359,
+          "quantity": 24
+        },
+        {
+          "itemId": 7910,
+          "quantity": 1
+        },
+        {
+          "itemId": 11188,
+          "quantity": 4
+        }
+      ],
+      "result_item_id": 12410,
+      "result_quantity": 1,
+      "difficulty_orange": 280,
+      "difficulty_yellow": 300,
+      "difficulty_green": 310,
+      "difficulty_gray": 320,
+      "url": "https://www.wowhead.com/tbc/spell=16653/thorium-helm",
+      "scraped_at": "2026-02-22 15:47:02"
+    },
+    {
+      "recipe_id": 16654,
+      "name": "Radiant Gloves",
+      "profession": "Blacksmithing",
+      "skill_level": 285,
+      "icon_name": "inv_gauntlets_26",
+      "materials": [
+        {
+          "itemId": 12359,
+          "quantity": 18
+        },
+        {
+          "itemId": 7077,
+          "quantity": 4
+        }
+      ],
+      "result_item_id": 12418,
+      "result_quantity": 1,
+      "difficulty_orange": 285,
+      "difficulty_yellow": 305,
+      "difficulty_green": 315,
+      "difficulty_gray": 325,
+      "url": "https://www.wowhead.com/tbc/spell=16654/radiant-gloves",
+      "scraped_at": "2026-02-22 15:47:09"
+    },
+    {
+      "recipe_id": 16655,
+      "name": "Fiery Plate Gauntlets",
+      "profession": "Blacksmithing",
+      "skill_level": 290,
+      "icon_name": "inv_gauntlets_03",
+      "materials": [
+        {
+          "itemId": 12359,
+          "quantity": 20
+        },
+        {
+          "itemId": 12655,
+          "quantity": 6
+        },
+        {
+          "itemId": 7078,
+          "quantity": 2
+        },
+        {
+          "itemId": 7910,
+          "quantity": 4
+        }
+      ],
+      "result_item_id": 12631,
+      "result_quantity": 1,
+      "difficulty_orange": 290,
+      "difficulty_yellow": 310,
+      "difficulty_green": 320,
+      "difficulty_gray": 330,
+      "url": "https://www.wowhead.com/tbc/spell=16655/fiery-plate-gauntlets",
+      "scraped_at": "2026-02-22 15:47:17"
+    },
+    {
+      "recipe_id": 16730,
+      "name": "Imperial Plate Leggings",
+      "profession": "Blacksmithing",
+      "skill_level": 300,
+      "icon_name": "inv_pants_04",
+      "materials": [
+        {
+          "itemId": 12359,
+          "quantity": 24
+        }
+      ],
+      "result_item_id": 12428,
+      "result_quantity": 1,
+      "difficulty_orange": 300,
+      "difficulty_yellow": 320,
+      "difficulty_green": 330,
+      "difficulty_gray": 340,
+      "url": "https://www.wowhead.com/tbc/spell=16730/imperial-plate-leggings",
+      "scraped_at": "2026-02-22 15:47:24"
+    },
+    {
+      "recipe_id": 16731,
+      "name": "Runic Breastplate",
+      "profession": "Blacksmithing",
+      "skill_level": 300,
+      "icon_name": "inv_chest_plate11",
+      "materials": [
+        {
+          "itemId": 12359,
+          "quantity": 40
+        },
+        {
+          "itemId": 12360,
+          "quantity": 2
+        },
+        {
+          "itemId": 7910,
+          "quantity": 1
+        }
+      ],
+      "result_item_id": 12613,
+      "result_quantity": 1,
+      "difficulty_orange": 300,
+      "difficulty_yellow": 320,
+      "difficulty_green": 330,
+      "difficulty_gray": 340,
+      "url": "https://www.wowhead.com/tbc/spell=16731/runic-breastplate",
+      "scraped_at": "2026-02-22 15:47:32"
+    },
+    {
+      "recipe_id": 16732,
+      "name": "Runic Plate Leggings",
+      "profession": "Blacksmithing",
+      "skill_level": 300,
+      "icon_name": "inv_pants_04",
+      "materials": [
+        {
+          "itemId": 12359,
+          "quantity": 40
+        },
+        {
+          "itemId": 12360,
+          "quantity": 2
+        },
+        {
+          "itemId": 7910,
+          "quantity": 1
+        }
+      ],
+      "result_item_id": 12614,
+      "result_quantity": 1,
+      "difficulty_orange": 300,
+      "difficulty_yellow": 320,
+      "difficulty_green": 330,
+      "difficulty_gray": 340,
+      "url": "https://www.wowhead.com/tbc/spell=16732/runic-plate-leggings",
+      "scraped_at": "2026-02-22 15:47:39"
+    },
+    {
+      "recipe_id": 17039,
+      "name": "Master Swordsmith",
+      "profession": "Blacksmithing",
+      "skill_level": 0,
+      "icon_name": "inv_sword_41",
+      "materials": [],
+      "result_item_id": 0,
+      "result_quantity": 1,
+      "difficulty_orange": 0,
+      "difficulty_yellow": 0,
+      "difficulty_green": 0,
+      "difficulty_gray": 0,
+      "url": "https://www.wowhead.com/tbc/spell=17039/master-swordsmith",
+      "scraped_at": "2026-02-22 15:47:47"
+    },
+    {
+      "recipe_id": 17040,
+      "name": "Master Hammersmith",
+      "profession": "Blacksmithing",
+      "skill_level": 0,
+      "icon_name": "inv_hammer_23",
+      "materials": [],
+      "result_item_id": 0,
+      "result_quantity": 1,
+      "difficulty_orange": 0,
+      "difficulty_yellow": 0,
+      "difficulty_green": 0,
+      "difficulty_gray": 0,
+      "url": "https://www.wowhead.com/tbc/spell=17040/master-hammersmith",
+      "scraped_at": "2026-02-22 15:47:55"
+    },
+    {
+      "recipe_id": 23637,
+      "name": "Dark Iron Gauntlets",
+      "profession": "Blacksmithing",
+      "skill_level": 300,
+      "icon_name": "inv_gauntlets_22",
+      "materials": [
+        {
+          "itemId": 17011,
+          "quantity": 3
+        },
+        {
+          "itemId": 17010,
+          "quantity": 5
+        },
+        {
+          "itemId": 17012,
+          "quantity": 4
+        },
+        {
+          "itemId": 11371,
+          "quantity": 4
+        },
+        {
+          "itemId": 11382,
+          "quantity": 2
+        }
+      ],
+      "result_item_id": 19164,
+      "result_quantity": 1,
+      "difficulty_orange": 300,
+      "difficulty_yellow": 320,
+      "difficulty_green": 330,
+      "difficulty_gray": 340,
+      "url": "https://www.wowhead.com/tbc/spell=23637/dark-iron-gauntlets",
+      "scraped_at": "2026-02-22 15:48:02"
+    },
+    {
+      "recipe_id": 2664,
+      "name": "Runed Copper Bracers",
+      "profession": "Blacksmithing",
+      "skill_level": 90,
+      "icon_name": "inv_bracer_03",
+      "materials": [
+        {
+          "itemId": 2840,
+          "quantity": 10
+        },
+        {
+          "itemId": 3470,
+          "quantity": 3
+        }
+      ],
+      "result_item_id": 2854,
+      "result_quantity": 1,
+      "difficulty_orange": 90,
+      "difficulty_yellow": 115,
+      "difficulty_green": 127,
+      "difficulty_gray": 140,
+      "url": "https://www.wowhead.com/tbc/spell=2664/runed-copper-bracers",
+      "scraped_at": "2026-02-22 15:48:09"
+    },
+    {
+      "recipe_id": 2665,
+      "name": "Coarse Sharpening Stone",
+      "profession": "Blacksmithing",
+      "skill_level": 65,
+      "icon_name": "inv_stone_sharpeningstone_02",
+      "materials": [
+        {
+          "itemId": 2836,
+          "quantity": 1
+        }
+      ],
+      "result_item_id": 2863,
+      "result_quantity": 1,
+      "difficulty_orange": 65,
+      "difficulty_yellow": 65,
+      "difficulty_green": 72,
+      "difficulty_gray": 80,
+      "url": "https://www.wowhead.com/tbc/spell=2665/coarse-sharpening-stone",
+      "scraped_at": "2026-02-22 15:48:17"
+    },
+    {
+      "recipe_id": 27587,
+      "name": "Thick Obsidian Breastplate",
+      "profession": "Blacksmithing",
+      "skill_level": 300,
+      "icon_name": "inv_chest_chain_17",
+      "materials": [
+        {
+          "itemId": 22203,
+          "quantity": 18
+        },
+        {
+          "itemId": 22202,
+          "quantity": 40
+        },
+        {
+          "itemId": 12655,
+          "quantity": 12
+        },
+        {
+          "itemId": 7076,
+          "quantity": 10
+        },
+        {
+          "itemId": 12364,
+          "quantity": 4
+        }
+      ],
+      "result_item_id": 22196,
+      "result_quantity": 1,
+      "difficulty_orange": 300,
+      "difficulty_yellow": 320,
+      "difficulty_green": 330,
+      "difficulty_gray": 340,
+      "url": "https://www.wowhead.com/tbc/spell=27587/thick-obsidian-breastplate",
+      "scraped_at": "2026-02-22 15:48:25"
+    },
+    {
+      "recipe_id": 29642,
+      "name": "Ragesteel Gloves",
+      "profession": "Blacksmithing",
+      "skill_level": 365,
+      "icon_name": "inv_gauntlets_26",
+      "materials": [
+        {
+          "itemId": 23445,
+          "quantity": 8
+        },
+        {
+          "itemId": 21884,
+          "quantity": 6
+        },
+        {
+          "itemId": 23449,
+          "quantity": 3
+        },
+        {
+          "itemId": 22824,
+          "quantity": 2
+        }
+      ],
+      "result_item_id": 33173,
+      "result_quantity": 1,
+      "difficulty_orange": 365,
+      "difficulty_yellow": 375,
+      "difficulty_green": 385,
+      "difficulty_gray": 395,
+      "url": "https://www.wowhead.com/tbc/spell=29642/ragesteel-gloves",
+      "scraped_at": "2026-02-22 15:48:32"
+    },
+    {
+      "recipe_id": 29643,
+      "name": "Ragesteel Helm",
+      "profession": "Blacksmithing",
+      "skill_level": 365,
+      "icon_name": "inv_helmet_22",
+      "materials": [
+        {
+          "itemId": 23445,
+          "quantity": 10
+        },
+        {
+          "itemId": 21884,
+          "quantity": 10
+        },
+        {
+          "itemId": 23449,
+          "quantity": 4
+        },
+        {
+          "itemId": 22824,
+          "quantity": 4
+        }
+      ],
+      "result_item_id": 33173,
+      "result_quantity": 1,
+      "difficulty_orange": 365,
+      "difficulty_yellow": 375,
+      "difficulty_green": 385,
+      "difficulty_gray": 395,
+      "url": "https://www.wowhead.com/tbc/spell=29643/ragesteel-helm",
+      "scraped_at": "2026-02-22 15:48:40"
+    },
+    {
+      "recipe_id": 29645,
+      "name": "Ragesteel Breastplate",
+      "profession": "Blacksmithing",
+      "skill_level": 370,
+      "icon_name": "inv_chest_chain_16",
+      "materials": [
+        {
+          "itemId": 23445,
+          "quantity": 12
+        },
+        {
+          "itemId": 21884,
+          "quantity": 10
+        },
+        {
+          "itemId": 23449,
+          "quantity": 6
+        },
+        {
+          "itemId": 22824,
+          "quantity": 4
+        }
+      ],
+      "result_item_id": 33173,
+      "result_quantity": 1,
+      "difficulty_orange": 370,
+      "difficulty_yellow": 380,
+      "difficulty_green": 390,
+      "difficulty_gray": 400,
+      "url": "https://www.wowhead.com/tbc/spell=29645/ragesteel-breastplate",
+      "scraped_at": "2026-02-22 15:48:47"
+    },
+    {
+      "recipe_id": 29648,
+      "name": "Swiftsteel Gloves",
+      "profession": "Blacksmithing",
+      "skill_level": 370,
+      "icon_name": "inv_gauntlets_17",
+      "materials": [
+        {
+          "itemId": 23448,
+          "quantity": 6
+        },
+        {
+          "itemId": 22449,
+          "quantity": 2
+        },
+        {
+          "itemId": 22831,
+          "quantity": 4
+        },
+        {
+          "itemId": 22451,
+          "quantity": 4
+        }
+      ],
+      "result_item_id": 23526,
+      "result_quantity": 1,
+      "difficulty_orange": 370,
+      "difficulty_yellow": 380,
+      "difficulty_green": 390,
+      "difficulty_gray": 400,
+      "url": "https://www.wowhead.com/tbc/spell=29648/swiftsteel-gloves",
+      "scraped_at": "2026-02-22 15:48:55"
+    },
+    {
+      "recipe_id": 3117,
+      "name": "Heavy Weightstone",
+      "profession": "Blacksmithing",
+      "skill_level": 125,
+      "icon_name": "inv_stone_weightstone_03",
+      "materials": [
+        {
+          "itemId": 2838,
+          "quantity": 1
+        },
+        {
+          "itemId": 2592,
+          "quantity": 1
+        }
+      ],
+      "result_item_id": 3241,
+      "result_quantity": 1,
+      "difficulty_orange": 125,
+      "difficulty_yellow": 125,
+      "difficulty_green": 132,
+      "difficulty_gray": 140,
+      "url": "https://www.wowhead.com/tbc/spell=3117/heavy-weightstone",
+      "scraped_at": "2026-02-22 15:49:03"
+    },
+    {
+      "recipe_id": 32284,
+      "name": "Lesser Rune of Warding",
+      "profession": "Blacksmithing",
+      "skill_level": 325,
+      "icon_name": "inv_misc_rune_11",
+      "materials": [
+        {
+          "itemId": 23446,
+          "quantity": 1
+        }
+      ],
+      "result_item_id": 23559,
+      "result_quantity": 1,
+      "difficulty_orange": 325,
+      "difficulty_yellow": 325,
+      "difficulty_green": 330,
+      "difficulty_gray": 335,
+      "url": "https://www.wowhead.com/tbc/spell=32284/lesser-rune-of-warding",
+      "scraped_at": "2026-02-22 15:49:10"
+    },
+    {
+      "recipe_id": 32285,
+      "name": "Greater Rune of Warding",
+      "profession": "Blacksmithing",
+      "skill_level": 350,
+      "icon_name": "inv_misc_rune_10",
+      "materials": [
+        {
+          "itemId": 23449,
+          "quantity": 1
+        }
+      ],
+      "result_item_id": 25521,
+      "result_quantity": 1,
+      "difficulty_orange": 350,
+      "difficulty_yellow": 350,
+      "difficulty_green": 355,
+      "difficulty_gray": 360,
+      "url": "https://www.wowhead.com/tbc/spell=32285/greater-rune-of-warding",
+      "scraped_at": "2026-02-22 15:49:17"
+    },
+    {
+      "recipe_id": 32655,
+      "name": "Fel Iron Rod",
+      "profession": "Blacksmithing",
+      "skill_level": 300,
+      "icon_name": "inv_rod_felsteel",
+      "materials": [
+        {
+          "itemId": 23445,
+          "quantity": 6
+        }
+      ],
+      "result_item_id": 25843,
+      "result_quantity": 1,
+      "difficulty_orange": 300,
+      "difficulty_yellow": 300,
+      "difficulty_green": 305,
+      "difficulty_gray": 310,
+      "url": "https://www.wowhead.com/tbc/spell=32655/fel-iron-rod",
+      "scraped_at": "2026-02-22 15:49:25"
+    },
+    {
+      "recipe_id": 34546,
+      "name": "Dragonmaw",
+      "profession": "Blacksmithing",
+      "skill_level": 375,
+      "icon_name": "inv_mace_38",
+      "materials": [
+        {
+          "itemId": 28437,
+          "quantity": 1
+        },
+        {
+          "itemId": 23572,
+          "quantity": 8
+        },
+        {
+          "itemId": 23571,
+          "quantity": 2
+        }
+      ],
+      "result_item_id": 28438,
+      "result_quantity": 1,
+      "difficulty_orange": 375,
+      "difficulty_yellow": 385,
+      "difficulty_green": 395,
+      "difficulty_gray": 405,
+      "url": "https://www.wowhead.com/tbc/spell=34546/dragonmaw",
+      "scraped_at": "2026-02-22 15:49:32"
+    },
+    {
+      "recipe_id": 34547,
+      "name": "Thunder",
+      "profession": "Blacksmithing",
+      "skill_level": 350,
+      "icon_name": "inv_mace_2h_blacksmithing_01",
+      "materials": [
+        {
+          "itemId": 22451,
+          "quantity": 20
+        },
+        {
+          "itemId": 21885,
+          "quantity": 20
+        },
+        {
+          "itemId": 23573,
+          "quantity": 6
+        },
+        {
+          "itemId": 23449,
+          "quantity": 12
+        }
+      ],
+      "result_item_id": 28440,
+      "result_quantity": 1,
+      "difficulty_orange": 350,
+      "difficulty_yellow": 360,
+      "difficulty_green": 370,
+      "difficulty_gray": 380,
+      "url": "https://www.wowhead.com/tbc/spell=34547/thunder",
+      "scraped_at": "2026-02-22 15:49:40"
+    },
+    {
+      "recipe_id": 34548,
+      "name": "Deep Thunder",
+      "profession": "Blacksmithing",
+      "skill_level": 375,
+      "icon_name": "inv_mace_2h_blacksmithing_02",
+      "materials": [
+        {
+          "itemId": 28440,
+          "quantity": 1
+        },
+        {
+          "itemId": 23572,
+          "quantity": 8
+        },
+        {
+          "itemId": 22457,
+          "quantity": 10
+        }
+      ],
+      "result_item_id": 28441,
+      "result_quantity": 1,
+      "difficulty_orange": 375,
+      "difficulty_yellow": 385,
+      "difficulty_green": 395,
+      "difficulty_gray": 405,
+      "url": "https://www.wowhead.com/tbc/spell=34548/deep-thunder",
+      "scraped_at": "2026-02-22 15:49:47"
+    },
+    {
+      "recipe_id": 34982,
+      "name": "Enchanted Thorium Blades",
+      "profession": "Blacksmithing",
+      "skill_level": 300,
+      "icon_name": "inv_weapon_shortblade_26",
+      "materials": [
+        {
+          "itemId": 12655,
+          "quantity": 2
+        },
+        {
+          "itemId": 12359,
+          "quantity": 2
+        },
+        {
+          "itemId": 8170,
+          "quantity": 1
+        }
+      ],
+      "result_item_id": 29203,
+      "result_quantity": 1,
+      "difficulty_orange": 300,
+      "difficulty_yellow": 320,
+      "difficulty_green": 330,
+      "difficulty_gray": 340,
+      "url": "https://www.wowhead.com/tbc/spell=34982/enchanted-thorium-blades",
+      "scraped_at": "2026-02-22 15:49:55"
+    },
+    {
+      "recipe_id": 34983,
+      "name": "Felsteel Whisper Knives",
+      "profession": "Blacksmithing",
+      "skill_level": 350,
+      "icon_name": "inv_weapon_shortblade_26",
+      "materials": [
+        {
+          "itemId": 23448,
+          "quantity": 6
+        },
+        {
+          "itemId": 22451,
+          "quantity": 2
+        },
+        {
+          "itemId": 21884,
+          "quantity": 2
+        },
+        {
+          "itemId": 23793,
+          "quantity": 1
+        }
+      ],
+      "result_item_id": 29204,
+      "result_quantity": 1,
+      "difficulty_orange": 350,
+      "difficulty_yellow": 360,
+      "difficulty_green": 370,
+      "difficulty_gray": 380,
+      "url": "https://www.wowhead.com/tbc/spell=34983/felsteel-whisper-knives",
+      "scraped_at": "2026-02-22 15:50:02"
+    },
+    {
+      "recipe_id": 3500,
+      "name": "Shadow Crescent Axe",
+      "profession": "Blacksmithing",
+      "skill_level": 200,
+      "icon_name": "inv_axe_17",
+      "materials": [
+        {
+          "itemId": 3859,
+          "quantity": 10
+        },
+        {
+          "itemId": 3466,
+          "quantity": 2
+        },
+        {
+          "itemId": 3486,
+          "quantity": 3
+        },
+        {
+          "itemId": 3864,
+          "quantity": 2
+        },
+        {
+          "itemId": 3824,
+          "quantity": 1
+        },
+        {
+          "itemId": 4234,
+          "quantity": 3
+        }
+      ],
+      "result_item_id": 3856,
+      "result_quantity": 1,
+      "difficulty_orange": 200,
+      "difficulty_yellow": 225,
+      "difficulty_green": 237,
+      "difficulty_gray": 250,
+      "url": "https://www.wowhead.com/tbc/spell=3500/shadow-crescent-axe",
+      "scraped_at": "2026-02-22 15:50:10"
+    },
+    {
+      "recipe_id": 36134,
+      "name": "Stormforged Axe",
+      "profession": "Blacksmithing",
+      "skill_level": 330,
+      "icon_name": "inv_axe_39",
+      "materials": [
+        {
+          "itemId": 23446,
+          "quantity": 8
+        },
+        {
+          "itemId": 21885,
+          "quantity": 3
+        },
+        {
+          "itemId": 22451,
+          "quantity": 3
+        }
+      ],
+      "result_item_id": 30087,
+      "result_quantity": 1,
+      "difficulty_orange": 330,
+      "difficulty_yellow": 340,
+      "difficulty_green": 350,
+      "difficulty_gray": 360,
+      "url": "https://www.wowhead.com/tbc/spell=36134/stormforged-axe",
+      "scraped_at": "2026-02-22 15:50:18"
+    },
+    {
+      "recipe_id": 36135,
+      "name": "Skyforged Great Axe",
+      "profession": "Blacksmithing",
+      "skill_level": 330,
+      "icon_name": "inv_axe_46",
+      "materials": [
+        {
+          "itemId": 23446,
+          "quantity": 10
+        },
+        {
+          "itemId": 22451,
+          "quantity": 6
+        }
+      ],
+      "result_item_id": 30088,
+      "result_quantity": 1,
+      "difficulty_orange": 330,
+      "difficulty_yellow": 340,
+      "difficulty_green": 350,
+      "difficulty_gray": 360,
+      "url": "https://www.wowhead.com/tbc/spell=36135/skyforged-great-axe",
+      "scraped_at": "2026-02-22 15:50:26"
+    },
+    {
+      "recipe_id": 36136,
+      "name": "Lavaforged Warhammer",
+      "profession": "Blacksmithing",
+      "skill_level": 330,
+      "icon_name": "inv_hammer_17",
+      "materials": [
+        {
+          "itemId": 23446,
+          "quantity": 8
+        },
+        {
+          "itemId": 21884,
+          "quantity": 6
+        }
+      ],
+      "result_item_id": 30089,
+      "result_quantity": 1,
+      "difficulty_orange": 330,
+      "difficulty_yellow": 340,
+      "difficulty_green": 350,
+      "difficulty_gray": 360,
+      "url": "https://www.wowhead.com/tbc/spell=36136/lavaforged-warhammer",
+      "scraped_at": "2026-02-22 15:50:34"
+    },
+    {
+      "recipe_id": 38478,
+      "name": "Iceguard Leggings",
+      "profession": "Blacksmithing",
+      "skill_level": 375,
+      "icon_name": "inv_pants_plate_10",
+      "materials": [
+        {
+          "itemId": 23449,
+          "quantity": 8
+        },
+        {
+          "itemId": 21885,
+          "quantity": 12
+        },
+        {
+          "itemId": 21884,
+          "quantity": 12
+        },
+        {
+          "itemId": 23572,
+          "quantity": 1
+        }
+      ],
+      "result_item_id": 31370,
+      "result_quantity": 1,
+      "difficulty_orange": 375,
+      "difficulty_yellow": 385,
+      "difficulty_green": 395,
+      "difficulty_gray": 405,
+      "url": "https://www.wowhead.com/tbc/spell=38478/iceguard-leggings",
+      "scraped_at": "2026-02-22 15:50:41"
+    },
+    {
+      "recipe_id": 38479,
+      "name": "Iceguard Helm",
+      "profession": "Blacksmithing",
+      "skill_level": 375,
+      "icon_name": "inv_helmet_06",
+      "materials": [
+        {
+          "itemId": 23449,
+          "quantity": 8
+        },
+        {
+          "itemId": 21885,
+          "quantity": 12
+        },
+        {
+          "itemId": 21884,
+          "quantity": 12
+        },
+        {
+          "itemId": 23572,
+          "quantity": 1
+        }
+      ],
+      "result_item_id": 31371,
+      "result_quantity": 1,
+      "difficulty_orange": 375,
+      "difficulty_yellow": 385,
+      "difficulty_green": 395,
+      "difficulty_gray": 405,
+      "url": "https://www.wowhead.com/tbc/spell=38479/iceguard-helm",
+      "scraped_at": "2026-02-22 15:50:50"
+    },
+    {
+      "recipe_id": 40033,
+      "name": "Shadesteel Sabots",
+      "profession": "Blacksmithing",
+      "skill_level": 375,
+      "icon_name": "inv_boots_chain_08",
+      "materials": [
+        {
+          "itemId": 32428,
+          "quantity": 2
+        },
+        {
+          "itemId": 22450,
+          "quantity": 1
+        },
+        {
+          "itemId": 21886,
+          "quantity": 2
+        },
+        {
+          "itemId": 22456,
+          "quantity": 4
+        },
+        {
+          "itemId": 23446,
+          "quantity": 4
+        }
+      ],
+      "result_item_id": 32402,
+      "result_quantity": 1,
+      "difficulty_orange": 375,
+      "difficulty_yellow": 385,
+      "difficulty_green": 395,
+      "difficulty_gray": 405,
+      "url": "https://www.wowhead.com/tbc/spell=40033/shadesteel-sabots",
+      "scraped_at": "2026-02-22 15:50:58"
+    },
+    {
+      "recipe_id": 40034,
+      "name": "Shadesteel Bracers",
+      "profession": "Blacksmithing",
+      "skill_level": 375,
+      "icon_name": "inv_bracer_13",
+      "materials": [
+        {
+          "itemId": 32428,
+          "quantity": 1
+        },
+        {
+          "itemId": 22450,
+          "quantity": 1
+        },
+        {
+          "itemId": 21886,
+          "quantity": 2
+        },
+        {
+          "itemId": 22456,
+          "quantity": 2
+        },
+        {
+          "itemId": 23446,
+          "quantity": 4
+        }
+      ],
+      "result_item_id": 32403,
+      "result_quantity": 1,
+      "difficulty_orange": 375,
+      "difficulty_yellow": 385,
+      "difficulty_green": 395,
+      "difficulty_gray": 405,
+      "url": "https://www.wowhead.com/tbc/spell=40034/shadesteel-bracers",
+      "scraped_at": "2026-02-22 15:51:05"
+    },
+    {
+      "recipe_id": 40035,
+      "name": "Shadesteel Greaves",
+      "profession": "Blacksmithing",
+      "skill_level": 375,
+      "icon_name": "inv_pants_plate_21",
+      "materials": [
+        {
+          "itemId": 32428,
+          "quantity": 3
+        },
+        {
+          "itemId": 22450,
+          "quantity": 1
+        },
+        {
+          "itemId": 21886,
+          "quantity": 4
+        },
+        {
+          "itemId": 22456,
+          "quantity": 6
+        },
+        {
+          "itemId": 23446,
+          "quantity": 12
+        }
+      ],
+      "result_item_id": 32404,
+      "result_quantity": 1,
+      "difficulty_orange": 375,
+      "difficulty_yellow": 385,
+      "difficulty_green": 395,
+      "difficulty_gray": 405,
+      "url": "https://www.wowhead.com/tbc/spell=40035/shadesteel-greaves",
+      "scraped_at": "2026-02-22 15:51:16"
+    },
+    {
+      "recipe_id": 9987,
+      "name": "Bronze Battle Axe",
+      "profession": "Blacksmithing",
+      "skill_level": 135,
+      "icon_name": "inv_axe_21",
+      "materials": [
+        {
+          "itemId": 2841,
+          "quantity": 14
+        },
+        {
+          "itemId": 3466,
+          "quantity": 1
+        },
+        {
+          "itemId": 2319,
+          "quantity": 2
+        }
+      ],
+      "result_item_id": 7958,
+      "result_quantity": 1,
+      "difficulty_orange": 135,
+      "difficulty_yellow": 165,
+      "difficulty_green": 180,
+      "difficulty_gray": 195,
+      "url": "https://www.wowhead.com/tbc/spell=9987/bronze-battle-axe",
+      "scraped_at": "2026-02-22 15:51:24"
+    },
+    {
+      "recipe_id": 9993,
+      "name": "Heavy Mithril Axe",
+      "profession": "Blacksmithing",
+      "skill_level": 210,
+      "icon_name": "inv_axe_14",
+      "materials": [
+        {
+          "itemId": 3860,
+          "quantity": 12
+        },
+        {
+          "itemId": 3864,
+          "quantity": 2
+        },
+        {
+          "itemId": 7966,
+          "quantity": 1
+        },
+        {
+          "itemId": 4234,
+          "quantity": 4
+        }
+      ],
+      "result_item_id": 7941,
+      "result_quantity": 1,
+      "difficulty_orange": 210,
+      "difficulty_yellow": 235,
+      "difficulty_green": 247,
+      "difficulty_gray": 260,
+      "url": "https://www.wowhead.com/tbc/spell=9993/heavy-mithril-axe",
+      "scraped_at": "2026-02-22 15:51:31"
+    },
+    {
+      "recipe_id": 9995,
+      "name": "Blue Glittering Axe",
+      "profession": "Blacksmithing",
+      "skill_level": 220,
+      "icon_name": "inv_axe_03",
+      "materials": [
+        {
+          "itemId": 3860,
+          "quantity": 16
+        },
+        {
+          "itemId": 7909,
+          "quantity": 2
+        },
+        {
+          "itemId": 7966,
+          "quantity": 1
+        },
+        {
+          "itemId": 4304,
+          "quantity": 4
+        }
+      ],
+      "result_item_id": 7942,
+      "result_quantity": 1,
+      "difficulty_orange": 220,
+      "difficulty_yellow": 245,
+      "difficulty_green": 257,
+      "difficulty_gray": 270,
+      "url": "https://www.wowhead.com/tbc/spell=9995/blue-glittering-axe",
+      "scraped_at": "2026-02-22 15:51:38"
+    },
+    {
+      "recipe_id": 9997,
+      "name": "Wicked Mithril Blade",
+      "profession": "Blacksmithing",
+      "skill_level": 225,
+      "icon_name": "inv_sword_10",
+      "materials": [
+        {
+          "itemId": 3860,
+          "quantity": 14
+        },
+        {
+          "itemId": 6037,
+          "quantity": 4
+        },
+        {
+          "itemId": 7966,
+          "quantity": 1
+        },
+        {
+          "itemId": 4304,
+          "quantity": 2
+        }
+      ],
+      "result_item_id": 7943,
+      "result_quantity": 1,
+      "difficulty_orange": 225,
+      "difficulty_yellow": 250,
+      "difficulty_green": 262,
+      "difficulty_gray": 275,
+      "url": "https://www.wowhead.com/tbc/spell=9997/wicked-mithril-blade",
+      "scraped_at": "2026-02-22 15:51:46"
+    },
+    {
+      "recipe_id": 10482,
+      "name": "Cured Thick Hide",
+      "profession": "Leatherworking",
+      "skill_level": 200,
+      "icon_name": "inv_misc_pelt_bear_01",
+      "materials": [
+        {
+          "itemId": 8169,
+          "quantity": 1
+        },
+        {
+          "itemId": 8150,
+          "quantity": 1
+        }
+      ],
+      "result_item_id": 8172,
+      "result_quantity": 1,
+      "difficulty_orange": 200,
+      "difficulty_yellow": 200,
+      "difficulty_green": 200,
+      "difficulty_gray": 200,
+      "url": "https://www.wowhead.com/tbc/spell=10482/cured-thick-hide",
+      "scraped_at": "2026-02-22 15:52:00"
+    },
+    {
+      "recipe_id": 10487,
+      "name": "Thick Armor Kit",
+      "profession": "Leatherworking",
+      "skill_level": 200,
+      "icon_name": "inv_misc_armorkit_07",
+      "materials": [
+        {
+          "itemId": 4304,
+          "quantity": 5
+        },
+        {
+          "itemId": 4291,
+          "quantity": 1
+        }
+      ],
+      "result_item_id": 8173,
+      "result_quantity": 1,
+      "difficulty_orange": 200,
+      "difficulty_yellow": 220,
+      "difficulty_green": 230,
+      "difficulty_gray": 240,
+      "url": "https://www.wowhead.com/tbc/spell=10487/thick-armor-kit",
+      "scraped_at": "2026-02-22 15:52:07"
+    },
+    {
+      "recipe_id": 10570,
+      "name": "Tough Scorpid Helm",
+      "profession": "Leatherworking",
+      "skill_level": 250,
+      "icon_name": "inv_helmet_20",
+      "materials": [
+        {
+          "itemId": 4304,
+          "quantity": 10
+        },
+        {
+          "itemId": 8154,
+          "quantity": 20
+        },
+        {
+          "itemId": 8343,
+          "quantity": 2
+        }
+      ],
+      "result_item_id": 8208,
+      "result_quantity": 1,
+      "difficulty_orange": 250,
+      "difficulty_yellow": 270,
+      "difficulty_green": 280,
+      "difficulty_gray": 290,
+      "url": "https://www.wowhead.com/tbc/spell=10570/tough-scorpid-helm",
+      "scraped_at": "2026-02-22 15:52:14"
+    },
+    {
+      "recipe_id": 10572,
+      "name": "Wild Leather Leggings",
+      "profession": "Leatherworking",
+      "skill_level": 250,
+      "icon_name": "inv_pants_14",
+      "materials": [
+        {
+          "itemId": 4304,
+          "quantity": 16
+        },
+        {
+          "itemId": 8153,
+          "quantity": 6
+        },
+        {
+          "itemId": 8172,
+          "quantity": 2
+        }
+      ],
+      "result_item_id": 8212,
+      "result_quantity": 1,
+      "difficulty_orange": 250,
+      "difficulty_yellow": 270,
+      "difficulty_green": 280,
+      "difficulty_gray": 290,
+      "url": "https://www.wowhead.com/tbc/spell=10572/wild-leather-leggings",
+      "scraped_at": "2026-02-22 15:52:22"
+    },
+    {
+      "recipe_id": 10574,
+      "name": "Wild Leather Cloak",
+      "profession": "Leatherworking",
+      "skill_level": 250,
+      "icon_name": "inv_misc_cape_03",
+      "materials": [
+        {
+          "itemId": 4304,
+          "quantity": 16
+        },
+        {
+          "itemId": 8153,
+          "quantity": 6
+        },
+        {
+          "itemId": 8172,
+          "quantity": 2
+        }
+      ],
+      "result_item_id": 8215,
+      "result_quantity": 1,
+      "difficulty_orange": 250,
+      "difficulty_yellow": 270,
+      "difficulty_green": 280,
+      "difficulty_gray": 290,
+      "url": "https://www.wowhead.com/tbc/spell=10574/wild-leather-cloak",
+      "scraped_at": "2026-02-22 15:52:29"
+    },
+    {
+      "recipe_id": 19062,
+      "name": "Ironfeather Shoulders",
+      "profession": "Leatherworking",
+      "skill_level": 270,
+      "icon_name": "inv_shoulder_06",
+      "materials": [
+        {
+          "itemId": 8170,
+          "quantity": 24
+        },
+        {
+          "itemId": 15420,
+          "quantity": 80
+        },
+        {
+          "itemId": 1529,
+          "quantity": 2
+        },
+        {
+          "itemId": 14341,
+          "quantity": 1
+        }
+      ],
+      "result_item_id": 15067,
+      "result_quantity": 1,
+      "difficulty_orange": 270,
+      "difficulty_yellow": 290,
+      "difficulty_green": 300,
+      "difficulty_gray": 310,
+      "url": "https://www.wowhead.com/tbc/spell=19062/ironfeather-shoulders",
+      "scraped_at": "2026-02-22 15:52:37"
+    },
+    {
+      "recipe_id": 19063,
+      "name": "Chimeric Boots",
+      "profession": "Leatherworking",
+      "skill_level": 275,
+      "icon_name": "inv_boots_07",
+      "materials": [
+        {
+          "itemId": 8170,
+          "quantity": 4
+        },
+        {
+          "itemId": 15423,
+          "quantity": 8
+        },
+        {
+          "itemId": 14341,
+          "quantity": 1
+        }
+      ],
+      "result_item_id": 15073,
+      "result_quantity": 1,
+      "difficulty_orange": 275,
+      "difficulty_yellow": 295,
+      "difficulty_green": 305,
+      "difficulty_gray": 315,
+      "url": "https://www.wowhead.com/tbc/spell=19063/chimeric-boots",
+      "scraped_at": "2026-02-22 15:52:44"
+    },
+    {
+      "recipe_id": 19064,
+      "name": "Heavy Scorpid Gauntlets",
+      "profession": "Leatherworking",
+      "skill_level": 275,
+      "icon_name": "inv_gauntlets_24",
+      "materials": [
+        {
+          "itemId": 8170,
+          "quantity": 6
+        },
+        {
+          "itemId": 15408,
+          "quantity": 8
+        },
+        {
+          "itemId": 14341,
+          "quantity": 1
+        }
+      ],
+      "result_item_id": 15078,
+      "result_quantity": 1,
+      "difficulty_orange": 275,
+      "difficulty_yellow": 295,
+      "difficulty_green": 305,
+      "difficulty_gray": 315,
+      "url": "https://www.wowhead.com/tbc/spell=19064/heavy-scorpid-gauntlets",
+      "scraped_at": "2026-02-22 15:52:51"
+    },
+    {
+      "recipe_id": 19065,
+      "name": "Runic Leather Bracers",
+      "profession": "Leatherworking",
+      "skill_level": 275,
+      "icon_name": "inv_bracer_11",
+      "materials": [
+        {
+          "itemId": 8170,
+          "quantity": 6
+        },
+        {
+          "itemId": 7971,
+          "quantity": 1
+        },
+        {
+          "itemId": 14047,
+          "quantity": 6
+        },
+        {
+          "itemId": 14341,
+          "quantity": 1
+        }
+      ],
+      "result_item_id": 15092,
+      "result_quantity": 1,
+      "difficulty_orange": 275,
+      "difficulty_yellow": 295,
+      "difficulty_green": 305,
+      "difficulty_gray": 315,
+      "url": "https://www.wowhead.com/tbc/spell=19065/runic-leather-bracers",
+      "scraped_at": "2026-02-22 15:52:59"
+    },
+    {
+      "recipe_id": 19066,
+      "name": "Frostsaber Boots",
+      "profession": "Leatherworking",
+      "skill_level": 275,
+      "icon_name": "inv_boots_05",
+      "materials": [
+        {
+          "itemId": 8170,
+          "quantity": 4
+        },
+        {
+          "itemId": 15422,
+          "quantity": 6
+        },
+        {
+          "itemId": 14341,
+          "quantity": 1
+        }
+      ],
+      "result_item_id": 15071,
+      "result_quantity": 1,
+      "difficulty_orange": 275,
+      "difficulty_yellow": 295,
+      "difficulty_green": 305,
+      "difficulty_gray": 315,
+      "url": "https://www.wowhead.com/tbc/spell=19066/frostsaber-boots",
+      "scraped_at": "2026-02-22 15:53:06"
+    },
+    {
+      "recipe_id": 19067,
+      "name": "Stormshroud Pants",
+      "profession": "Leatherworking",
+      "skill_level": 275,
+      "icon_name": "inv_pants_09",
+      "materials": [
+        {
+          "itemId": 8170,
+          "quantity": 16
+        },
+        {
+          "itemId": 7080,
+          "quantity": 2
+        },
+        {
+          "itemId": 7082,
+          "quantity": 2
+        },
+        {
+          "itemId": 14341,
+          "quantity": 1
+        }
+      ],
+      "result_item_id": 21278,
+      "result_quantity": 1,
+      "difficulty_orange": 275,
+      "difficulty_yellow": 295,
+      "difficulty_green": 305,
+      "difficulty_gray": 315,
+      "url": "https://www.wowhead.com/tbc/spell=19067/stormshroud-pants",
+      "scraped_at": "2026-02-22 15:53:13"
+    },
+    {
+      "recipe_id": 19068,
+      "name": "Warbear Harness",
+      "profession": "Leatherworking",
+      "skill_level": 275,
+      "icon_name": "inv_chest_leather_04",
+      "materials": [
+        {
+          "itemId": 8170,
+          "quantity": 28
+        },
+        {
+          "itemId": 15419,
+          "quantity": 12
+        },
+        {
+          "itemId": 14341,
+          "quantity": 1
+        }
+      ],
+      "result_item_id": 15064,
+      "result_quantity": 1,
+      "difficulty_orange": 275,
+      "difficulty_yellow": 295,
+      "difficulty_green": 305,
+      "difficulty_gray": 315,
+      "url": "https://www.wowhead.com/tbc/spell=19068/warbear-harness",
+      "scraped_at": "2026-02-22 15:53:21"
+    },
+    {
+      "recipe_id": 19070,
+      "name": "Heavy Scorpid Belt",
+      "profession": "Leatherworking",
+      "skill_level": 280,
+      "icon_name": "inv_belt_03",
+      "materials": [
+        {
+          "itemId": 8170,
+          "quantity": 6
+        },
+        {
+          "itemId": 15408,
+          "quantity": 8
+        },
+        {
+          "itemId": 14341,
+          "quantity": 1
+        }
+      ],
+      "result_item_id": 15082,
+      "result_quantity": 1,
+      "difficulty_orange": 280,
+      "difficulty_yellow": 300,
+      "difficulty_green": 310,
+      "difficulty_gray": 320,
+      "url": "https://www.wowhead.com/tbc/spell=19070/heavy-scorpid-belt",
+      "scraped_at": "2026-02-22 15:53:28"
+    },
+    {
+      "recipe_id": 2161,
+      "name": "Embossed Leather Boots",
+      "profession": "Leatherworking",
+      "skill_level": 55,
+      "icon_name": "inv_boots_05",
+      "materials": [
+        {
+          "itemId": 2318,
+          "quantity": 8
+        },
+        {
+          "itemId": 2320,
+          "quantity": 5
+        }
+      ],
+      "result_item_id": 2309,
+      "result_quantity": 1,
+      "difficulty_orange": 55,
+      "difficulty_yellow": 85,
+      "difficulty_green": 100,
+      "difficulty_gray": 115,
+      "url": "https://www.wowhead.com/tbc/spell=2161/embossed-leather-boots",
+      "scraped_at": "2026-02-22 15:53:36"
+    },
+    {
+      "recipe_id": 22331,
+      "name": "Rugged Leather",
+      "profession": "Leatherworking",
+      "skill_level": 250,
+      "icon_name": "inv_misc_leatherscrap_02",
+      "materials": [
+        {
+          "itemId": 4304,
+          "quantity": 6
+        }
+      ],
+      "result_item_id": 8170,
+      "result_quantity": 1,
+      "difficulty_orange": 250,
+      "difficulty_yellow": 250,
+      "difficulty_green": 250,
+      "difficulty_gray": 250,
+      "url": "https://www.wowhead.com/tbc/spell=22331/rugged-leather",
+      "scraped_at": "2026-02-22 15:53:43"
+    },
+    {
+      "recipe_id": 22711,
+      "name": "Shadowskin Gloves",
+      "profession": "Leatherworking",
+      "skill_level": 200,
+      "icon_name": "inv_gauntlets_32",
+      "materials": [
+        {
+          "itemId": 4304,
+          "quantity": 6
+        },
+        {
+          "itemId": 7428,
+          "quantity": 8
+        },
+        {
+          "itemId": 7971,
+          "quantity": 2
+        },
+        {
+          "itemId": 4236,
+          "quantity": 2
+        },
+        {
+          "itemId": 1210,
+          "quantity": 4
+        },
+        {
+          "itemId": 8343,
+          "quantity": 1
+        }
+      ],
+      "result_item_id": 18238,
+      "result_quantity": 1,
+      "difficulty_orange": 200,
+      "difficulty_yellow": 210,
+      "difficulty_green": 220,
+      "difficulty_gray": 230,
+      "url": "https://www.wowhead.com/tbc/spell=22711/shadowskin-gloves",
+      "scraped_at": "2026-02-22 15:53:50"
+    },
+    {
+      "recipe_id": 22727,
+      "name": "Core Armor Kit",
+      "profession": "Leatherworking",
+      "skill_level": 300,
+      "icon_name": "inv_misc_armorkit_05",
+      "materials": [
+        {
+          "itemId": 17012,
+          "quantity": 3
+        },
+        {
+          "itemId": 14341,
+          "quantity": 2
+        }
+      ],
+      "result_item_id": 18251,
+      "result_quantity": 1,
+      "difficulty_orange": 300,
+      "difficulty_yellow": 320,
+      "difficulty_green": 330,
+      "difficulty_gray": 340,
+      "url": "https://www.wowhead.com/tbc/spell=22727/core-armor-kit",
+      "scraped_at": "2026-02-22 15:53:57"
+    },
+    {
+      "recipe_id": 22815,
+      "name": "Gordok Ogre Suit",
+      "profession": "Leatherworking",
+      "skill_level": 0,
+      "icon_name": "inv_chest_chain_14",
+      "materials": [
+        {
+          "itemId": 8170,
+          "quantity": 4
+        },
+        {
+          "itemId": 14048,
+          "quantity": 2
+        },
+        {
+          "itemId": 18240,
+          "quantity": 1
+        },
+        {
+          "itemId": 14341,
+          "quantity": 1
+        }
+      ],
+      "result_item_id": 18258,
+      "result_quantity": 1,
+      "difficulty_orange": 0,
+      "difficulty_yellow": 285,
+      "difficulty_green": 290,
+      "difficulty_gray": 295,
+      "url": "https://www.wowhead.com/tbc/spell=22815/gordok-ogre-suit",
+      "scraped_at": "2026-02-22 15:54:08"
+    },
+    {
+      "recipe_id": 22921,
+      "name": "Girdle of Insight",
+      "profession": "Leatherworking",
+      "skill_level": 300,
+      "icon_name": "inv_belt_26",
+      "materials": [
+        {
+          "itemId": 8170,
+          "quantity": 12
+        },
+        {
+          "itemId": 12804,
+          "quantity": 12
+        },
+        {
+          "itemId": 15407,
+          "quantity": 2
+        },
+        {
+          "itemId": 14341,
+          "quantity": 4
+        }
+      ],
+      "result_item_id": 18504,
+      "result_quantity": 1,
+      "difficulty_orange": 300,
+      "difficulty_yellow": 320,
+      "difficulty_green": 330,
+      "difficulty_gray": 340,
+      "url": "https://www.wowhead.com/tbc/spell=22921/girdle-of-insight",
+      "scraped_at": "2026-02-22 15:54:16"
+    },
+    {
+      "recipe_id": 22922,
+      "name": "Mongoose Boots",
+      "profession": "Leatherworking",
+      "skill_level": 300,
+      "icon_name": "inv_boots_08",
+      "materials": [
+        {
+          "itemId": 8170,
+          "quantity": 12
+        },
+        {
+          "itemId": 7082,
+          "quantity": 6
+        },
+        {
+          "itemId": 11754,
+          "quantity": 4
+        },
+        {
+          "itemId": 15407,
+          "quantity": 2
+        },
+        {
+          "itemId": 14341,
+          "quantity": 4
+        }
+      ],
+      "result_item_id": 18506,
+      "result_quantity": 1,
+      "difficulty_orange": 300,
+      "difficulty_yellow": 320,
+      "difficulty_green": 330,
+      "difficulty_gray": 340,
+      "url": "https://www.wowhead.com/tbc/spell=22922/mongoose-boots",
+      "scraped_at": "2026-02-22 15:54:23"
+    },
+    {
+      "recipe_id": 32464,
+      "name": "Felscale Pants",
+      "profession": "Leatherworking",
+      "skill_level": 320,
+      "icon_name": "inv_pants_mail_08",
+      "materials": [
+        {
+          "itemId": 21887,
+          "quantity": 10
+        },
+        {
+          "itemId": 25700,
+          "quantity": 3
+        },
+        {
+          "itemId": 14341,
+          "quantity": 3
+        }
+      ],
+      "result_item_id": 25654,
+      "result_quantity": 1,
+      "difficulty_orange": 320,
+      "difficulty_yellow": 330,
+      "difficulty_green": 340,
+      "difficulty_gray": 350,
+      "url": "https://www.wowhead.com/tbc/spell=32464/felscale-pants",
+      "scraped_at": "2026-02-22 15:54:30"
+    },
+    {
+      "recipe_id": 32465,
+      "name": "Felscale Breastplate",
+      "profession": "Leatherworking",
+      "skill_level": 335,
+      "icon_name": "inv_chest_chain_13",
+      "materials": [
+        {
+          "itemId": 21887,
+          "quantity": 14
+        },
+        {
+          "itemId": 25700,
+          "quantity": 3
+        },
+        {
+          "itemId": 14341,
+          "quantity": 3
+        }
+      ],
+      "result_item_id": 25654,
+      "result_quantity": 1,
+      "difficulty_orange": 335,
+      "difficulty_yellow": 345,
+      "difficulty_green": 355,
+      "difficulty_gray": 365,
+      "url": "https://www.wowhead.com/tbc/spell=32465/felscale-breastplate",
+      "scraped_at": "2026-02-22 15:54:38"
+    },
+    {
+      "recipe_id": 32466,
+      "name": "Scaled Draenic Pants",
+      "profession": "Leatherworking",
+      "skill_level": 300,
+      "icon_name": "inv_pants_mail_07",
+      "materials": [
+        {
+          "itemId": 21887,
+          "quantity": 6
+        },
+        {
+          "itemId": 25700,
+          "quantity": 3
+        },
+        {
+          "itemId": 14341,
+          "quantity": 2
+        }
+      ],
+      "result_item_id": 25660,
+      "result_quantity": 1,
+      "difficulty_orange": 300,
+      "difficulty_yellow": 310,
+      "difficulty_green": 320,
+      "difficulty_gray": 330,
+      "url": "https://www.wowhead.com/tbc/spell=32466/scaled-draenic-pants",
+      "scraped_at": "2026-02-22 15:54:45"
+    },
+    {
+      "recipe_id": 32467,
+      "name": "Scaled Draenic Gloves",
+      "profession": "Leatherworking",
+      "skill_level": 310,
+      "icon_name": "inv_gauntlets_04",
+      "materials": [
+        {
+          "itemId": 21887,
+          "quantity": 8
+        },
+        {
+          "itemId": 25700,
+          "quantity": 1
+        },
+        {
+          "itemId": 14341,
+          "quantity": 2
+        }
+      ],
+      "result_item_id": 25660,
+      "result_quantity": 1,
+      "difficulty_orange": 310,
+      "difficulty_yellow": 320,
+      "difficulty_green": 330,
+      "difficulty_gray": 340,
+      "url": "https://www.wowhead.com/tbc/spell=32467/scaled-draenic-gloves",
+      "scraped_at": "2026-02-22 15:54:53"
+    },
+    {
+      "recipe_id": 32468,
+      "name": "Scaled Draenic Vest",
+      "profession": "Leatherworking",
+      "skill_level": 325,
+      "icon_name": "inv_chest_chain_16",
+      "materials": [
+        {
+          "itemId": 21887,
+          "quantity": 12
+        },
+        {
+          "itemId": 25700,
+          "quantity": 3
+        },
+        {
+          "itemId": 14341,
+          "quantity": 3
+        }
+      ],
+      "result_item_id": 25660,
+      "result_quantity": 1,
+      "difficulty_orange": 325,
+      "difficulty_yellow": 335,
+      "difficulty_green": 345,
+      "difficulty_gray": 355,
+      "url": "https://www.wowhead.com/tbc/spell=32468/scaled-draenic-vest",
+      "scraped_at": "2026-02-22 15:55:00"
+    },
+    {
+      "recipe_id": 32469,
+      "name": "Scaled Draenic Boots",
+      "profession": "Leatherworking",
+      "skill_level": 335,
+      "icon_name": "inv_boots_chain_01",
+      "materials": [
+        {
+          "itemId": 21887,
+          "quantity": 12
+        },
+        {
+          "itemId": 25700,
+          "quantity": 2
+        },
+        {
+          "itemId": 14341,
+          "quantity": 3
+        }
+      ],
+      "result_item_id": 25660,
+      "result_quantity": 1,
+      "difficulty_orange": 335,
+      "difficulty_yellow": 345,
+      "difficulty_green": 355,
+      "difficulty_gray": 365,
+      "url": "https://www.wowhead.com/tbc/spell=32469/scaled-draenic-boots",
+      "scraped_at": "2026-02-22 15:55:08"
+    },
+    {
+      "recipe_id": 32470,
+      "name": "Thick Draenic Gloves",
+      "profession": "Leatherworking",
+      "skill_level": 300,
+      "icon_name": "inv_gauntlets_04",
+      "materials": [
+        {
+          "itemId": 21887,
+          "quantity": 6
+        },
+        {
+          "itemId": 14341,
+          "quantity": 2
+        }
+      ],
+      "result_item_id": 25671,
+      "result_quantity": 1,
+      "difficulty_orange": 300,
+      "difficulty_yellow": 310,
+      "difficulty_green": 320,
+      "difficulty_gray": 330,
+      "url": "https://www.wowhead.com/tbc/spell=32470/thick-draenic-gloves",
+      "scraped_at": "2026-02-22 15:55:15"
+    },
+    {
+      "recipe_id": 32471,
+      "name": "Thick Draenic Pants",
+      "profession": "Leatherworking",
+      "skill_level": 315,
+      "icon_name": "inv_pants_leather_07",
+      "materials": [
+        {
+          "itemId": 21887,
+          "quantity": 10
+        },
+        {
+          "itemId": 14341,
+          "quantity": 2
+        }
+      ],
+      "result_item_id": 25671,
+      "result_quantity": 1,
+      "difficulty_orange": 315,
+      "difficulty_yellow": 325,
+      "difficulty_green": 335,
+      "difficulty_gray": 345,
+      "url": "https://www.wowhead.com/tbc/spell=32471/thick-draenic-pants",
+      "scraped_at": "2026-02-22 15:55:22"
+    },
+    {
+      "recipe_id": 35528,
+      "name": "Flamescale Boots",
+      "profession": "Leatherworking",
+      "skill_level": 350,
+      "icon_name": "inv_boots_chain_07",
+      "materials": [
+        {
+          "itemId": 23793,
+          "quantity": 4
+        },
+        {
+          "itemId": 25699,
+          "quantity": 8
+        },
+        {
+          "itemId": 21884,
+          "quantity": 3
+        },
+        {
+          "itemId": 21885,
+          "quantity": 3
+        }
+      ],
+      "result_item_id": 29493,
+      "result_quantity": 1,
+      "difficulty_orange": 350,
+      "difficulty_yellow": 360,
+      "difficulty_green": 370,
+      "difficulty_gray": 380,
+      "url": "https://www.wowhead.com/tbc/spell=35528/flamescale-boots",
+      "scraped_at": "2026-02-22 15:55:34"
+    },
+    {
+      "recipe_id": 35539,
+      "name": "Drums of Restoration",
+      "profession": "Leatherworking",
+      "skill_level": 350,
+      "icon_name": "inv_misc_drum_07",
+      "materials": [
+        {
+          "itemId": 23793,
+          "quantity": 6
+        },
+        {
+          "itemId": 29548,
+          "quantity": 4
+        }
+      ],
+      "result_item_id": 29531,
+      "result_quantity": 1,
+      "difficulty_orange": 350,
+      "difficulty_yellow": 350,
+      "difficulty_green": 357,
+      "difficulty_gray": 365,
+      "url": "https://www.wowhead.com/tbc/spell=35539/drums-of-restoration",
+      "scraped_at": "2026-02-22 15:55:41"
+    },
+    {
+      "recipe_id": 35540,
+      "name": "Drums of War",
+      "profession": "Leatherworking",
+      "skill_level": 340,
+      "icon_name": "inv_misc_drum_03",
+      "materials": [
+        {
+          "itemId": 23793,
+          "quantity": 3
+        },
+        {
+          "itemId": 25700,
+          "quantity": 3
+        }
+      ],
+      "result_item_id": 29528,
+      "result_quantity": 1,
+      "difficulty_orange": 340,
+      "difficulty_yellow": 340,
+      "difficulty_green": 347,
+      "difficulty_gray": 355,
+      "url": "https://www.wowhead.com/tbc/spell=35540/drums-of-war",
+      "scraped_at": "2026-02-22 15:55:49"
+    },
+    {
+      "recipe_id": 35543,
+      "name": "Drums of Battle",
+      "profession": "Leatherworking",
+      "skill_level": 365,
+      "icon_name": "inv_misc_drum_02",
+      "materials": [
+        {
+          "itemId": 23793,
+          "quantity": 6
+        },
+        {
+          "itemId": 25708,
+          "quantity": 4
+        }
+      ],
+      "result_item_id": 29529,
+      "result_quantity": 1,
+      "difficulty_orange": 365,
+      "difficulty_yellow": 365,
+      "difficulty_green": 372,
+      "difficulty_gray": 380,
+      "url": "https://www.wowhead.com/tbc/spell=35543/drums-of-battle",
+      "scraped_at": "2026-02-22 15:55:56"
+    },
+    {
+      "recipe_id": 35544,
+      "name": "Drums of Speed",
+      "profession": "Leatherworking",
+      "skill_level": 345,
+      "icon_name": "inv_misc_drum_04",
+      "materials": [
+        {
+          "itemId": 23793,
+          "quantity": 6
+        },
+        {
+          "itemId": 29547,
+          "quantity": 4
+        }
+      ],
+      "result_item_id": 29530,
+      "result_quantity": 1,
+      "difficulty_orange": 345,
+      "difficulty_yellow": 345,
+      "difficulty_green": 352,
+      "difficulty_gray": 360,
+      "url": "https://www.wowhead.com/tbc/spell=35544/drums-of-speed",
+      "scraped_at": "2026-02-22 15:56:03"
+    },
+    {
+      "recipe_id": 35549,
+      "name": "Cobrahide Leg Armor",
+      "profession": "Leatherworking",
+      "skill_level": 335,
+      "icon_name": "inv_misc_armorkit_21",
+      "materials": [
+        {
+          "itemId": 23793,
+          "quantity": 4
+        },
+        {
+          "itemId": 29539,
+          "quantity": 2
+        },
+        {
+          "itemId": 22451,
+          "quantity": 4
+        }
+      ],
+      "result_item_id": 29533,
+      "result_quantity": 1,
+      "difficulty_orange": 335,
+      "difficulty_yellow": 335,
+      "difficulty_green": 345,
+      "difficulty_gray": 355,
+      "url": "https://www.wowhead.com/tbc/spell=35549/cobrahide-leg-armor",
+      "scraped_at": "2026-02-22 15:56:10"
+    },
+    {
+      "recipe_id": 35554,
+      "name": "Nethercobra Leg Armor",
+      "profession": "Leatherworking",
+      "skill_level": 365,
+      "icon_name": "inv_misc_armorkit_25",
+      "materials": [
+        {
+          "itemId": 23793,
+          "quantity": 4
+        },
+        {
+          "itemId": 29539,
+          "quantity": 4
+        },
+        {
+          "itemId": 22451,
+          "quantity": 8
+        },
+        {
+          "itemId": 23572,
+          "quantity": 1
+        }
+      ],
+      "result_item_id": 29535,
+      "result_quantity": 1,
+      "difficulty_orange": 365,
+      "difficulty_yellow": 365,
+      "difficulty_green": 375,
+      "difficulty_gray": 385,
+      "url": "https://www.wowhead.com/tbc/spell=35554/nethercobra-leg-armor",
+      "scraped_at": "2026-02-22 15:56:18"
+    },
+    {
+      "recipe_id": 35555,
+      "name": "Clefthide Leg Armor",
+      "profession": "Leatherworking",
+      "skill_level": 335,
+      "icon_name": "inv_misc_armorkit_23",
+      "materials": [
+        {
+          "itemId": 23793,
+          "quantity": 4
+        },
+        {
+          "itemId": 25708,
+          "quantity": 8
+        },
+        {
+          "itemId": 22452,
+          "quantity": 4
+        }
+      ],
+      "result_item_id": 29534,
+      "result_quantity": 1,
+      "difficulty_orange": 335,
+      "difficulty_yellow": 335,
+      "difficulty_green": 345,
+      "difficulty_gray": 355,
+      "url": "https://www.wowhead.com/tbc/spell=35555/clefthide-leg-armor",
+      "scraped_at": "2026-02-22 15:56:25"
+    },
+    {
+      "recipe_id": 35557,
+      "name": "Nethercleft Leg Armor",
+      "profession": "Leatherworking",
+      "skill_level": 365,
+      "icon_name": "inv_misc_armorkit_25",
+      "materials": [
+        {
+          "itemId": 23793,
+          "quantity": 4
+        },
+        {
+          "itemId": 25708,
+          "quantity": 16
+        },
+        {
+          "itemId": 22452,
+          "quantity": 8
+        },
+        {
+          "itemId": 23572,
+          "quantity": 1
+        }
+      ],
+      "result_item_id": 29536,
+      "result_quantity": 1,
+      "difficulty_orange": 365,
+      "difficulty_yellow": 365,
+      "difficulty_green": 375,
+      "difficulty_gray": 385,
+      "url": "https://www.wowhead.com/tbc/spell=35557/nethercleft-leg-armor",
+      "scraped_at": "2026-02-22 15:56:34"
+    },
+    {
+      "recipe_id": 35558,
+      "name": "Cobrascale Hood",
+      "profession": "Leatherworking",
+      "skill_level": 365,
+      "icon_name": "inv_helmet_38",
+      "materials": [
+        {
+          "itemId": 23793,
+          "quantity": 6
+        },
+        {
+          "itemId": 29539,
+          "quantity": 10
+        },
+        {
+          "itemId": 22451,
+          "quantity": 15
+        },
+        {
+          "itemId": 22456,
+          "quantity": 15
+        },
+        {
+          "itemId": 23572,
+          "quantity": 1
+        }
+      ],
+      "result_item_id": 29502,
+      "result_quantity": 1,
+      "difficulty_orange": 365,
+      "difficulty_yellow": 375,
+      "difficulty_green": 385,
+      "difficulty_gray": 395,
+      "url": "https://www.wowhead.com/tbc/spell=35558/cobrascale-hood",
+      "scraped_at": "2026-02-22 15:56:43"
+    },
+    {
+      "recipe_id": 3777,
+      "name": "Guardian Leather Bracers",
+      "profession": "Leatherworking",
+      "skill_level": 195,
+      "icon_name": "inv_bracer_10",
+      "materials": [
+        {
+          "itemId": 4234,
+          "quantity": 6
+        },
+        {
+          "itemId": 4236,
+          "quantity": 2
+        },
+        {
+          "itemId": 4291,
+          "quantity": 1
+        }
+      ],
+      "result_item_id": 4260,
+      "result_quantity": 1,
+      "difficulty_orange": 195,
+      "difficulty_yellow": 215,
+      "difficulty_green": 225,
+      "difficulty_gray": 235,
+      "url": "https://www.wowhead.com/tbc/spell=3777/guardian-leather-bracers",
+      "scraped_at": "2026-02-22 15:56:50"
+    },
+    {
+      "recipe_id": 3778,
+      "name": "Gem-studded Leather Belt",
+      "profession": "Leatherworking",
+      "skill_level": 185,
+      "icon_name": "inv_belt_01",
+      "materials": [
+        {
+          "itemId": 4236,
+          "quantity": 4
+        },
+        {
+          "itemId": 5500,
+          "quantity": 2
+        },
+        {
+          "itemId": 1529,
+          "quantity": 2
+        },
+        {
+          "itemId": 3864,
+          "quantity": 1
+        },
+        {
+          "itemId": 2321,
+          "quantity": 1
+        }
+      ],
+      "result_item_id": 4262,
+      "result_quantity": 1,
+      "difficulty_orange": 185,
+      "difficulty_yellow": 205,
+      "difficulty_green": 215,
+      "difficulty_gray": 225,
+      "url": "https://www.wowhead.com/tbc/spell=3778/gem-studded-leather-belt",
+      "scraped_at": "2026-02-22 15:56:57"
+    },
+    {
+      "recipe_id": 3779,
+      "name": "Barbaric Belt",
+      "profession": "Leatherworking",
+      "skill_level": 200,
+      "icon_name": "inv_belt_09",
+      "materials": [
+        {
+          "itemId": 4234,
+          "quantity": 6
+        },
+        {
+          "itemId": 4236,
+          "quantity": 2
+        },
+        {
+          "itemId": 4096,
+          "quantity": 2
+        },
+        {
+          "itemId": 5633,
+          "quantity": 1
+        },
+        {
+          "itemId": 4291,
+          "quantity": 1
+        },
+        {
+          "itemId": 7071,
+          "quantity": 1
+        }
+      ],
+      "result_item_id": 4264,
+      "result_quantity": 1,
+      "difficulty_orange": 200,
+      "difficulty_yellow": 220,
+      "difficulty_green": 230,
+      "difficulty_gray": 240,
+      "url": "https://www.wowhead.com/tbc/spell=3779/barbaric-belt",
+      "scraped_at": "2026-02-22 15:57:04"
+    },
+    {
+      "recipe_id": 3780,
+      "name": "Heavy Armor Kit",
+      "profession": "Leatherworking",
+      "skill_level": 150,
+      "icon_name": "inv_misc_armorkit_16",
+      "materials": [
+        {
+          "itemId": 4234,
+          "quantity": 5
+        },
+        {
+          "itemId": 2321,
+          "quantity": 1
+        }
+      ],
+      "result_item_id": 4265,
+      "result_quantity": 1,
+      "difficulty_orange": 150,
+      "difficulty_yellow": 170,
+      "difficulty_green": 180,
+      "difficulty_gray": 190,
+      "url": "https://www.wowhead.com/tbc/spell=3780/heavy-armor-kit",
+      "scraped_at": "2026-02-22 15:57:12"
+    },
+    {
+      "recipe_id": 3811,
+      "name": "Leatherworking",
+      "profession": "Leatherworking",
+      "skill_level": 125,
+      "icon_name": "inv_misc_armorkit_17",
+      "materials": [],
+      "result_item_id": 0,
+      "result_quantity": 1,
+      "difficulty_orange": 0,
+      "difficulty_yellow": 0,
+      "difficulty_green": 0,
+      "difficulty_gray": 0,
+      "url": "https://www.wowhead.com/tbc/spell=3811/leatherworking",
+      "scraped_at": "2026-02-22 15:57:19"
+    },
+    {
+      "recipe_id": 3816,
+      "name": "Cured Light Hide",
+      "profession": "Leatherworking",
+      "skill_level": 35,
+      "icon_name": "inv_misc_pelt_wolf_01",
+      "materials": [
+        {
+          "itemId": 783,
+          "quantity": 1
+        },
+        {
+          "itemId": 4289,
+          "quantity": 1
+        }
+      ],
+      "result_item_id": 4231,
+      "result_quantity": 1,
+      "difficulty_orange": 35,
+      "difficulty_yellow": 55,
+      "difficulty_green": 65,
+      "difficulty_gray": 75,
+      "url": "https://www.wowhead.com/tbc/spell=3816/cured-light-hide",
+      "scraped_at": "2026-02-22 15:57:27"
+    },
+    {
+      "recipe_id": 3817,
+      "name": "Cured Medium Hide",
+      "profession": "Leatherworking",
+      "skill_level": 100,
+      "icon_name": "inv_misc_pelt_bear_02",
+      "materials": [
+        {
+          "itemId": 4232,
+          "quantity": 1
+        },
+        {
+          "itemId": 4289,
+          "quantity": 1
+        }
+      ],
+      "result_item_id": 4233,
+      "result_quantity": 1,
+      "difficulty_orange": 100,
+      "difficulty_yellow": 115,
+      "difficulty_green": 122,
+      "difficulty_gray": 130,
+      "url": "https://www.wowhead.com/tbc/spell=3817/cured-medium-hide",
+      "scraped_at": "2026-02-22 15:57:35"
+    },
+    {
+      "recipe_id": 3818,
+      "name": "Cured Heavy Hide",
+      "profession": "Leatherworking",
+      "skill_level": 150,
+      "icon_name": "inv_misc_pelt_wolf_02",
+      "materials": [
+        {
+          "itemId": 4235,
+          "quantity": 1
+        },
+        {
+          "itemId": 4289,
+          "quantity": 3
+        }
+      ],
+      "result_item_id": 4236,
+      "result_quantity": 1,
+      "difficulty_orange": 150,
+      "difficulty_yellow": 160,
+      "difficulty_green": 165,
+      "difficulty_gray": 170,
+      "url": "https://www.wowhead.com/tbc/spell=3818/cured-heavy-hide",
+      "scraped_at": "2026-02-22 15:57:43"
+    },
+    {
+      "recipe_id": 39997,
+      "name": "Boots of Shackled Souls",
+      "profession": "Leatherworking",
+      "skill_level": 375,
+      "icon_name": "inv_boots_chain_08",
+      "materials": [
+        {
+          "itemId": 32428,
+          "quantity": 2
+        },
+        {
+          "itemId": 22450,
+          "quantity": 1
+        },
+        {
+          "itemId": 21886,
+          "quantity": 2
+        },
+        {
+          "itemId": 22456,
+          "quantity": 4
+        },
+        {
+          "itemId": 25700,
+          "quantity": 4
+        }
+      ],
+      "result_item_id": 32398,
+      "result_quantity": 1,
+      "difficulty_orange": 375,
+      "difficulty_yellow": 385,
+      "difficulty_green": 395,
+      "difficulty_gray": 405,
+      "url": "https://www.wowhead.com/tbc/spell=39997/boots-of-shackled-souls",
+      "scraped_at": "2026-02-22 15:57:50"
+    },
+    {
+      "recipe_id": 9058,
+      "name": "Handstitched Leather Cloak",
+      "profession": "Leatherworking",
+      "skill_level": 1,
+      "icon_name": "inv_helmet_48",
+      "materials": [
+        {
+          "itemId": 2318,
+          "quantity": 2
+        },
+        {
+          "itemId": 2320,
+          "quantity": 1
+        }
+      ],
+      "result_item_id": 7276,
+      "result_quantity": 1,
+      "difficulty_orange": 1,
+      "difficulty_yellow": 40,
+      "difficulty_green": 55,
+      "difficulty_gray": 70,
+      "url": "https://www.wowhead.com/tbc/spell=9058/handstitched-leather-cloak",
+      "scraped_at": "2026-02-22 15:57:57"
+    },
+    {
+      "recipe_id": 9059,
+      "name": "Handstitched Leather Bracers",
+      "profession": "Leatherworking",
+      "skill_level": 1,
+      "icon_name": "inv_bracer_08",
+      "materials": [
+        {
+          "itemId": 2318,
+          "quantity": 2
+        },
+        {
+          "itemId": 2320,
+          "quantity": 3
+        }
+      ],
+      "result_item_id": 7277,
+      "result_quantity": 1,
+      "difficulty_orange": 1,
+      "difficulty_yellow": 40,
+      "difficulty_green": 55,
+      "difficulty_gray": 70,
+      "url": "https://www.wowhead.com/tbc/spell=9059/handstitched-leather-bracers",
+      "scraped_at": "2026-02-22 15:58:05"
+    },
+    {
+      "recipe_id": 9060,
+      "name": "Light Leather Quiver",
+      "profession": "Leatherworking",
+      "skill_level": 30,
+      "icon_name": "inv_misc_quiver_01",
+      "materials": [
+        {
+          "itemId": 2318,
+          "quantity": 4
+        },
+        {
+          "itemId": 2320,
+          "quantity": 2
+        }
+      ],
+      "result_item_id": 7278,
+      "result_quantity": 1,
+      "difficulty_orange": 30,
+      "difficulty_yellow": 60,
+      "difficulty_green": 75,
+      "difficulty_gray": 90,
+      "url": "https://www.wowhead.com/tbc/spell=9060/light-leather-quiver",
+      "scraped_at": "2026-02-22 15:58:12"
+    },
+    {
+      "recipe_id": 9062,
+      "name": "Small Leather Ammo Pouch",
+      "profession": "Leatherworking",
+      "skill_level": 30,
+      "icon_name": "inv_misc_ammo_bullet_01",
+      "materials": [
+        {
+          "itemId": 2318,
+          "quantity": 3
+        },
+        {
+          "itemId": 2320,
+          "quantity": 4
+        }
+      ],
+      "result_item_id": 7279,
+      "result_quantity": 1,
+      "difficulty_orange": 30,
+      "difficulty_yellow": 60,
+      "difficulty_green": 75,
+      "difficulty_gray": 90,
+      "url": "https://www.wowhead.com/tbc/spell=9062/small-leather-ammo-pouch",
+      "scraped_at": "2026-02-22 15:58:19"
+    },
+    {
+      "recipe_id": 9064,
+      "name": "Rugged Leather Pants",
+      "profession": "Leatherworking",
+      "skill_level": 35,
+      "icon_name": "inv_pants_02",
+      "materials": [
+        {
+          "itemId": 2318,
+          "quantity": 5
+        },
+        {
+          "itemId": 2320,
+          "quantity": 5
+        }
+      ],
+      "result_item_id": 7280,
+      "result_quantity": 1,
+      "difficulty_orange": 35,
+      "difficulty_yellow": 65,
+      "difficulty_green": 80,
+      "difficulty_gray": 95,
+      "url": "https://www.wowhead.com/tbc/spell=9064/rugged-leather-pants",
+      "scraped_at": "2026-02-22 15:58:29"
+    },
+    {
+      "recipe_id": 9065,
+      "name": "Light Leather Bracers",
+      "profession": "Leatherworking",
+      "skill_level": 70,
+      "icon_name": "inv_bracer_04",
+      "materials": [
+        {
+          "itemId": 2318,
+          "quantity": 6
+        },
+        {
+          "itemId": 2320,
+          "quantity": 4
+        }
+      ],
+      "result_item_id": 7281,
+      "result_quantity": 1,
+      "difficulty_orange": 70,
+      "difficulty_yellow": 100,
+      "difficulty_green": 115,
+      "difficulty_gray": 130,
+      "url": "https://www.wowhead.com/tbc/spell=9065/light-leather-bracers",
+      "scraped_at": "2026-02-22 15:58:38"
+    },
+    {
+      "recipe_id": 9068,
+      "name": "Light Leather Pants",
+      "profession": "Leatherworking",
+      "skill_level": 95,
+      "icon_name": "inv_pants_02",
+      "materials": [
+        {
+          "itemId": 2318,
+          "quantity": 10
+        },
+        {
+          "itemId": 4231,
+          "quantity": 1
+        },
+        {
+          "itemId": 2321,
+          "quantity": 1
+        }
+      ],
+      "result_item_id": 7282,
+      "result_quantity": 1,
+      "difficulty_orange": 95,
+      "difficulty_yellow": 125,
+      "difficulty_green": 140,
+      "difficulty_gray": 155,
+      "url": "https://www.wowhead.com/tbc/spell=9068/light-leather-pants",
+      "scraped_at": "2026-02-22 15:58:45"
+    },
+    {
+      "recipe_id": 9070,
+      "name": "Black Whelp Cloak",
+      "profession": "Leatherworking",
+      "skill_level": 100,
+      "icon_name": "inv_misc_monsterscales_03",
+      "materials": [
+        {
+          "itemId": 7286,
+          "quantity": 12
+        },
+        {
+          "itemId": 2319,
+          "quantity": 4
+        },
+        {
+          "itemId": 2321,
+          "quantity": 1
+        }
+      ],
+      "result_item_id": 7283,
+      "result_quantity": 1,
+      "difficulty_orange": 100,
+      "difficulty_yellow": 125,
+      "difficulty_green": 137,
+      "difficulty_gray": 150,
+      "url": "https://www.wowhead.com/tbc/spell=9070/black-whelp-cloak",
+      "scraped_at": "2026-02-22 15:58:52"
+    },
+    {
+      "recipe_id": 9202,
+      "name": "Green Whelp Bracers",
+      "profession": "Leatherworking",
+      "skill_level": 190,
+      "icon_name": "inv_bracer_06",
+      "materials": [
+        {
+          "itemId": 7392,
+          "quantity": 6
+        },
+        {
+          "itemId": 4234,
+          "quantity": 8
+        },
+        {
+          "itemId": 4291,
+          "quantity": 2
+        }
+      ],
+      "result_item_id": 7386,
+      "result_quantity": 1,
+      "difficulty_orange": 190,
+      "difficulty_yellow": 210,
+      "difficulty_green": 220,
+      "difficulty_gray": 230,
+      "url": "https://www.wowhead.com/tbc/spell=9202/green-whelp-bracers",
+      "scraped_at": "2026-02-22 15:59:00"
+    },
+    {
+      "recipe_id": 13815,
+      "name": "Enchant Gloves - Agility",
+      "profession": "Enchanting",
+      "skill_level": 210,
+      "icon_name": "spell_holy_greaterheal",
+      "materials": [
+        {
+          "itemId": 11174,
+          "quantity": 1
+        },
+        {
+          "itemId": 11137,
+          "quantity": 1
+        }
+      ],
+      "result_item_id": 11137,
+      "result_quantity": 1,
+      "difficulty_orange": 210,
+      "difficulty_yellow": 230,
+      "difficulty_green": 250,
+      "difficulty_gray": 270,
+      "url": "https://www.wowhead.com/tbc/spell=13815/enchant-gloves-agility",
+      "scraped_at": "2026-02-22 15:59:13"
+    },
+    {
+      "recipe_id": 13817,
+      "name": "Enchant Shield - Stamina",
+      "profession": "Enchanting",
+      "skill_level": 210,
+      "icon_name": "spell_holy_greaterheal",
+      "materials": [
+        {
+          "itemId": 11137,
+          "quantity": 5
+        }
+      ],
+      "result_item_id": 11137,
+      "result_quantity": 1,
+      "difficulty_orange": 210,
+      "difficulty_yellow": 230,
+      "difficulty_green": 250,
+      "difficulty_gray": 270,
+      "url": "https://www.wowhead.com/tbc/spell=13817/enchant-shield-stamina",
+      "scraped_at": "2026-02-22 15:59:20"
+    },
+    {
+      "recipe_id": 13822,
+      "name": "Enchant Bracer - Intellect",
+      "profession": "Enchanting",
+      "skill_level": 210,
+      "icon_name": "spell_holy_greaterheal",
+      "materials": [
+        {
+          "itemId": 11174,
+          "quantity": 2
+        }
+      ],
+      "result_item_id": 11174,
+      "result_quantity": 1,
+      "difficulty_orange": 210,
+      "difficulty_yellow": 230,
+      "difficulty_green": 250,
+      "difficulty_gray": 270,
+      "url": "https://www.wowhead.com/tbc/spell=13822/enchant-bracer-intellect",
+      "scraped_at": "2026-02-22 15:59:27"
+    },
+    {
+      "recipe_id": 13920,
+      "name": "Enchanting",
+      "profession": "Enchanting",
+      "skill_level": 200,
+      "icon_name": "trade_engraving",
+      "materials": [],
+      "result_item_id": 0,
+      "result_quantity": 1,
+      "difficulty_orange": 0,
+      "difficulty_yellow": 0,
+      "difficulty_green": 0,
+      "difficulty_gray": 0,
+      "url": "https://www.wowhead.com/tbc/spell=13920/enchanting",
+      "scraped_at": "2026-02-22 15:59:35"
+    },
+    {
+      "recipe_id": 14810,
+      "name": "Greater Mystic Wand",
+      "profession": "Enchanting",
+      "skill_level": 175,
+      "icon_name": "inv_wand_07",
+      "materials": [
+        {
+          "itemId": 11291,
+          "quantity": 1
+        },
+        {
+          "itemId": 11135,
+          "quantity": 1
+        },
+        {
+          "itemId": 11137,
+          "quantity": 1
+        }
+      ],
+      "result_item_id": 11290,
+      "result_quantity": 1,
+      "difficulty_orange": 175,
+      "difficulty_yellow": 195,
+      "difficulty_green": 215,
+      "difficulty_gray": 235,
+      "url": "https://www.wowhead.com/tbc/spell=14810/greater-mystic-wand",
+      "scraped_at": "2026-02-22 15:59:42"
+    },
+    {
+      "recipe_id": 15596,
+      "name": "Smoking Heart of the Mountain",
+      "profession": "Enchanting",
+      "skill_level": 265,
+      "icon_name": "inv_misc_gem_bloodstone_01",
+      "materials": [
+        {
+          "itemId": 11382,
+          "quantity": 1
+        },
+        {
+          "itemId": 7078,
+          "quantity": 1
+        },
+        {
+          "itemId": 14343,
+          "quantity": 3
+        }
+      ],
+      "result_item_id": 11811,
+      "result_quantity": 1,
+      "difficulty_orange": 265,
+      "difficulty_yellow": 285,
+      "difficulty_green": 305,
+      "difficulty_gray": 325,
+      "url": "https://www.wowhead.com/tbc/spell=15596/smoking-heart-of-the-mountain",
+      "scraped_at": "2026-02-22 15:59:49"
+    },
+    {
+      "recipe_id": 20026,
+      "name": "Enchant Chest - Major Health",
+      "profession": "Enchanting",
+      "skill_level": 275,
+      "icon_name": "inv_misc_note_01",
+      "materials": [
+        {
+          "itemId": 16204,
+          "quantity": 6
+        },
+        {
+          "itemId": 14343,
+          "quantity": 1
+        }
+      ],
+      "result_item_id": 14343,
+      "result_quantity": 1,
+      "difficulty_orange": 275,
+      "difficulty_yellow": 295,
+      "difficulty_green": 315,
+      "difficulty_gray": 335,
+      "url": "https://www.wowhead.com/tbc/spell=20026/enchant-chest-major-health",
+      "scraped_at": "2026-02-22 15:59:56"
+    },
+    {
+      "recipe_id": 20028,
+      "name": "Enchant Chest - Major Mana",
+      "profession": "Enchanting",
+      "skill_level": 290,
+      "icon_name": "spell_holy_greaterheal",
+      "materials": [
+        {
+          "itemId": 16203,
+          "quantity": 3
+        },
+        {
+          "itemId": 14343,
+          "quantity": 1
+        }
+      ],
+      "result_item_id": 14343,
+      "result_quantity": 1,
+      "difficulty_orange": 290,
+      "difficulty_yellow": 305,
+      "difficulty_green": 322,
+      "difficulty_gray": 340,
+      "url": "https://www.wowhead.com/tbc/spell=20028/enchant-chest-major-mana",
+      "scraped_at": "2026-02-22 16:00:04"
+    },
+    {
+      "recipe_id": 20029,
+      "name": "Enchant Weapon - Icy Chill",
+      "profession": "Enchanting",
+      "skill_level": 285,
+      "icon_name": "spell_holy_greaterheal",
+      "materials": [
+        {
+          "itemId": 14343,
+          "quantity": 4
+        },
+        {
+          "itemId": 7080,
+          "quantity": 1
+        },
+        {
+          "itemId": 7082,
+          "quantity": 1
+        },
+        {
+          "itemId": 13467,
+          "quantity": 1
+        }
+      ],
+      "result_item_id": 13467,
+      "result_quantity": 1,
+      "difficulty_orange": 285,
+      "difficulty_yellow": 300,
+      "difficulty_green": 317,
+      "difficulty_gray": 335,
+      "url": "https://www.wowhead.com/tbc/spell=20029/enchant-weapon-icy-chill",
+      "scraped_at": "2026-02-22 16:00:11"
+    },
+    {
+      "recipe_id": 23802,
+      "name": "Enchant Bracer - Healing Power",
+      "profession": "Enchanting",
+      "skill_level": 300,
+      "icon_name": "inv_misc_note_01",
+      "materials": [
+        {
+          "itemId": 14344,
+          "quantity": 2
+        },
+        {
+          "itemId": 16204,
+          "quantity": 20
+        },
+        {
+          "itemId": 16203,
+          "quantity": 4
+        },
+        {
+          "itemId": 12803,
+          "quantity": 6
+        }
+      ],
+      "result_item_id": 12803,
+      "result_quantity": 1,
+      "difficulty_orange": 300,
+      "difficulty_yellow": 310,
+      "difficulty_green": 325,
+      "difficulty_gray": 340,
+      "url": "https://www.wowhead.com/tbc/spell=23802/enchant-bracer-healing-power",
+      "scraped_at": "2026-02-22 16:00:18"
+    },
+    {
+      "recipe_id": 23803,
+      "name": "Enchant Weapon - Mighty Spirit",
+      "profession": "Enchanting",
+      "skill_level": 300,
+      "icon_name": "inv_misc_note_01",
+      "materials": [
+        {
+          "itemId": 14344,
+          "quantity": 10
+        },
+        {
+          "itemId": 16203,
+          "quantity": 8
+        },
+        {
+          "itemId": 16204,
+          "quantity": 15
+        }
+      ],
+      "result_item_id": 16204,
+      "result_quantity": 1,
+      "difficulty_orange": 300,
+      "difficulty_yellow": 310,
+      "difficulty_green": 325,
+      "difficulty_gray": 340,
+      "url": "https://www.wowhead.com/tbc/spell=23803/enchant-weapon-mighty-spirit",
+      "scraped_at": "2026-02-22 16:00:25"
+    },
+    {
+      "recipe_id": 25127,
+      "name": "Lesser Mana Oil",
+      "profession": "Enchanting",
+      "skill_level": 250,
+      "icon_name": "inv_potion_99",
+      "materials": [
+        {
+          "itemId": 11176,
+          "quantity": 3
+        },
+        {
+          "itemId": 8831,
+          "quantity": 2
+        },
+        {
+          "itemId": 8925,
+          "quantity": 1
+        }
+      ],
+      "result_item_id": 20747,
+      "result_quantity": 1,
+      "difficulty_orange": 250,
+      "difficulty_yellow": 260,
+      "difficulty_green": 270,
+      "difficulty_gray": 280,
+      "url": "https://www.wowhead.com/tbc/spell=25127/lesser-mana-oil",
+      "scraped_at": "2026-02-22 16:00:32"
+    },
+    {
+      "recipe_id": 25130,
+      "name": "Brilliant Mana Oil",
+      "profession": "Enchanting",
+      "skill_level": 300,
+      "icon_name": "inv_potion_100",
+      "materials": [
+        {
+          "itemId": 14344,
+          "quantity": 2
+        },
+        {
+          "itemId": 8831,
+          "quantity": 3
+        },
+        {
+          "itemId": 18256,
+          "quantity": 1
+        }
+      ],
+      "result_item_id": 20748,
+      "result_quantity": 1,
+      "difficulty_orange": 300,
+      "difficulty_yellow": 310,
+      "difficulty_green": 320,
+      "difficulty_gray": 330,
+      "url": "https://www.wowhead.com/tbc/spell=25130/brilliant-mana-oil",
+      "scraped_at": "2026-02-22 16:00:40"
+    },
+    {
+      "recipe_id": 27837,
+      "name": "Enchant 2H Weapon - Agility",
+      "profession": "Enchanting",
+      "skill_level": 290,
+      "icon_name": "inv_misc_note_01",
+      "materials": [
+        {
+          "itemId": 14344,
+          "quantity": 10
+        },
+        {
+          "itemId": 16203,
+          "quantity": 6
+        },
+        {
+          "itemId": 16204,
+          "quantity": 14
+        },
+        {
+          "itemId": 7082,
+          "quantity": 4
+        }
+      ],
+      "result_item_id": 7082,
+      "result_quantity": 1,
+      "difficulty_orange": 290,
+      "difficulty_yellow": 305,
+      "difficulty_green": 322,
+      "difficulty_gray": 340,
+      "url": "https://www.wowhead.com/tbc/spell=27837/enchant-2h-weapon-agility",
+      "scraped_at": "2026-02-22 16:00:47"
+    },
+    {
+      "recipe_id": 34002,
+      "name": "Enchant Bracer - Assault",
+      "profession": "Enchanting",
+      "skill_level": 300,
+      "icon_name": "spell_holy_greaterheal",
+      "materials": [
+        {
+          "itemId": 22445,
+          "quantity": 6
+        }
+      ],
+      "result_item_id": 22445,
+      "result_quantity": 1,
+      "difficulty_orange": 300,
+      "difficulty_yellow": 310,
+      "difficulty_green": 325,
+      "difficulty_gray": 340,
+      "url": "https://www.wowhead.com/tbc/spell=34002/enchant-bracer-assault",
+      "scraped_at": "2026-02-22 16:00:54"
+    },
+    {
+      "recipe_id": 34003,
+      "name": "Enchant Cloak - Spell Penetration",
+      "profession": "Enchanting",
+      "skill_level": 325,
+      "icon_name": "spell_holy_greaterheal",
+      "materials": [
+        {
+          "itemId": 22446,
+          "quantity": 2
+        },
+        {
+          "itemId": 22445,
+          "quantity": 6
+        },
+        {
+          "itemId": 22457,
+          "quantity": 2
+        }
+      ],
+      "result_item_id": 22457,
+      "result_quantity": 1,
+      "difficulty_orange": 325,
+      "difficulty_yellow": 335,
+      "difficulty_green": 350,
+      "difficulty_gray": 365,
+      "url": "https://www.wowhead.com/tbc/spell=34003/enchant-cloak-spell-penetration",
+      "scraped_at": "2026-02-22 16:01:01"
+    },
+    {
+      "recipe_id": 34004,
+      "name": "Enchant Cloak - Greater Agility",
+      "profession": "Enchanting",
+      "skill_level": 310,
+      "icon_name": "spell_holy_greaterheal",
+      "materials": [
+        {
+          "itemId": 22446,
+          "quantity": 1
+        },
+        {
+          "itemId": 22445,
+          "quantity": 4
+        },
+        {
+          "itemId": 22451,
+          "quantity": 1
+        }
+      ],
+      "result_item_id": 22451,
+      "result_quantity": 1,
+      "difficulty_orange": 310,
+      "difficulty_yellow": 320,
+      "difficulty_green": 335,
+      "difficulty_gray": 350,
+      "url": "https://www.wowhead.com/tbc/spell=34004/enchant-cloak-greater-agility",
+      "scraped_at": "2026-02-22 16:01:08"
+    },
+    {
+      "recipe_id": 34005,
+      "name": "Enchant Cloak - Greater Arcane Resistance",
+      "profession": "Enchanting",
+      "skill_level": 350,
+      "icon_name": "spell_holy_greaterheal",
+      "materials": [
+        {
+          "itemId": 22449,
+          "quantity": 4
+        },
+        {
+          "itemId": 22457,
+          "quantity": 8
+        }
+      ],
+      "result_item_id": 22457,
+      "result_quantity": 1,
+      "difficulty_orange": 350,
+      "difficulty_yellow": 360,
+      "difficulty_green": 375,
+      "difficulty_gray": 390,
+      "url": "https://www.wowhead.com/tbc/spell=34005/enchant-cloak-greater-arcane-resistance",
+      "scraped_at": "2026-02-22 16:01:16"
+    },
+    {
+      "recipe_id": 34006,
+      "name": "Enchant Cloak - Greater Shadow Resistance",
+      "profession": "Enchanting",
+      "skill_level": 350,
+      "icon_name": "spell_holy_greaterheal",
+      "materials": [
+        {
+          "itemId": 22449,
+          "quantity": 4
+        },
+        {
+          "itemId": 22456,
+          "quantity": 8
+        }
+      ],
+      "result_item_id": 22456,
+      "result_quantity": 1,
+      "difficulty_orange": 350,
+      "difficulty_yellow": 360,
+      "difficulty_green": 375,
+      "difficulty_gray": 390,
+      "url": "https://www.wowhead.com/tbc/spell=34006/enchant-cloak-greater-shadow-resistance",
+      "scraped_at": "2026-02-22 16:01:23"
+    },
+    {
+      "recipe_id": 7766,
+      "name": "Enchant Bracer - Minor Spirit",
+      "profession": "Enchanting",
+      "skill_level": 60,
+      "icon_name": "spell_holy_greaterheal",
+      "materials": [
+        {
+          "itemId": 10938,
+          "quantity": 2
+        }
+      ],
+      "result_item_id": 10938,
+      "result_quantity": 1,
+      "difficulty_orange": 60,
+      "difficulty_yellow": 105,
+      "difficulty_green": 125,
+      "difficulty_gray": 145,
+      "url": "https://www.wowhead.com/tbc/spell=7766/enchant-bracer-minor-spirit",
+      "scraped_at": "2026-02-22 16:01:30"
+    },
+    {
+      "recipe_id": 7771,
+      "name": "Enchant Cloak - Minor Protection",
+      "profession": "Enchanting",
+      "skill_level": 70,
+      "icon_name": "spell_holy_greaterheal",
+      "materials": [
+        {
+          "itemId": 10940,
+          "quantity": 3
+        },
+        {
+          "itemId": 10939,
+          "quantity": 1
+        }
+      ],
+      "result_item_id": 10939,
+      "result_quantity": 1,
+      "difficulty_orange": 70,
+      "difficulty_yellow": 110,
+      "difficulty_green": 130,
+      "difficulty_gray": 150,
+      "url": "https://www.wowhead.com/tbc/spell=7771/enchant-cloak-minor-protection",
+      "scraped_at": "2026-02-22 16:01:37"
+    },
+    {
+      "recipe_id": 7776,
+      "name": "Enchant Chest - Lesser Mana",
+      "profession": "Enchanting",
+      "skill_level": 80,
+      "icon_name": "spell_holy_greaterheal",
+      "materials": [
+        {
+          "itemId": 10939,
+          "quantity": 1
+        },
+        {
+          "itemId": 10938,
+          "quantity": 1
+        }
+      ],
+      "result_item_id": 10938,
+      "result_quantity": 1,
+      "difficulty_orange": 80,
+      "difficulty_yellow": 115,
+      "difficulty_green": 135,
+      "difficulty_gray": 155,
+      "url": "https://www.wowhead.com/tbc/spell=7776/enchant-chest-lesser-mana",
+      "scraped_at": "2026-02-22 16:01:44"
+    },
+    {
+      "recipe_id": 12622,
+      "name": "Green Lens",
+      "profession": "Engineering",
+      "skill_level": 245,
+      "icon_name": "inv_helmet_44",
+      "materials": [
+        {
+          "itemId": 4304,
+          "quantity": 8
+        },
+        {
+          "itemId": 1529,
+          "quantity": 3
+        },
+        {
+          "itemId": 7909,
+          "quantity": 3
+        },
+        {
+          "itemId": 10286,
+          "quantity": 2
+        },
+        {
+          "itemId": 8153,
+          "quantity": 2
+        }
+      ],
+      "result_item_id": 10504,
+      "result_quantity": 1,
+      "difficulty_orange": 245,
+      "difficulty_yellow": 265,
+      "difficulty_green": 275,
+      "difficulty_gray": 285,
+      "url": "https://www.wowhead.com/tbc/spell=12622/green-lens",
+      "scraped_at": "2026-02-22 16:01:58"
+    },
+    {
+      "recipe_id": 12624,
+      "name": "Mithril Mechanical Dragonling",
+      "profession": "Engineering",
+      "skill_level": 250,
+      "icon_name": "inv_misc_head_dragon_01",
+      "materials": [
+        {
+          "itemId": 3860,
+          "quantity": 14
+        },
+        {
+          "itemId": 7077,
+          "quantity": 4
+        },
+        {
+          "itemId": 6037,
+          "quantity": 4
+        },
+        {
+          "itemId": 9060,
+          "quantity": 2
+        },
+        {
+          "itemId": 9061,
+          "quantity": 2
+        },
+        {
+          "itemId": 7910,
+          "quantity": 2
+        }
+      ],
+      "result_item_id": 10576,
+      "result_quantity": 1,
+      "difficulty_orange": 250,
+      "difficulty_yellow": 270,
+      "difficulty_green": 280,
+      "difficulty_gray": 290,
+      "url": "https://www.wowhead.com/tbc/spell=12624/mithril-mechanical-dragonling",
+      "scraped_at": "2026-02-22 16:02:05"
+    },
+    {
+      "recipe_id": 12656,
+      "name": "Engineering",
+      "profession": "Engineering",
+      "skill_level": 200,
+      "icon_name": "trade_engineering",
+      "materials": [],
+      "result_item_id": 0,
+      "result_quantity": 1,
+      "difficulty_orange": 0,
+      "difficulty_yellow": 0,
+      "difficulty_green": 0,
+      "difficulty_gray": 0,
+      "url": "https://www.wowhead.com/tbc/spell=12656/engineering",
+      "scraped_at": "2026-02-22 16:02:12"
+    },
+    {
+      "recipe_id": 19567,
+      "name": "Salt Shaker",
+      "profession": "Engineering",
+      "skill_level": 250,
+      "icon_name": "inv_egg_05",
+      "materials": [
+        {
+          "itemId": 10561,
+          "quantity": 1
+        },
+        {
+          "itemId": 12359,
+          "quantity": 6
+        },
+        {
+          "itemId": 10558,
+          "quantity": 1
+        },
+        {
+          "itemId": 10560,
+          "quantity": 4
+        }
+      ],
+      "result_item_id": 15846,
+      "result_quantity": 1,
+      "difficulty_orange": 250,
+      "difficulty_yellow": 270,
+      "difficulty_green": 280,
+      "difficulty_gray": 290,
+      "url": "https://www.wowhead.com/tbc/spell=19567/salt-shaker",
+      "scraped_at": "2026-02-22 16:02:20"
+    },
+    {
+      "recipe_id": 19788,
+      "name": "Dense Blasting Powder",
+      "profession": "Engineering",
+      "skill_level": 250,
+      "icon_name": "inv_misc_ammo_gunpowder_01",
+      "materials": [
+        {
+          "itemId": 12365,
+          "quantity": 2
+        }
+      ],
+      "result_item_id": 15992,
+      "result_quantity": 1,
+      "difficulty_orange": 250,
+      "difficulty_yellow": 250,
+      "difficulty_green": 255,
+      "difficulty_gray": 260,
+      "url": "https://www.wowhead.com/tbc/spell=19788/dense-blasting-powder",
+      "scraped_at": "2026-02-22 16:02:28"
+    },
+    {
+      "recipe_id": 19790,
+      "name": "Thorium Grenade",
+      "profession": "Engineering",
+      "skill_level": 260,
+      "icon_name": "inv_misc_bomb_08",
+      "materials": [
+        {
+          "itemId": 15994,
+          "quantity": 1
+        },
+        {
+          "itemId": 12359,
+          "quantity": 3
+        },
+        {
+          "itemId": 15992,
+          "quantity": 3
+        },
+        {
+          "itemId": 14047,
+          "quantity": 3
+        }
+      ],
+      "result_item_id": 15993,
+      "result_quantity": 1,
+      "difficulty_orange": 260,
+      "difficulty_yellow": 280,
+      "difficulty_green": 290,
+      "difficulty_gray": 300,
+      "url": "https://www.wowhead.com/tbc/spell=19790/thorium-grenade",
+      "scraped_at": "2026-02-22 16:02:35"
+    },
+    {
+      "recipe_id": 19791,
+      "name": "Thorium Widget",
+      "profession": "Engineering",
+      "skill_level": 260,
+      "icon_name": "inv_gizmo_04",
+      "materials": [
+        {
+          "itemId": 12359,
+          "quantity": 3
+        },
+        {
+          "itemId": 14047,
+          "quantity": 1
+        }
+      ],
+      "result_item_id": 15994,
+      "result_quantity": 1,
+      "difficulty_orange": 260,
+      "difficulty_yellow": 280,
+      "difficulty_green": 290,
+      "difficulty_gray": 300,
+      "url": "https://www.wowhead.com/tbc/spell=19791/thorium-widget",
+      "scraped_at": "2026-02-22 16:02:43"
+    },
+    {
+      "recipe_id": 19792,
+      "name": "Thorium Rifle",
+      "profession": "Engineering",
+      "skill_level": 260,
+      "icon_name": "inv_weapon_rifle_07",
+      "materials": [
+        {
+          "itemId": 10559,
+          "quantity": 2
+        },
+        {
+          "itemId": 10561,
+          "quantity": 2
+        },
+        {
+          "itemId": 15994,
+          "quantity": 2
+        },
+        {
+          "itemId": 12359,
+          "quantity": 4
+        },
+        {
+          "itemId": 10546,
+          "quantity": 1
+        }
+      ],
+      "result_item_id": 15995,
+      "result_quantity": 1,
+      "difficulty_orange": 260,
+      "difficulty_yellow": 280,
+      "difficulty_green": 290,
+      "difficulty_gray": 300,
+      "url": "https://www.wowhead.com/tbc/spell=19792/thorium-rifle",
+      "scraped_at": "2026-02-22 16:02:50"
+    },
+    {
+      "recipe_id": 22795,
+      "name": "Core Marksman Rifle",
+      "profession": "Engineering",
+      "skill_level": 300,
+      "icon_name": "inv_weapon_rifle_05",
+      "materials": [
+        {
+          "itemId": 17010,
+          "quantity": 4
+        },
+        {
+          "itemId": 17011,
+          "quantity": 2
+        },
+        {
+          "itemId": 12360,
+          "quantity": 6
+        },
+        {
+          "itemId": 16006,
+          "quantity": 2
+        },
+        {
+          "itemId": 16000,
+          "quantity": 2
+        }
+      ],
+      "result_item_id": 18282,
+      "result_quantity": 1,
+      "difficulty_orange": 300,
+      "difficulty_yellow": 320,
+      "difficulty_green": 330,
+      "difficulty_gray": 340,
+      "url": "https://www.wowhead.com/tbc/spell=22795/core-marksman-rifle",
+      "scraped_at": "2026-02-22 16:02:58"
+    },
+    {
+      "recipe_id": 23071,
+      "name": "Truesilver Transformer",
+      "profession": "Engineering",
+      "skill_level": 260,
+      "icon_name": "inv_staff_18",
+      "materials": [
+        {
+          "itemId": 6037,
+          "quantity": 2
+        },
+        {
+          "itemId": 7067,
+          "quantity": 2
+        },
+        {
+          "itemId": 7069,
+          "quantity": 1
+        }
+      ],
+      "result_item_id": 18631,
+      "result_quantity": 1,
+      "difficulty_orange": 260,
+      "difficulty_yellow": 270,
+      "difficulty_green": 275,
+      "difficulty_gray": 280,
+      "url": "https://www.wowhead.com/tbc/spell=23071/truesilver-transformer",
+      "scraped_at": "2026-02-22 16:03:05"
+    },
+    {
+      "recipe_id": 23077,
+      "name": "Gyrofreeze Ice Reflector",
+      "profession": "Engineering",
+      "skill_level": 260,
+      "icon_name": "inv_misc_enggizmos_02",
+      "materials": [
+        {
+          "itemId": 15994,
+          "quantity": 6
+        },
+        {
+          "itemId": 18631,
+          "quantity": 2
+        },
+        {
+          "itemId": 12361,
+          "quantity": 2
+        },
+        {
+          "itemId": 7078,
+          "quantity": 4
+        },
+        {
+          "itemId": 3829,
+          "quantity": 2
+        },
+        {
+          "itemId": 13467,
+          "quantity": 4
+        }
+      ],
+      "result_item_id": 18634,
+      "result_quantity": 1,
+      "difficulty_orange": 260,
+      "difficulty_yellow": 280,
+      "difficulty_green": 290,
+      "difficulty_gray": 300,
+      "url": "https://www.wowhead.com/tbc/spell=23077/gyrofreeze-ice-reflector",
+      "scraped_at": "2026-02-22 16:03:12"
+    },
+    {
+      "recipe_id": 23078,
+      "name": "Goblin Jumper Cables XL",
+      "profession": "Engineering",
+      "skill_level": 265,
+      "icon_name": "inv_misc_enggizmos_11",
+      "materials": [
+        {
+          "itemId": 15994,
+          "quantity": 2
+        },
+        {
+          "itemId": 18631,
+          "quantity": 2
+        },
+        {
+          "itemId": 7191,
+          "quantity": 2
+        },
+        {
+          "itemId": 14227,
+          "quantity": 2
+        },
+        {
+          "itemId": 7910,
+          "quantity": 2
+        }
+      ],
+      "result_item_id": 18587,
+      "result_quantity": 1,
+      "difficulty_orange": 265,
+      "difficulty_yellow": 285,
+      "difficulty_green": 295,
+      "difficulty_gray": 305,
+      "url": "https://www.wowhead.com/tbc/spell=23078/goblin-jumper-cables-xl",
+      "scraped_at": "2026-02-22 16:03:20"
+    },
+    {
+      "recipe_id": 23079,
+      "name": "Major Recombobulator",
+      "profession": "Engineering",
+      "skill_level": 275,
+      "icon_name": "inv_misc_enggizmos_09",
+      "materials": [
+        {
+          "itemId": 16000,
+          "quantity": 2
+        },
+        {
+          "itemId": 18631,
+          "quantity": 1
+        },
+        {
+          "itemId": 14047,
+          "quantity": 2
+        }
+      ],
+      "result_item_id": 18637,
+      "result_quantity": 1,
+      "difficulty_orange": 275,
+      "difficulty_yellow": 285,
+      "difficulty_green": 290,
+      "difficulty_gray": 295,
+      "url": "https://www.wowhead.com/tbc/spell=23079/major-recombobulator",
+      "scraped_at": "2026-02-22 16:03:27"
+    },
+    {
+      "recipe_id": 23080,
+      "name": "Powerful Seaforium Charge",
+      "profession": "Engineering",
+      "skill_level": 275,
+      "icon_name": "spell_shadow_detectinvisibility",
+      "materials": [
+        {
+          "itemId": 15994,
+          "quantity": 2
+        },
+        {
+          "itemId": 15992,
+          "quantity": 3
+        },
+        {
+          "itemId": 8170,
+          "quantity": 2
+        },
+        {
+          "itemId": 159,
+          "quantity": 1
+        }
+      ],
+      "result_item_id": 18594,
+      "result_quantity": 1,
+      "difficulty_orange": 275,
+      "difficulty_yellow": 275,
+      "difficulty_green": 285,
+      "difficulty_gray": 295,
+      "url": "https://www.wowhead.com/tbc/spell=23080/powerful-seaforium-charge",
+      "scraped_at": "2026-02-22 16:03:34"
+    },
+    {
+      "recipe_id": 30303,
+      "name": "Elemental Blasting Powder",
+      "profession": "Engineering",
+      "skill_level": 300,
+      "icon_name": "inv_misc_ammo_gunpowder_07",
+      "materials": [
+        {
+          "itemId": 22574,
+          "quantity": 1
+        },
+        {
+          "itemId": 22573,
+          "quantity": 2
+        }
+      ],
+      "result_item_id": 23781,
+      "result_quantity": 1,
+      "difficulty_orange": 300,
+      "difficulty_yellow": 300,
+      "difficulty_green": 310,
+      "difficulty_gray": 320,
+      "url": "https://www.wowhead.com/tbc/spell=30303/elemental-blasting-powder",
+      "scraped_at": "2026-02-22 16:03:42"
+    },
+    {
+      "recipe_id": 30304,
+      "name": "Fel Iron Casing",
+      "profession": "Engineering",
+      "skill_level": 300,
+      "icon_name": "inv_gizmo_felironcasing",
+      "materials": [
+        {
+          "itemId": 23445,
+          "quantity": 3
+        }
+      ],
+      "result_item_id": 23782,
+      "result_quantity": 1,
+      "difficulty_orange": 300,
+      "difficulty_yellow": 300,
+      "difficulty_green": 310,
+      "difficulty_gray": 320,
+      "url": "https://www.wowhead.com/tbc/spell=30304/fel-iron-casing",
+      "scraped_at": "2026-02-22 16:03:49"
+    },
+    {
+      "recipe_id": 30305,
+      "name": "Handful of Fel Iron Bolts",
+      "profession": "Engineering",
+      "skill_level": 300,
+      "icon_name": "inv_gizmo_felironbolts",
+      "materials": [
+        {
+          "itemId": 23445,
+          "quantity": 1
+        }
+      ],
+      "result_item_id": 23783,
+      "result_quantity": 1,
+      "difficulty_orange": 300,
+      "difficulty_yellow": 300,
+      "difficulty_green": 305,
+      "difficulty_gray": 310,
+      "url": "https://www.wowhead.com/tbc/spell=30305/handful-of-fel-iron-bolts",
+      "scraped_at": "2026-02-22 16:03:55"
+    },
+    {
+      "recipe_id": 30306,
+      "name": "Adamantite Frame",
+      "profession": "Engineering",
+      "skill_level": 325,
+      "icon_name": "inv_gizmo_adamantiteframe",
+      "materials": [
+        {
+          "itemId": 23446,
+          "quantity": 4
+        },
+        {
+          "itemId": 22452,
+          "quantity": 1
+        }
+      ],
+      "result_item_id": 23784,
+      "result_quantity": 1,
+      "difficulty_orange": 325,
+      "difficulty_yellow": 325,
+      "difficulty_green": 330,
+      "difficulty_gray": 335,
+      "url": "https://www.wowhead.com/tbc/spell=30306/adamantite-frame",
+      "scraped_at": "2026-02-22 16:04:03"
+    },
+    {
+      "recipe_id": 30307,
+      "name": "Hardened Adamantite Tube",
+      "profession": "Engineering",
+      "skill_level": 340,
+      "icon_name": "inv_gizmo_hardenedadamantitetube",
+      "materials": [
+        {
+          "itemId": 23573,
+          "quantity": 3
+        }
+      ],
+      "result_item_id": 23785,
+      "result_quantity": 1,
+      "difficulty_orange": 340,
+      "difficulty_yellow": 350,
+      "difficulty_green": 360,
+      "difficulty_gray": 370,
+      "url": "https://www.wowhead.com/tbc/spell=30307/hardened-adamantite-tube",
+      "scraped_at": "2026-02-22 16:04:17"
+    },
+    {
+      "recipe_id": 30547,
+      "name": "Elemental Seaforium Charge",
+      "profession": "Engineering",
+      "skill_level": 350,
+      "icon_name": "spell_shadow_detectinvisibility",
+      "materials": [
+        {
+          "itemId": 23781,
+          "quantity": 2
+        },
+        {
+          "itemId": 23782,
+          "quantity": 1
+        },
+        {
+          "itemId": 23783,
+          "quantity": 1
+        }
+      ],
+      "result_item_id": 23819,
+      "result_quantity": 1,
+      "difficulty_orange": 350,
+      "difficulty_yellow": 350,
+      "difficulty_green": 355,
+      "difficulty_gray": 360,
+      "url": "https://www.wowhead.com/tbc/spell=30547/elemental-seaforium-charge",
+      "scraped_at": "2026-02-22 16:04:24"
+    },
+    {
+      "recipe_id": 30548,
+      "name": "Zapthrottle Mote Extractor",
+      "profession": "Engineering",
+      "skill_level": 305,
+      "icon_name": "inv_gizmo_zapthrottlegascollector",
+      "materials": [
+        {
+          "itemId": 23782,
+          "quantity": 2
+        },
+        {
+          "itemId": 23783,
+          "quantity": 2
+        },
+        {
+          "itemId": 21886,
+          "quantity": 4
+        },
+        {
+          "itemId": 16006,
+          "quantity": 1
+        }
+      ],
+      "result_item_id": 23821,
+      "result_quantity": 1,
+      "difficulty_orange": 305,
+      "difficulty_yellow": 305,
+      "difficulty_green": 315,
+      "difficulty_gray": 325,
+      "url": "https://www.wowhead.com/tbc/spell=30548/zapthrottle-mote-extractor",
+      "scraped_at": "2026-02-22 16:04:32"
+    },
+    {
+      "recipe_id": 30551,
+      "name": "Healing Potion Injector",
+      "profession": "Engineering",
+      "skill_level": 330,
+      "icon_name": "inv_potion_167",
+      "materials": [
+        {
+          "itemId": 23782,
+          "quantity": 1
+        },
+        {
+          "itemId": 23783,
+          "quantity": 1
+        },
+        {
+          "itemId": 21887,
+          "quantity": 2
+        },
+        {
+          "itemId": 22829,
+          "quantity": 20
+        }
+      ],
+      "result_item_id": 33092,
+      "result_quantity": 1,
+      "difficulty_orange": 330,
+      "difficulty_yellow": 330,
+      "difficulty_green": 340,
+      "difficulty_gray": 350,
+      "url": "https://www.wowhead.com/tbc/spell=30551/healing-potion-injector",
+      "scraped_at": "2026-02-22 16:04:39"
+    },
+    {
+      "recipe_id": 30552,
+      "name": "Mana Potion Injector",
+      "profession": "Engineering",
+      "skill_level": 345,
+      "icon_name": "inv_potion_168",
+      "materials": [
+        {
+          "itemId": 23782,
+          "quantity": 1
+        },
+        {
+          "itemId": 23783,
+          "quantity": 1
+        },
+        {
+          "itemId": 21887,
+          "quantity": 2
+        },
+        {
+          "itemId": 22832,
+          "quantity": 20
+        }
+      ],
+      "result_item_id": 33093,
+      "result_quantity": 1,
+      "difficulty_orange": 345,
+      "difficulty_yellow": 345,
+      "difficulty_green": 355,
+      "difficulty_gray": 365,
+      "url": "https://www.wowhead.com/tbc/spell=30552/mana-potion-injector",
+      "scraped_at": "2026-02-22 16:04:46"
+    },
+    {
+      "recipe_id": 30556,
+      "name": "Rocket Boots Xtreme",
+      "profession": "Engineering",
+      "skill_level": 355,
+      "icon_name": "inv_gizmo_rocketboot_01",
+      "materials": [
+        {
+          "itemId": 23793,
+          "quantity": 8
+        },
+        {
+          "itemId": 23786,
+          "quantity": 2
+        },
+        {
+          "itemId": 23785,
+          "quantity": 2
+        },
+        {
+          "itemId": 23787,
+          "quantity": 4
+        }
+      ],
+      "result_item_id": 23824,
+      "result_quantity": 1,
+      "difficulty_orange": 355,
+      "difficulty_yellow": 365,
+      "difficulty_green": 375,
+      "difficulty_gray": 385,
+      "url": "https://www.wowhead.com/tbc/spell=30556/rocket-boots-xtreme",
+      "scraped_at": "2026-02-22 16:04:53"
+    },
+    {
+      "recipe_id": 3946,
+      "name": "Heavy Dynamite",
+      "profession": "Engineering",
+      "skill_level": 125,
+      "icon_name": "inv_misc_bomb_06",
+      "materials": [
+        {
+          "itemId": 4377,
+          "quantity": 2
+        },
+        {
+          "itemId": 2592,
+          "quantity": 1
+        }
+      ],
+      "result_item_id": 4378,
+      "result_quantity": 1,
+      "difficulty_orange": 125,
+      "difficulty_yellow": 125,
+      "difficulty_green": 135,
+      "difficulty_gray": 145,
+      "url": "https://www.wowhead.com/tbc/spell=3946/heavy-dynamite",
+      "scraped_at": "2026-02-22 16:05:02"
+    },
+    {
+      "recipe_id": 3947,
+      "name": "Crafted Solid Shot",
+      "profession": "Engineering",
+      "skill_level": 125,
+      "icon_name": "inv_ammo_bullet_02",
+      "materials": [
+        {
+          "itemId": 4377,
+          "quantity": 1
+        },
+        {
+          "itemId": 2841,
+          "quantity": 1
+        }
+      ],
+      "result_item_id": 8069,
+      "result_quantity": 1,
+      "difficulty_orange": 125,
+      "difficulty_yellow": 125,
+      "difficulty_green": 135,
+      "difficulty_gray": 145,
+      "url": "https://www.wowhead.com/tbc/spell=3947/crafted-solid-shot",
+      "scraped_at": "2026-02-22 16:05:10"
+    },
+    {
+      "recipe_id": 3965,
+      "name": "Advanced Target Dummy",
+      "profession": "Engineering",
+      "skill_level": 185,
+      "icon_name": "inv_crate_05",
+      "materials": [
+        {
+          "itemId": 4387,
+          "quantity": 1
+        },
+        {
+          "itemId": 4382,
+          "quantity": 1
+        },
+        {
+          "itemId": 4389,
+          "quantity": 1
+        },
+        {
+          "itemId": 4234,
+          "quantity": 4
+        }
+      ],
+      "result_item_id": 4392,
+      "result_quantity": 1,
+      "difficulty_orange": 185,
+      "difficulty_yellow": 185,
+      "difficulty_green": 205,
+      "difficulty_gray": 225,
+      "url": "https://www.wowhead.com/tbc/spell=3965/advanced-target-dummy",
+      "scraped_at": "2026-02-22 16:05:19"
+    },
+    {
+      "recipe_id": 3966,
+      "name": "Craftsman's Monocle",
+      "profession": "Engineering",
+      "skill_level": 185,
+      "icon_name": "inv_helmet_44",
+      "materials": [
+        {
+          "itemId": 4234,
+          "quantity": 6
+        },
+        {
+          "itemId": 3864,
+          "quantity": 2
+        }
+      ],
+      "result_item_id": 4393,
+      "result_quantity": 1,
+      "difficulty_orange": 185,
+      "difficulty_yellow": 205,
+      "difficulty_green": 215,
+      "difficulty_gray": 225,
+      "url": "https://www.wowhead.com/tbc/spell=3966/craftsmans-monocle",
+      "scraped_at": "2026-02-22 16:05:26"
+    },
+    {
+      "recipe_id": 3967,
+      "name": "Big Iron Bomb",
+      "profession": "Engineering",
+      "skill_level": 190,
+      "icon_name": "inv_misc_bomb_01",
+      "materials": [
+        {
+          "itemId": 3575,
+          "quantity": 3
+        },
+        {
+          "itemId": 4377,
+          "quantity": 3
+        },
+        {
+          "itemId": 4404,
+          "quantity": 1
+        }
+      ],
+      "result_item_id": 4394,
+      "result_quantity": 1,
+      "difficulty_orange": 190,
+      "difficulty_yellow": 190,
+      "difficulty_green": 210,
+      "difficulty_gray": 230,
+      "url": "https://www.wowhead.com/tbc/spell=3967/big-iron-bomb",
+      "scraped_at": "2026-02-22 16:05:33"
+    },
+    {
+      "recipe_id": 3968,
+      "name": "Goblin Land Mine",
+      "profession": "Engineering",
+      "skill_level": 195,
+      "icon_name": "inv_shield_08",
+      "materials": [
+        {
+          "itemId": 4377,
+          "quantity": 3
+        },
+        {
+          "itemId": 3575,
+          "quantity": 2
+        },
+        {
+          "itemId": 4389,
+          "quantity": 1
+        }
+      ],
+      "result_item_id": 4395,
+      "result_quantity": 1,
+      "difficulty_orange": 195,
+      "difficulty_yellow": 215,
+      "difficulty_green": 225,
+      "difficulty_gray": 235,
+      "url": "https://www.wowhead.com/tbc/spell=3968/goblin-land-mine",
+      "scraped_at": "2026-02-22 16:05:41"
+    },
+    {
+      "recipe_id": 3969,
+      "name": "Mechanical Dragonling",
+      "profession": "Engineering",
+      "skill_level": 200,
+      "icon_name": "inv_misc_head_dragon_01",
+      "materials": [
+        {
+          "itemId": 4382,
+          "quantity": 1
+        },
+        {
+          "itemId": 4387,
+          "quantity": 4
+        },
+        {
+          "itemId": 4389,
+          "quantity": 4
+        },
+        {
+          "itemId": 3864,
+          "quantity": 2
+        },
+        {
+          "itemId": 7191,
+          "quantity": 1
+        }
+      ],
+      "result_item_id": 4396,
+      "result_quantity": 1,
+      "difficulty_orange": 200,
+      "difficulty_yellow": 220,
+      "difficulty_green": 230,
+      "difficulty_gray": 240,
+      "url": "https://www.wowhead.com/tbc/spell=3969/mechanical-dragonling",
+      "scraped_at": "2026-02-22 16:05:48"
+    },
+    {
+      "recipe_id": 3971,
+      "name": "Gnomish Cloaking Device",
+      "profession": "Engineering",
+      "skill_level": 200,
+      "icon_name": "inv_gizmo_01",
+      "materials": [
+        {
+          "itemId": 4389,
+          "quantity": 4
+        },
+        {
+          "itemId": 1529,
+          "quantity": 2
+        },
+        {
+          "itemId": 1705,
+          "quantity": 2
+        },
+        {
+          "itemId": 3864,
+          "quantity": 2
+        },
+        {
+          "itemId": 7191,
+          "quantity": 1
+        }
+      ],
+      "result_item_id": 4397,
+      "result_quantity": 1,
+      "difficulty_orange": 200,
+      "difficulty_yellow": 220,
+      "difficulty_green": 230,
+      "difficulty_gray": 240,
+      "url": "https://www.wowhead.com/tbc/spell=3971/gnomish-cloaking-device",
+      "scraped_at": "2026-02-22 16:05:55"
+    },
+    {
+      "recipe_id": 3972,
+      "name": "Large Seaforium Charge",
+      "profession": "Engineering",
+      "skill_level": 200,
+      "icon_name": "inv_misc_urn_01",
+      "materials": [
+        {
+          "itemId": 10505,
+          "quantity": 2
+        },
+        {
+          "itemId": 4234,
+          "quantity": 2
+        },
+        {
+          "itemId": 159,
+          "quantity": 1
+        }
+      ],
+      "result_item_id": 4398,
+      "result_quantity": 1,
+      "difficulty_orange": 200,
+      "difficulty_yellow": 200,
+      "difficulty_green": 220,
+      "difficulty_gray": 240,
+      "url": "https://www.wowhead.com/tbc/spell=3972/large-seaforium-charge",
+      "scraped_at": "2026-02-22 16:06:03"
+    },
+    {
+      "recipe_id": 3973,
+      "name": "Silver Contact",
+      "profession": "Engineering",
+      "skill_level": 90,
+      "icon_name": "inv_ingot_04",
+      "materials": [
+        {
+          "itemId": 2842,
+          "quantity": 1
+        }
+      ],
+      "result_item_id": 4404,
+      "result_quantity": 1,
+      "difficulty_orange": 90,
+      "difficulty_yellow": 110,
+      "difficulty_green": 125,
+      "difficulty_gray": 140,
+      "url": "https://www.wowhead.com/tbc/spell=3973/silver-contact",
+      "scraped_at": "2026-02-22 16:06:10"
+    },
+    {
+      "recipe_id": 41311,
+      "name": "Justicebringer 2000 Specs",
+      "profession": "Engineering",
+      "skill_level": 350,
+      "icon_name": "inv_gizmo_newgoggles",
+      "materials": [
+        {
+          "itemId": 23793,
+          "quantity": 6
+        },
+        {
+          "itemId": 23786,
+          "quantity": 1
+        },
+        {
+          "itemId": 23785,
+          "quantity": 2
+        },
+        {
+          "itemId": 23787,
+          "quantity": 4
+        },
+        {
+          "itemId": 23572,
+          "quantity": 1
+        },
+        {
+          "itemId": 23440,
+          "quantity": 2
+        }
+      ],
+      "result_item_id": 32472,
+      "result_quantity": 1,
+      "difficulty_orange": 350,
+      "difficulty_yellow": 370,
+      "difficulty_green": 380,
+      "difficulty_gray": 390,
+      "url": "https://www.wowhead.com/tbc/spell=41311/justicebringer-2000-specs",
+      "scraped_at": "2026-02-22 16:06:17"
+    },
+    {
+      "recipe_id": 46112,
+      "name": "Lightning Etched Specs",
+      "profession": "Engineering",
+      "skill_level": 375,
+      "icon_name": "inv_gizmo_newgoggles",
+      "materials": [
+        {
+          "itemId": 32476,
+          "quantity": 1
+        },
+        {
+          "itemId": 23571,
+          "quantity": 2
+        },
+        {
+          "itemId": 22451,
+          "quantity": 2
+        },
+        {
+          "itemId": 23572,
+          "quantity": 4
+        }
+      ],
+      "result_item_id": 34355,
+      "result_quantity": 1,
+      "difficulty_orange": 375,
+      "difficulty_yellow": 390,
+      "difficulty_green": 410,
+      "difficulty_gray": 430,
+      "url": "https://www.wowhead.com/tbc/spell=46112/lightning-etched-specs",
+      "scraped_at": "2026-02-22 16:06:24"
+    },
+    {
+      "recipe_id": 26873,
+      "name": "Figurine - Golden Hare",
+      "profession": "Jewelcrafting",
+      "skill_level": 200,
+      "icon_name": "inv_jewelcrafting_goldenhare",
+      "materials": [
+        {
+          "itemId": 3577,
+          "quantity": 6
+        },
+        {
+          "itemId": 3864,
+          "quantity": 2
+        }
+      ],
+      "result_item_id": 21756,
+      "result_quantity": 1,
+      "difficulty_orange": 200,
+      "difficulty_yellow": 225,
+      "difficulty_green": 240,
+      "difficulty_gray": 255,
+      "url": "https://www.wowhead.com/tbc/spell=26873/figurine-golden-hare",
+      "scraped_at": "2026-02-22 16:06:44"
+    },
+    {
+      "recipe_id": 26874,
+      "name": "Aquamarine Signet",
+      "profession": "Jewelcrafting",
+      "skill_level": 210,
+      "icon_name": "inv_jewelry_ring_05",
+      "materials": [
+        {
+          "itemId": 7909,
+          "quantity": 3
+        },
+        {
+          "itemId": 8151,
+          "quantity": 4
+        }
+      ],
+      "result_item_id": 20964,
+      "result_quantity": 1,
+      "difficulty_orange": 210,
+      "difficulty_yellow": 235,
+      "difficulty_green": 250,
+      "difficulty_gray": 265,
+      "url": "https://www.wowhead.com/tbc/spell=26874/aquamarine-signet",
+      "scraped_at": "2026-02-22 16:06:51"
+    },
+    {
+      "recipe_id": 26915,
+      "name": "Necklace of the Diamond Tower",
+      "profession": "Jewelcrafting",
+      "skill_level": 305,
+      "icon_name": "inv_jewelry_necklace_35",
+      "materials": [
+        {
+          "itemId": 12800,
+          "quantity": 2
+        },
+        {
+          "itemId": 21752,
+          "quantity": 2
+        },
+        {
+          "itemId": 12360,
+          "quantity": 2
+        }
+      ],
+      "result_item_id": 21792,
+      "result_quantity": 1,
+      "difficulty_orange": 305,
+      "difficulty_yellow": 315,
+      "difficulty_green": 325,
+      "difficulty_gray": 335,
+      "url": "https://www.wowhead.com/tbc/spell=26915/necklace-of-the-diamond-tower",
+      "scraped_at": "2026-02-22 16:06:58"
+    },
+    {
+      "recipe_id": 26916,
+      "name": "Band of Natural Fire",
+      "profession": "Jewelcrafting",
+      "skill_level": 310,
+      "icon_name": "inv_jewelry_ring_41",
+      "materials": [
+        {
+          "itemId": 21929,
+          "quantity": 1
+        },
+        {
+          "itemId": 7078,
+          "quantity": 4
+        },
+        {
+          "itemId": 12803,
+          "quantity": 4
+        }
+      ],
+      "result_item_id": 21779,
+      "result_quantity": 1,
+      "difficulty_orange": 310,
+      "difficulty_yellow": 320,
+      "difficulty_green": 330,
+      "difficulty_gray": 340,
+      "url": "https://www.wowhead.com/tbc/spell=26916/band-of-natural-fire",
+      "scraped_at": "2026-02-22 16:07:05"
+    },
+    {
+      "recipe_id": 26918,
+      "name": "Arcanite Sword Pendant",
+      "profession": "Jewelcrafting",
+      "skill_level": 315,
+      "icon_name": "inv_weapon_shortblade_06",
+      "materials": [
+        {
+          "itemId": 12360,
+          "quantity": 4
+        },
+        {
+          "itemId": 7076,
+          "quantity": 4
+        },
+        {
+          "itemId": 7082,
+          "quantity": 4
+        }
+      ],
+      "result_item_id": 21793,
+      "result_quantity": 1,
+      "difficulty_orange": 315,
+      "difficulty_yellow": 325,
+      "difficulty_green": 335,
+      "difficulty_gray": 345,
+      "url": "https://www.wowhead.com/tbc/spell=26918/arcanite-sword-pendant",
+      "scraped_at": "2026-02-22 16:07:12"
+    },
+    {
+      "recipe_id": 26920,
+      "name": "Blood Crown",
+      "profession": "Jewelcrafting",
+      "skill_level": 325,
+      "icon_name": "inv_crown_13",
+      "materials": [
+        {
+          "itemId": 12359,
+          "quantity": 8
+        },
+        {
+          "itemId": 11382,
+          "quantity": 2
+        },
+        {
+          "itemId": 7910,
+          "quantity": 4
+        },
+        {
+          "itemId": 12938,
+          "quantity": 2
+        }
+      ],
+      "result_item_id": 21780,
+      "result_quantity": 1,
+      "difficulty_orange": 325,
+      "difficulty_yellow": 335,
+      "difficulty_green": 345,
+      "difficulty_gray": 355,
+      "url": "https://www.wowhead.com/tbc/spell=26920/blood-crown",
+      "scraped_at": "2026-02-22 16:07:20"
+    },
+    {
+      "recipe_id": 28948,
+      "name": "Rigid Golden Draenite",
+      "profession": "Jewelcrafting",
+      "skill_level": 325,
+      "icon_name": "inv_misc_gem_goldendraenite_02",
+      "materials": [
+        {
+          "itemId": 23112,
+          "quantity": 1
+        }
+      ],
+      "result_item_id": 23116,
+      "result_quantity": 1,
+      "difficulty_orange": 325,
+      "difficulty_yellow": 325,
+      "difficulty_green": 340,
+      "difficulty_gray": 355,
+      "url": "https://www.wowhead.com/tbc/spell=28948/rigid-golden-draenite",
+      "scraped_at": "2026-02-22 16:07:27"
+    },
+    {
+      "recipe_id": 31063,
+      "name": "Pendant of Thawing",
+      "profession": "Jewelcrafting",
+      "skill_level": 360,
+      "icon_name": "inv_jewelry_necklace_34",
+      "materials": [
+        {
+          "itemId": 23448,
+          "quantity": 2
+        },
+        {
+          "itemId": 21884,
+          "quantity": 6
+        },
+        {
+          "itemId": 21885,
+          "quantity": 4
+        },
+        {
+          "itemId": 31079,
+          "quantity": 1
+        }
+      ],
+      "result_item_id": 24093,
+      "result_quantity": 1,
+      "difficulty_orange": 360,
+      "difficulty_yellow": 370,
+      "difficulty_green": 380,
+      "difficulty_gray": 390,
+      "url": "https://www.wowhead.com/tbc/spell=31063/pendant-of-thawing",
+      "scraped_at": "2026-02-22 16:07:35"
+    },
+    {
+      "recipe_id": 31064,
+      "name": "Pendant of Withering",
+      "profession": "Jewelcrafting",
+      "skill_level": 360,
+      "icon_name": "inv_jewelry_necklace_31",
+      "materials": [
+        {
+          "itemId": 23448,
+          "quantity": 2
+        },
+        {
+          "itemId": 22456,
+          "quantity": 6
+        },
+        {
+          "itemId": 21886,
+          "quantity": 4
+        },
+        {
+          "itemId": 31079,
+          "quantity": 1
+        }
+      ],
+      "result_item_id": 24095,
+      "result_quantity": 1,
+      "difficulty_orange": 360,
+      "difficulty_yellow": 370,
+      "difficulty_green": 380,
+      "difficulty_gray": 390,
+      "url": "https://www.wowhead.com/tbc/spell=31064/pendant-of-withering",
+      "scraped_at": "2026-02-22 16:07:42"
+    },
+    {
+      "recipe_id": 31065,
+      "name": "Pendant of Shadow's End",
+      "profession": "Jewelcrafting",
+      "skill_level": 360,
+      "icon_name": "inv_jewelry_necklace_33",
+      "materials": [
+        {
+          "itemId": 23448,
+          "quantity": 2
+        },
+        {
+          "itemId": 21886,
+          "quantity": 6
+        },
+        {
+          "itemId": 22456,
+          "quantity": 4
+        },
+        {
+          "itemId": 31079,
+          "quantity": 1
+        }
+      ],
+      "result_item_id": 24097,
+      "result_quantity": 1,
+      "difficulty_orange": 360,
+      "difficulty_yellow": 370,
+      "difficulty_green": 380,
+      "difficulty_gray": 390,
+      "url": "https://www.wowhead.com/tbc/spell=31065/pendant-of-shadows-end",
+      "scraped_at": "2026-02-22 16:07:49"
+    },
+    {
+      "recipe_id": 31066,
+      "name": "Pendant of the Null Rune",
+      "profession": "Jewelcrafting",
+      "skill_level": 360,
+      "icon_name": "inv_jewelry_necklace_32",
+      "materials": [
+        {
+          "itemId": 23448,
+          "quantity": 2
+        },
+        {
+          "itemId": 22457,
+          "quantity": 8
+        },
+        {
+          "itemId": 31079,
+          "quantity": 1
+        }
+      ],
+      "result_item_id": 24098,
+      "result_quantity": 1,
+      "difficulty_orange": 360,
+      "difficulty_yellow": 370,
+      "difficulty_green": 380,
+      "difficulty_gray": 390,
+      "url": "https://www.wowhead.com/tbc/spell=31066/pendant-of-the-null-rune",
+      "scraped_at": "2026-02-22 16:07:56"
+    },
+    {
+      "recipe_id": 31080,
+      "name": "Figurine - Dawnstone Crab",
+      "profession": "Jewelcrafting",
+      "skill_level": 370,
+      "icon_name": "inv_jewelcrafting_truesilvercrab",
+      "materials": [
+        {
+          "itemId": 23449,
+          "quantity": 4
+        },
+        {
+          "itemId": 23440,
+          "quantity": 2
+        },
+        {
+          "itemId": 23112,
+          "quantity": 4
+        }
+      ],
+      "result_item_id": 24125,
+      "result_quantity": 1,
+      "difficulty_orange": 370,
+      "difficulty_yellow": 380,
+      "difficulty_green": 390,
+      "difficulty_gray": 400,
+      "url": "https://www.wowhead.com/tbc/spell=31080/figurine-dawnstone-crab",
+      "scraped_at": "2026-02-22 16:08:03"
+    },
+    {
+      "recipe_id": 31081,
+      "name": "Figurine - Living Ruby Serpent",
+      "profession": "Jewelcrafting",
+      "skill_level": 370,
+      "icon_name": "inv_jewelcrafting_rubyserpent",
+      "materials": [
+        {
+          "itemId": 23448,
+          "quantity": 2
+        },
+        {
+          "itemId": 23436,
+          "quantity": 2
+        },
+        {
+          "itemId": 21884,
+          "quantity": 4
+        }
+      ],
+      "result_item_id": 24126,
+      "result_quantity": 1,
+      "difficulty_orange": 370,
+      "difficulty_yellow": 380,
+      "difficulty_green": 390,
+      "difficulty_gray": 400,
+      "url": "https://www.wowhead.com/tbc/spell=31081/figurine-living-ruby-serpent",
+      "scraped_at": "2026-02-22 16:08:11"
+    },
+    {
+      "recipe_id": 31082,
+      "name": "Figurine - Talasite Owl",
+      "profession": "Jewelcrafting",
+      "skill_level": 370,
+      "icon_name": "inv_jewelcrafting_jadeowl",
+      "materials": [
+        {
+          "itemId": 23447,
+          "quantity": 2
+        },
+        {
+          "itemId": 23437,
+          "quantity": 2
+        },
+        {
+          "itemId": 22457,
+          "quantity": 4
+        }
+      ],
+      "result_item_id": 24127,
+      "result_quantity": 1,
+      "difficulty_orange": 370,
+      "difficulty_yellow": 380,
+      "difficulty_green": 390,
+      "difficulty_gray": 400,
+      "url": "https://www.wowhead.com/tbc/spell=31082/figurine-talasite-owl",
+      "scraped_at": "2026-02-22 16:08:18"
+    },
+    {
+      "recipe_id": 31083,
+      "name": "Figurine - Nightseye Panther",
+      "profession": "Jewelcrafting",
+      "skill_level": 370,
+      "icon_name": "inv_jewelcrafting_blackpearlpanther",
+      "materials": [
+        {
+          "itemId": 23573,
+          "quantity": 6
+        },
+        {
+          "itemId": 23441,
+          "quantity": 2
+        },
+        {
+          "itemId": 22456,
+          "quantity": 2
+        }
+      ],
+      "result_item_id": 24128,
+      "result_quantity": 1,
+      "difficulty_orange": 370,
+      "difficulty_yellow": 380,
+      "difficulty_green": 390,
+      "difficulty_gray": 400,
+      "url": "https://www.wowhead.com/tbc/spell=31083/figurine-nightseye-panther",
+      "scraped_at": "2026-02-22 16:08:25"
+    },
+    {
+      "recipe_id": 31109,
+      "name": "Glinting Noble Topaz",
+      "profession": "Jewelcrafting",
+      "skill_level": 350,
+      "icon_name": "inv_jewelcrafting_nobletopaz_03",
+      "materials": [
+        {
+          "itemId": 23439,
+          "quantity": 1
+        }
+      ],
+      "result_item_id": 24061,
+      "result_quantity": 1,
+      "difficulty_orange": 350,
+      "difficulty_yellow": 350,
+      "difficulty_green": 365,
+      "difficulty_gray": 380,
+      "url": "https://www.wowhead.com/tbc/spell=31109/glinting-noble-topaz",
+      "scraped_at": "2026-02-22 16:08:32"
+    },
+    {
+      "recipe_id": 31110,
+      "name": "Enduring Talasite",
+      "profession": "Jewelcrafting",
+      "skill_level": 350,
+      "icon_name": "inv_jewelcrafting_talasite_03",
+      "materials": [
+        {
+          "itemId": 23437,
+          "quantity": 1
+        }
+      ],
+      "result_item_id": 24062,
+      "result_quantity": 1,
+      "difficulty_orange": 350,
+      "difficulty_yellow": 350,
+      "difficulty_green": 365,
+      "difficulty_gray": 380,
+      "url": "https://www.wowhead.com/tbc/spell=31110/enduring-talasite",
+      "scraped_at": "2026-02-22 16:08:39"
+    },
+    {
+      "recipe_id": 31111,
+      "name": "Radiant Talasite",
+      "profession": "Jewelcrafting",
+      "skill_level": 350,
+      "icon_name": "inv_jewelcrafting_talasite_03",
+      "materials": [
+        {
+          "itemId": 23437,
+          "quantity": 1
+        }
+      ],
+      "result_item_id": 24066,
+      "result_quantity": 1,
+      "difficulty_orange": 350,
+      "difficulty_yellow": 350,
+      "difficulty_green": 365,
+      "difficulty_gray": 380,
+      "url": "https://www.wowhead.com/tbc/spell=31111/radiant-talasite",
+      "scraped_at": "2026-02-22 16:08:46"
+    },
+    {
+      "recipe_id": 32871,
+      "name": "Destructive Skyfire Diamond",
+      "profession": "Jewelcrafting",
+      "skill_level": 365,
+      "icon_name": "inv_misc_gem_diamond_07",
+      "materials": [
+        {
+          "itemId": 25868,
+          "quantity": 1
+        }
+      ],
+      "result_item_id": 25890,
+      "result_quantity": 1,
+      "difficulty_orange": 365,
+      "difficulty_yellow": 375,
+      "difficulty_green": 385,
+      "difficulty_gray": 395,
+      "url": "https://www.wowhead.com/tbc/spell=32871/destructive-skyfire-diamond",
+      "scraped_at": "2026-02-22 16:08:53"
+    },
+    {
+      "recipe_id": 32872,
+      "name": "Mystical Skyfire Diamond",
+      "profession": "Jewelcrafting",
+      "skill_level": 365,
+      "icon_name": "inv_misc_gem_diamond_07",
+      "materials": [
+        {
+          "itemId": 25868,
+          "quantity": 1
+        }
+      ],
+      "result_item_id": 25893,
+      "result_quantity": 1,
+      "difficulty_orange": 365,
+      "difficulty_yellow": 375,
+      "difficulty_green": 385,
+      "difficulty_gray": 395,
+      "url": "https://www.wowhead.com/tbc/spell=32872/mystical-skyfire-diamond",
+      "scraped_at": "2026-02-22 16:09:01"
+    },
+    {
+      "recipe_id": 32873,
+      "name": "Swift Skyfire Diamond",
+      "profession": "Jewelcrafting",
+      "skill_level": 365,
+      "icon_name": "inv_misc_gem_diamond_07",
+      "materials": [
+        {
+          "itemId": 25868,
+          "quantity": 1
+        }
+      ],
+      "result_item_id": 25894,
+      "result_quantity": 1,
+      "difficulty_orange": 365,
+      "difficulty_yellow": 375,
+      "difficulty_green": 385,
+      "difficulty_gray": 395,
+      "url": "https://www.wowhead.com/tbc/spell=32873/swift-skyfire-diamond",
+      "scraped_at": "2026-02-22 16:09:08"
+    },
+    {
+      "recipe_id": 32874,
+      "name": "Enigmatic Skyfire Diamond",
+      "profession": "Jewelcrafting",
+      "skill_level": 365,
+      "icon_name": "inv_misc_gem_diamond_07",
+      "materials": [
+        {
+          "itemId": 25868,
+          "quantity": 1
+        }
+      ],
+      "result_item_id": 25895,
+      "result_quantity": 1,
+      "difficulty_orange": 365,
+      "difficulty_yellow": 375,
+      "difficulty_green": 385,
+      "difficulty_gray": 395,
+      "url": "https://www.wowhead.com/tbc/spell=32874/enigmatic-skyfire-diamond",
+      "scraped_at": "2026-02-22 16:09:15"
+    },
+    {
+      "recipe_id": 39458,
+      "name": "Infused Shadow Draenite",
+      "profession": "Jewelcrafting",
+      "skill_level": 325,
+      "icon_name": "inv_misc_gem_ebondraenite_02",
+      "materials": [
+        {
+          "itemId": 23107,
+          "quantity": 1
+        }
+      ],
+      "result_item_id": 31864,
+      "result_quantity": 1,
+      "difficulty_orange": 325,
+      "difficulty_yellow": 325,
+      "difficulty_green": 340,
+      "difficulty_gray": 355,
+      "url": "https://www.wowhead.com/tbc/spell=39458/infused-shadow-draenite",
+      "scraped_at": "2026-02-22 16:09:23"
+    },
+    {
+      "recipe_id": 39462,
+      "name": "Infused Nightseye",
+      "profession": "Jewelcrafting",
+      "skill_level": 350,
+      "icon_name": "inv_jewelcrafting_nightseye_03",
+      "materials": [
+        {
+          "itemId": 23441,
+          "quantity": 1
+        }
+      ],
+      "result_item_id": 31865,
+      "result_quantity": 1,
+      "difficulty_orange": 350,
+      "difficulty_yellow": 350,
+      "difficulty_green": 365,
+      "difficulty_gray": 380,
+      "url": "https://www.wowhead.com/tbc/spell=39462/infused-nightseye",
+      "scraped_at": "2026-02-22 16:09:30"
+    },
+    {
+      "recipe_id": 39463,
+      "name": "Balanced Nightseye",
+      "profession": "Jewelcrafting",
+      "skill_level": 350,
+      "icon_name": "inv_jewelcrafting_nightseye_03",
+      "materials": [
+        {
+          "itemId": 23441,
+          "quantity": 1
+        }
+      ],
+      "result_item_id": 31863,
+      "result_quantity": 1,
+      "difficulty_orange": 350,
+      "difficulty_yellow": 350,
+      "difficulty_green": 365,
+      "difficulty_gray": 380,
+      "url": "https://www.wowhead.com/tbc/spell=39463/balanced-nightseye",
+      "scraped_at": "2026-02-22 16:09:37"
+    },
+    {
+      "recipe_id": 39721,
+      "name": "Rigid Lionseye",
+      "profession": "Jewelcrafting",
+      "skill_level": 375,
+      "icon_name": "inv_jewelcrafting_lionseye_02",
+      "materials": [
+        {
+          "itemId": 32229,
+          "quantity": 1
+        }
+      ],
+      "result_item_id": 32206,
+      "result_quantity": 1,
+      "difficulty_orange": 375,
+      "difficulty_yellow": 375,
+      "difficulty_green": 387,
+      "difficulty_gray": 400,
+      "url": "https://www.wowhead.com/tbc/spell=39721/rigid-lionseye",
+      "scraped_at": "2026-02-22 16:09:48"
+    },
+    {
+      "recipe_id": 39722,
+      "name": "Gleaming Lionseye",
+      "profession": "Jewelcrafting",
+      "skill_level": 375,
+      "icon_name": "inv_jewelcrafting_lionseye_02",
+      "materials": [
+        {
+          "itemId": 32229,
+          "quantity": 1
+        }
+      ],
+      "result_item_id": 32207,
+      "result_quantity": 1,
+      "difficulty_orange": 375,
+      "difficulty_yellow": 375,
+      "difficulty_green": 387,
+      "difficulty_gray": 400,
+      "url": "https://www.wowhead.com/tbc/spell=39722/gleaming-lionseye",
+      "scraped_at": "2026-02-22 16:09:56"
+    },
+    {
+      "recipe_id": 39723,
+      "name": "Thick Lionseye",
+      "profession": "Jewelcrafting",
+      "skill_level": 375,
+      "icon_name": "inv_jewelcrafting_lionseye_02",
+      "materials": [
+        {
+          "itemId": 32229,
+          "quantity": 1
+        }
+      ],
+      "result_item_id": 32208,
+      "result_quantity": 1,
+      "difficulty_orange": 375,
+      "difficulty_yellow": 375,
+      "difficulty_green": 387,
+      "difficulty_gray": 400,
+      "url": "https://www.wowhead.com/tbc/spell=39723/thick-lionseye",
+      "scraped_at": "2026-02-22 16:10:03"
+    },
+    {
+      "recipe_id": 39724,
+      "name": "Mystic Lionseye",
+      "profession": "Jewelcrafting",
+      "skill_level": 375,
+      "icon_name": "inv_jewelcrafting_lionseye_02",
+      "materials": [
+        {
+          "itemId": 32229,
+          "quantity": 1
+        }
+      ],
+      "result_item_id": 32209,
+      "result_quantity": 1,
+      "difficulty_orange": 375,
+      "difficulty_yellow": 375,
+      "difficulty_green": 387,
+      "difficulty_gray": 400,
+      "url": "https://www.wowhead.com/tbc/spell=39724/mystic-lionseye",
+      "scraped_at": "2026-02-22 16:10:10"
+    },
+    {
+      "recipe_id": 39737,
+      "name": "Veiled Pyrestone",
+      "profession": "Jewelcrafting",
+      "skill_level": 375,
+      "icon_name": "inv_jewelcrafting_pyrestone_02",
+      "materials": [
+        {
+          "itemId": 32231,
+          "quantity": 1
+        }
+      ],
+      "result_item_id": 32221,
+      "result_quantity": 1,
+      "difficulty_orange": 375,
+      "difficulty_yellow": 375,
+      "difficulty_green": 387,
+      "difficulty_gray": 400,
+      "url": "https://www.wowhead.com/tbc/spell=39737/veiled-pyrestone",
+      "scraped_at": "2026-02-22 16:10:17"
+    },
+    {
+      "recipe_id": 39738,
+      "name": "Wicked Pyrestone",
+      "profession": "Jewelcrafting",
+      "skill_level": 375,
+      "icon_name": "inv_jewelcrafting_pyrestone_02",
+      "materials": [
+        {
+          "itemId": 32231,
+          "quantity": 1
+        }
+      ],
+      "result_item_id": 32222,
+      "result_quantity": 1,
+      "difficulty_orange": 375,
+      "difficulty_yellow": 375,
+      "difficulty_green": 387,
+      "difficulty_gray": 400,
+      "url": "https://www.wowhead.com/tbc/spell=39738/wicked-pyrestone",
+      "scraped_at": "2026-02-22 16:10:25"
+    },
+    {
+      "recipe_id": 39739,
+      "name": "Enduring Seaspray Emerald",
+      "profession": "Jewelcrafting",
+      "skill_level": 375,
+      "icon_name": "inv_jewelcrafting_seasprayemerald_02",
+      "materials": [
+        {
+          "itemId": 32249,
+          "quantity": 1
+        }
+      ],
+      "result_item_id": 32223,
+      "result_quantity": 1,
+      "difficulty_orange": 375,
+      "difficulty_yellow": 375,
+      "difficulty_green": 387,
+      "difficulty_gray": 400,
+      "url": "https://www.wowhead.com/tbc/spell=39739/enduring-seaspray-emerald",
+      "scraped_at": "2026-02-22 16:10:32"
+    },
+    {
+      "recipe_id": 39740,
+      "name": "Radiant Seaspray Emerald",
+      "profession": "Jewelcrafting",
+      "skill_level": 375,
+      "icon_name": "inv_jewelcrafting_seasprayemerald_02",
+      "materials": [
+        {
+          "itemId": 32249,
+          "quantity": 1
+        }
+      ],
+      "result_item_id": 32224,
+      "result_quantity": 1,
+      "difficulty_orange": 375,
+      "difficulty_yellow": 375,
+      "difficulty_green": 387,
+      "difficulty_gray": 400,
+      "url": "https://www.wowhead.com/tbc/spell=39740/radiant-seaspray-emerald",
+      "scraped_at": "2026-02-22 16:10:40"
+    },
+    {
+      "recipe_id": 10098,
+      "name": "Smelt Truesilver",
+      "profession": "Mining",
+      "skill_level": 230,
+      "icon_name": "inv_ingot_08",
+      "materials": [
+        {
+          "itemId": 7911,
+          "quantity": 1
+        }
+      ],
+      "result_item_id": 6037,
+      "result_quantity": 1,
+      "difficulty_orange": 230,
+      "difficulty_yellow": 235,
+      "difficulty_green": 242,
+      "difficulty_gray": 250,
+      "url": "https://www.wowhead.com/tbc/spell=10098/smelt-truesilver",
+      "scraped_at": "2026-02-22 16:10:53"
+    },
+    {
+      "recipe_id": 10248,
+      "name": "Mining",
+      "profession": "Mining",
+      "skill_level": 200,
+      "icon_name": "trade_mining",
+      "materials": [],
+      "result_item_id": 0,
+      "result_quantity": 1,
+      "difficulty_orange": 0,
+      "difficulty_yellow": 0,
+      "difficulty_green": 0,
+      "difficulty_gray": 0,
+      "url": "https://www.wowhead.com/tbc/spell=10248/mining",
+      "scraped_at": "2026-02-22 16:11:00"
+    },
+    {
+      "recipe_id": 14891,
+      "name": "Smelt Dark Iron",
+      "profession": "Mining",
+      "skill_level": 0,
+      "icon_name": "inv_ingot_mithril",
+      "materials": [
+        {
+          "itemId": 11370,
+          "quantity": 8
+        }
+      ],
+      "result_item_id": 11371,
+      "result_quantity": 1,
+      "difficulty_orange": 0,
+      "difficulty_yellow": 300,
+      "difficulty_green": 305,
+      "difficulty_gray": 310,
+      "url": "https://www.wowhead.com/tbc/spell=14891/smelt-dark-iron",
+      "scraped_at": "2026-02-22 16:11:08"
+    },
+    {
+      "recipe_id": 29686,
+      "name": "Smelt Hardened Adamantite",
+      "profession": "Mining",
+      "skill_level": 375,
+      "icon_name": "inv_ingot_adamantite",
+      "materials": [
+        {
+          "itemId": 23446,
+          "quantity": 10
+        }
+      ],
+      "result_item_id": 23573,
+      "result_quantity": 1,
+      "difficulty_orange": 375,
+      "difficulty_yellow": 375,
+      "difficulty_green": 375,
+      "difficulty_gray": 375,
+      "url": "https://www.wowhead.com/tbc/spell=29686/smelt-hardened-adamantite",
+      "scraped_at": "2026-02-22 16:11:15"
+    },
+    {
+      "recipe_id": 3304,
+      "name": "Smelt Tin",
+      "profession": "Mining",
+      "skill_level": 65,
+      "icon_name": "inv_ingot_05",
+      "materials": [
+        {
+          "itemId": 2771,
+          "quantity": 1
+        }
+      ],
+      "result_item_id": 3576,
+      "result_quantity": 1,
+      "difficulty_orange": 65,
+      "difficulty_yellow": 65,
+      "difficulty_green": 70,
+      "difficulty_gray": 75,
+      "url": "https://www.wowhead.com/tbc/spell=3304/smelt-tin",
+      "scraped_at": "2026-02-22 16:11:22"
+    },
+    {
+      "recipe_id": 3307,
+      "name": "Smelt Iron",
+      "profession": "Mining",
+      "skill_level": 125,
+      "icon_name": "inv_ingot_iron",
+      "materials": [
+        {
+          "itemId": 2772,
+          "quantity": 1
+        }
+      ],
+      "result_item_id": 3575,
+      "result_quantity": 1,
+      "difficulty_orange": 125,
+      "difficulty_yellow": 130,
+      "difficulty_green": 145,
+      "difficulty_gray": 160,
+      "url": "https://www.wowhead.com/tbc/spell=3307/smelt-iron",
+      "scraped_at": "2026-02-22 16:11:29"
+    },
+    {
+      "recipe_id": 3308,
+      "name": "Smelt Gold",
+      "profession": "Mining",
+      "skill_level": 155,
+      "icon_name": "inv_ingot_03",
+      "materials": [
+        {
+          "itemId": 2776,
+          "quantity": 1
+        }
+      ],
+      "result_item_id": 3577,
+      "result_quantity": 1,
+      "difficulty_orange": 155,
+      "difficulty_yellow": 170,
+      "difficulty_green": 177,
+      "difficulty_gray": 185,
+      "url": "https://www.wowhead.com/tbc/spell=3308/smelt-gold",
+      "scraped_at": "2026-02-22 16:11:36"
+    },
+    {
+      "recipe_id": 3564,
+      "name": "Mining",
+      "profession": "Mining",
+      "skill_level": 125,
+      "icon_name": "trade_mining",
+      "materials": [],
+      "result_item_id": 0,
+      "result_quantity": 1,
+      "difficulty_orange": 0,
+      "difficulty_yellow": 0,
+      "difficulty_green": 0,
+      "difficulty_gray": 0,
+      "url": "https://www.wowhead.com/tbc/spell=3564/mining",
+      "scraped_at": "2026-02-22 16:11:44"
+    },
+    {
+      "recipe_id": 12093,
+      "name": "Tuxedo Jacket",
+      "profession": "Tailoring",
+      "skill_level": 250,
+      "icon_name": "inv_shirt_black_01",
+      "materials": [
+        {
+          "itemId": 4339,
+          "quantity": 5
+        },
+        {
+          "itemId": 8343,
+          "quantity": 3
+        }
+      ],
+      "result_item_id": 10036,
+      "result_quantity": 1,
+      "difficulty_orange": 250,
+      "difficulty_yellow": 265,
+      "difficulty_green": 280,
+      "difficulty_gray": 295,
+      "url": "https://www.wowhead.com/tbc/spell=12093/tuxedo-jacket",
+      "scraped_at": "2026-02-22 16:11:57"
+    },
+    {
+      "recipe_id": 12180,
+      "name": "Tailoring",
+      "profession": "Tailoring",
+      "skill_level": 200,
+      "icon_name": "trade_tailoring",
+      "materials": [],
+      "result_item_id": 0,
+      "result_quantity": 1,
+      "difficulty_orange": 0,
+      "difficulty_yellow": 0,
+      "difficulty_green": 0,
+      "difficulty_gray": 0,
+      "url": "https://www.wowhead.com/tbc/spell=12180/tailoring",
+      "scraped_at": "2026-02-22 16:12:04"
+    },
+    {
+      "recipe_id": 18401,
+      "name": "Bolt of Runecloth",
+      "profession": "Tailoring",
+      "skill_level": 250,
+      "icon_name": "inv_fabric_purplefire_02",
+      "materials": [
+        {
+          "itemId": 14047,
+          "quantity": 5
+        }
+      ],
+      "result_item_id": 14048,
+      "result_quantity": 1,
+      "difficulty_orange": 250,
+      "difficulty_yellow": 255,
+      "difficulty_green": 257,
+      "difficulty_gray": 260,
+      "url": "https://www.wowhead.com/tbc/spell=18401/bolt-of-runecloth",
+      "scraped_at": "2026-02-22 16:12:11"
+    },
+    {
+      "recipe_id": 18402,
+      "name": "Runecloth Belt",
+      "profession": "Tailoring",
+      "skill_level": 255,
+      "icon_name": "inv_belt_15",
+      "materials": [
+        {
+          "itemId": 14048,
+          "quantity": 3
+        },
+        {
+          "itemId": 14341,
+          "quantity": 1
+        }
+      ],
+      "result_item_id": 13856,
+      "result_quantity": 1,
+      "difficulty_orange": 255,
+      "difficulty_yellow": 270,
+      "difficulty_green": 285,
+      "difficulty_gray": 300,
+      "url": "https://www.wowhead.com/tbc/spell=18402/runecloth-belt",
+      "scraped_at": "2026-02-22 16:12:18"
+    },
+    {
+      "recipe_id": 18403,
+      "name": "Frostweave Tunic",
+      "profession": "Tailoring",
+      "skill_level": 255,
+      "icon_name": "inv_chest_cloth_08",
+      "materials": [
+        {
+          "itemId": 14048,
+          "quantity": 5
+        },
+        {
+          "itemId": 7079,
+          "quantity": 2
+        },
+        {
+          "itemId": 14341,
+          "quantity": 1
+        }
+      ],
+      "result_item_id": 13869,
+      "result_quantity": 1,
+      "difficulty_orange": 255,
+      "difficulty_yellow": 270,
+      "difficulty_green": 285,
+      "difficulty_gray": 300,
+      "url": "https://www.wowhead.com/tbc/spell=18403/frostweave-tunic",
+      "scraped_at": "2026-02-22 16:12:26"
+    },
+    {
+      "recipe_id": 18420,
+      "name": "Brightcloth Cloak",
+      "profession": "Tailoring",
+      "skill_level": 275,
+      "icon_name": "inv_misc_cape_11",
+      "materials": [
+        {
+          "itemId": 14048,
+          "quantity": 4
+        },
+        {
+          "itemId": 3577,
+          "quantity": 2
+        },
+        {
+          "itemId": 14341,
+          "quantity": 1
+        }
+      ],
+      "result_item_id": 14103,
+      "result_quantity": 1,
+      "difficulty_orange": 275,
+      "difficulty_yellow": 290,
+      "difficulty_green": 305,
+      "difficulty_gray": 320,
+      "url": "https://www.wowhead.com/tbc/spell=18420/brightcloth-cloak",
+      "scraped_at": "2026-02-22 16:12:33"
+    },
+    {
+      "recipe_id": 18421,
+      "name": "Wizardweave Leggings",
+      "profession": "Tailoring",
+      "skill_level": 275,
+      "icon_name": "inv_pants_09",
+      "materials": [
+        {
+          "itemId": 14048,
+          "quantity": 6
+        },
+        {
+          "itemId": 11176,
+          "quantity": 1
+        },
+        {
+          "itemId": 14341,
+          "quantity": 1
+        }
+      ],
+      "result_item_id": 14132,
+      "result_quantity": 1,
+      "difficulty_orange": 275,
+      "difficulty_yellow": 290,
+      "difficulty_green": 305,
+      "difficulty_gray": 320,
+      "url": "https://www.wowhead.com/tbc/spell=18421/wizardweave-leggings",
+      "scraped_at": "2026-02-22 16:12:40"
+    },
+    {
+      "recipe_id": 23664,
+      "name": "Argent Boots",
+      "profession": "Tailoring",
+      "skill_level": 290,
+      "icon_name": "inv_boots_cloth_03",
+      "materials": [
+        {
+          "itemId": 14048,
+          "quantity": 6
+        },
+        {
+          "itemId": 12810,
+          "quantity": 4
+        },
+        {
+          "itemId": 13926,
+          "quantity": 2
+        },
+        {
+          "itemId": 12809,
+          "quantity": 2
+        },
+        {
+          "itemId": 14227,
+          "quantity": 2
+        }
+      ],
+      "result_item_id": 19056,
+      "result_quantity": 1,
+      "difficulty_orange": 290,
+      "difficulty_yellow": 305,
+      "difficulty_green": 320,
+      "difficulty_gray": 335,
+      "url": "https://www.wowhead.com/tbc/spell=23664/argent-boots",
+      "scraped_at": "2026-02-22 16:12:47"
+    },
+    {
+      "recipe_id": 23665,
+      "name": "Argent Shoulders",
+      "profession": "Tailoring",
+      "skill_level": 300,
+      "icon_name": "inv_shoulder_13",
+      "materials": [
+        {
+          "itemId": 14342,
+          "quantity": 5
+        },
+        {
+          "itemId": 12809,
+          "quantity": 2
+        },
+        {
+          "itemId": 14227,
+          "quantity": 2
+        }
+      ],
+      "result_item_id": 19059,
+      "result_quantity": 1,
+      "difficulty_orange": 300,
+      "difficulty_yellow": 315,
+      "difficulty_green": 330,
+      "difficulty_gray": 345,
+      "url": "https://www.wowhead.com/tbc/spell=23665/argent-shoulders",
+      "scraped_at": "2026-02-22 16:12:55"
+    },
+    {
+      "recipe_id": 23666,
+      "name": "Flarecore Robe",
+      "profession": "Tailoring",
+      "skill_level": 300,
+      "icon_name": "inv_chest_cloth_18",
+      "materials": [
+        {
+          "itemId": 14342,
+          "quantity": 10
+        },
+        {
+          "itemId": 17010,
+          "quantity": 2
+        },
+        {
+          "itemId": 17011,
+          "quantity": 3
+        },
+        {
+          "itemId": 7078,
+          "quantity": 6
+        },
+        {
+          "itemId": 14227,
+          "quantity": 4
+        }
+      ],
+      "result_item_id": 19156,
+      "result_quantity": 1,
+      "difficulty_orange": 300,
+      "difficulty_yellow": 315,
+      "difficulty_green": 330,
+      "difficulty_gray": 345,
+      "url": "https://www.wowhead.com/tbc/spell=23666/flarecore-robe",
+      "scraped_at": "2026-02-22 16:13:02"
+    },
+    {
+      "recipe_id": 23667,
+      "name": "Flarecore Leggings",
+      "profession": "Tailoring",
+      "skill_level": 300,
+      "icon_name": "inv_pants_06",
+      "materials": [
+        {
+          "itemId": 14342,
+          "quantity": 8
+        },
+        {
+          "itemId": 17010,
+          "quantity": 5
+        },
+        {
+          "itemId": 17011,
+          "quantity": 3
+        },
+        {
+          "itemId": 7078,
+          "quantity": 10
+        },
+        {
+          "itemId": 14227,
+          "quantity": 4
+        }
+      ],
+      "result_item_id": 19165,
+      "result_quantity": 1,
+      "difficulty_orange": 300,
+      "difficulty_yellow": 315,
+      "difficulty_green": 330,
+      "difficulty_gray": 345,
+      "url": "https://www.wowhead.com/tbc/spell=23667/flarecore-leggings",
+      "scraped_at": "2026-02-22 16:13:09"
+    },
+    {
+      "recipe_id": 24901,
+      "name": "Runed Stygian Leggings",
+      "profession": "Tailoring",
+      "skill_level": 300,
+      "icon_name": "inv_pants_cloth_05",
+      "materials": [
+        {
+          "itemId": 14048,
+          "quantity": 6
+        },
+        {
+          "itemId": 20520,
+          "quantity": 8
+        },
+        {
+          "itemId": 14256,
+          "quantity": 6
+        },
+        {
+          "itemId": 14227,
+          "quantity": 2
+        }
+      ],
+      "result_item_id": 20538,
+      "result_quantity": 1,
+      "difficulty_orange": 300,
+      "difficulty_yellow": 315,
+      "difficulty_green": 330,
+      "difficulty_gray": 345,
+      "url": "https://www.wowhead.com/tbc/spell=24901/runed-stygian-leggings",
+      "scraped_at": "2026-02-22 16:13:17"
+    },
+    {
+      "recipe_id": 24902,
+      "name": "Runed Stygian Belt",
+      "profession": "Tailoring",
+      "skill_level": 300,
+      "icon_name": "inv_belt_14",
+      "materials": [
+        {
+          "itemId": 14048,
+          "quantity": 2
+        },
+        {
+          "itemId": 20520,
+          "quantity": 6
+        },
+        {
+          "itemId": 14256,
+          "quantity": 2
+        },
+        {
+          "itemId": 12810,
+          "quantity": 2
+        },
+        {
+          "itemId": 14227,
+          "quantity": 2
+        }
+      ],
+      "result_item_id": 20539,
+      "result_quantity": 1,
+      "difficulty_orange": 300,
+      "difficulty_yellow": 315,
+      "difficulty_green": 330,
+      "difficulty_gray": 345,
+      "url": "https://www.wowhead.com/tbc/spell=24902/runed-stygian-belt",
+      "scraped_at": "2026-02-22 16:13:25"
+    },
+    {
+      "recipe_id": 24903,
+      "name": "Runed Stygian Boots",
+      "profession": "Tailoring",
+      "skill_level": 300,
+      "icon_name": "inv_boots_05",
+      "materials": [
+        {
+          "itemId": 14048,
+          "quantity": 4
+        },
+        {
+          "itemId": 20520,
+          "quantity": 6
+        },
+        {
+          "itemId": 14256,
+          "quantity": 4
+        },
+        {
+          "itemId": 12810,
+          "quantity": 2
+        },
+        {
+          "itemId": 14227,
+          "quantity": 2
+        }
+      ],
+      "result_item_id": 20537,
+      "result_quantity": 1,
+      "difficulty_orange": 300,
+      "difficulty_yellow": 315,
+      "difficulty_green": 330,
+      "difficulty_gray": 345,
+      "url": "https://www.wowhead.com/tbc/spell=24903/runed-stygian-boots",
+      "scraped_at": "2026-02-22 16:13:32"
+    },
+    {
+      "recipe_id": 26754,
+      "name": "Spellfire Robe",
+      "profession": "Tailoring",
+      "skill_level": 375,
+      "icon_name": "inv_chest_cloth_02",
+      "materials": [
+        {
+          "itemId": 24271,
+          "quantity": 14
+        },
+        {
+          "itemId": 21884,
+          "quantity": 16
+        },
+        {
+          "itemId": 21881,
+          "quantity": 4
+        }
+      ],
+      "result_item_id": 21846,
+      "result_quantity": 1,
+      "difficulty_orange": 375,
+      "difficulty_yellow": 385,
+      "difficulty_green": 390,
+      "difficulty_gray": 395,
+      "url": "https://www.wowhead.com/tbc/spell=26754/spellfire-robe",
+      "scraped_at": "2026-02-22 16:13:40"
+    },
+    {
+      "recipe_id": 26755,
+      "name": "Spellfire Bag",
+      "profession": "Tailoring",
+      "skill_level": 375,
+      "icon_name": "inv_misc_bag_26_spellfire",
+      "materials": [
+        {
+          "itemId": 24271,
+          "quantity": 6
+        },
+        {
+          "itemId": 22446,
+          "quantity": 4
+        },
+        {
+          "itemId": 21881,
+          "quantity": 4
+        }
+      ],
+      "result_item_id": 21858,
+      "result_quantity": 1,
+      "difficulty_orange": 375,
+      "difficulty_yellow": 385,
+      "difficulty_green": 390,
+      "difficulty_gray": 395,
+      "url": "https://www.wowhead.com/tbc/spell=26755/spellfire-bag",
+      "scraped_at": "2026-02-22 16:13:47"
+    },
+    {
+      "recipe_id": 26783,
+      "name": "Arcanoweave Boots",
+      "profession": "Tailoring",
+      "skill_level": 360,
+      "icon_name": "inv_boots_07",
+      "materials": [
+        {
+          "itemId": 21840,
+          "quantity": 8
+        },
+        {
+          "itemId": 22445,
+          "quantity": 16
+        },
+        {
+          "itemId": 14341,
+          "quantity": 2
+        }
+      ],
+      "result_item_id": 21867,
+      "result_quantity": 1,
+      "difficulty_orange": 360,
+      "difficulty_yellow": 370,
+      "difficulty_green": 375,
+      "difficulty_gray": 380,
+      "url": "https://www.wowhead.com/tbc/spell=26783/arcanoweave-boots",
+      "scraped_at": "2026-02-22 16:13:54"
+    },
+    {
+      "recipe_id": 26784,
+      "name": "Arcanoweave Robe",
+      "profession": "Tailoring",
+      "skill_level": 370,
+      "icon_name": "inv_chest_cloth_01",
+      "materials": [
+        {
+          "itemId": 21840,
+          "quantity": 12
+        },
+        {
+          "itemId": 22445,
+          "quantity": 20
+        },
+        {
+          "itemId": 14341,
+          "quantity": 2
+        }
+      ],
+      "result_item_id": 21867,
+      "result_quantity": 1,
+      "difficulty_orange": 370,
+      "difficulty_yellow": 380,
+      "difficulty_green": 385,
+      "difficulty_gray": 390,
+      "url": "https://www.wowhead.com/tbc/spell=26784/arcanoweave-robe",
+      "scraped_at": "2026-02-22 16:14:01"
+    },
+    {
+      "recipe_id": 28481,
+      "name": "Sylvan Crown",
+      "profession": "Tailoring",
+      "skill_level": 300,
+      "icon_name": "inv_crown_01",
+      "materials": [
+        {
+          "itemId": 14048,
+          "quantity": 4
+        },
+        {
+          "itemId": 14342,
+          "quantity": 2
+        },
+        {
+          "itemId": 12803,
+          "quantity": 2
+        },
+        {
+          "itemId": 14227,
+          "quantity": 2
+        }
+      ],
+      "result_item_id": 22757,
+      "result_quantity": 1,
+      "difficulty_orange": 300,
+      "difficulty_yellow": 315,
+      "difficulty_green": 330,
+      "difficulty_gray": 345,
+      "url": "https://www.wowhead.com/tbc/spell=28481/sylvan-crown",
+      "scraped_at": "2026-02-22 16:14:08"
+    },
+    {
+      "recipe_id": 28482,
+      "name": "Sylvan Shoulders",
+      "profession": "Tailoring",
+      "skill_level": 300,
+      "icon_name": "inv_shoulder_18",
+      "materials": [
+        {
+          "itemId": 14048,
+          "quantity": 2
+        },
+        {
+          "itemId": 12803,
+          "quantity": 4
+        },
+        {
+          "itemId": 14227,
+          "quantity": 2
+        }
+      ],
+      "result_item_id": 22758,
+      "result_quantity": 1,
+      "difficulty_orange": 300,
+      "difficulty_yellow": 315,
+      "difficulty_green": 330,
+      "difficulty_gray": 345,
+      "url": "https://www.wowhead.com/tbc/spell=28482/sylvan-shoulders",
+      "scraped_at": "2026-02-22 16:14:15"
+    },
+    {
+      "recipe_id": 2963,
+      "name": "Bolt of Linen Cloth",
+      "profession": "Tailoring",
+      "skill_level": 1,
+      "icon_name": "inv_fabric_linen_02",
+      "materials": [
+        {
+          "itemId": 2589,
+          "quantity": 2
+        }
+      ],
+      "result_item_id": 2996,
+      "result_quantity": 1,
+      "difficulty_orange": 1,
+      "difficulty_yellow": 25,
+      "difficulty_green": 37,
+      "difficulty_gray": 50,
+      "url": "https://www.wowhead.com/tbc/spell=2963/bolt-of-linen-cloth",
+      "scraped_at": "2026-02-22 16:14:22"
+    },
+    {
+      "recipe_id": 2964,
+      "name": "Bolt of Woolen Cloth",
+      "profession": "Tailoring",
+      "skill_level": 75,
+      "icon_name": "inv_fabric_wool_03",
+      "materials": [
+        {
+          "itemId": 2592,
+          "quantity": 3
+        }
+      ],
+      "result_item_id": 2997,
+      "result_quantity": 1,
+      "difficulty_orange": 75,
+      "difficulty_yellow": 90,
+      "difficulty_green": 97,
+      "difficulty_gray": 105,
+      "url": "https://www.wowhead.com/tbc/spell=2964/bolt-of-woolen-cloth",
+      "scraped_at": "2026-02-22 16:14:30"
+    },
+    {
+      "recipe_id": 31449,
+      "name": "Vengeance Wrap",
+      "profession": "Tailoring",
+      "skill_level": 365,
+      "icon_name": "inv_misc_cape_18",
+      "materials": [
+        {
+          "itemId": 24272,
+          "quantity": 10
+        },
+        {
+          "itemId": 22451,
+          "quantity": 14
+        },
+        {
+          "itemId": 23572,
+          "quantity": 1
+        }
+      ],
+      "result_item_id": 24259,
+      "result_quantity": 1,
+      "difficulty_orange": 365,
+      "difficulty_yellow": 375,
+      "difficulty_green": 380,
+      "difficulty_gray": 385,
+      "url": "https://www.wowhead.com/tbc/spell=31449/vengeance-wrap",
+      "scraped_at": "2026-02-22 16:14:37"
+    },
+    {
+      "recipe_id": 31450,
+      "name": "Manaweave Cloak",
+      "profession": "Tailoring",
+      "skill_level": 365,
+      "icon_name": "inv_misc_cape_16",
+      "materials": [
+        {
+          "itemId": 24271,
+          "quantity": 10
+        },
+        {
+          "itemId": 22457,
+          "quantity": 12
+        },
+        {
+          "itemId": 23572,
+          "quantity": 1
+        }
+      ],
+      "result_item_id": 24260,
+      "result_quantity": 1,
+      "difficulty_orange": 365,
+      "difficulty_yellow": 375,
+      "difficulty_green": 380,
+      "difficulty_gray": 385,
+      "url": "https://www.wowhead.com/tbc/spell=31450/manaweave-cloak",
+      "scraped_at": "2026-02-22 16:14:44"
+    },
+    {
+      "recipe_id": 31451,
+      "name": "Whitemend Pants",
+      "profession": "Tailoring",
+      "skill_level": 375,
+      "icon_name": "inv_pants_cloth_07",
+      "materials": [
+        {
+          "itemId": 21845,
+          "quantity": 10
+        },
+        {
+          "itemId": 23571,
+          "quantity": 5
+        },
+        {
+          "itemId": 23572,
+          "quantity": 1
+        }
+      ],
+      "result_item_id": 24261,
+      "result_quantity": 1,
+      "difficulty_orange": 375,
+      "difficulty_yellow": 385,
+      "difficulty_green": 390,
+      "difficulty_gray": 395,
+      "url": "https://www.wowhead.com/tbc/spell=31451/whitemend-pants",
+      "scraped_at": "2026-02-22 16:14:52"
+    },
+    {
+      "recipe_id": 31452,
+      "name": "Spellstrike Pants",
+      "profession": "Tailoring",
+      "skill_level": 375,
+      "icon_name": "inv_pants_cloth_14",
+      "materials": [
+        {
+          "itemId": 24271,
+          "quantity": 10
+        },
+        {
+          "itemId": 23571,
+          "quantity": 5
+        },
+        {
+          "itemId": 23572,
+          "quantity": 1
+        }
+      ],
+      "result_item_id": 24262,
+      "result_quantity": 1,
+      "difficulty_orange": 375,
+      "difficulty_yellow": 385,
+      "difficulty_green": 390,
+      "difficulty_gray": 395,
+      "url": "https://www.wowhead.com/tbc/spell=31452/spellstrike-pants",
+      "scraped_at": "2026-02-22 16:15:00"
+    },
+    {
+      "recipe_id": 3839,
+      "name": "Bolt of Silk Cloth",
+      "profession": "Tailoring",
+      "skill_level": 125,
+      "icon_name": "inv_fabric_silk_03",
+      "materials": [
+        {
+          "itemId": 4306,
+          "quantity": 4
+        }
+      ],
+      "result_item_id": 4305,
+      "result_quantity": 1,
+      "difficulty_orange": 125,
+      "difficulty_yellow": 135,
+      "difficulty_green": 140,
+      "difficulty_gray": 145,
+      "url": "https://www.wowhead.com/tbc/spell=3839/bolt-of-silk-cloth",
+      "scraped_at": "2026-02-22 16:15:07"
+    },
+    {
+      "recipe_id": 3862,
+      "name": "Icy Cloak",
+      "profession": "Tailoring",
+      "skill_level": 200,
+      "icon_name": "inv_misc_cape_04",
+      "materials": [
+        {
+          "itemId": 4339,
+          "quantity": 3
+        },
+        {
+          "itemId": 4291,
+          "quantity": 2
+        },
+        {
+          "itemId": 3829,
+          "quantity": 1
+        },
+        {
+          "itemId": 4337,
+          "quantity": 2
+        }
+      ],
+      "result_item_id": 4327,
+      "result_quantity": 1,
+      "difficulty_orange": 200,
+      "difficulty_yellow": 220,
+      "difficulty_green": 235,
+      "difficulty_gray": 250,
+      "url": "https://www.wowhead.com/tbc/spell=3862/icy-cloak",
+      "scraped_at": "2026-02-22 16:15:14"
+    },
+    {
+      "recipe_id": 3863,
+      "name": "Spider Belt",
+      "profession": "Tailoring",
+      "skill_level": 180,
+      "icon_name": "inv_belt_25",
+      "materials": [
+        {
+          "itemId": 4305,
+          "quantity": 4
+        },
+        {
+          "itemId": 4337,
+          "quantity": 2
+        },
+        {
+          "itemId": 7071,
+          "quantity": 1
+        }
+      ],
+      "result_item_id": 4328,
+      "result_quantity": 1,
+      "difficulty_orange": 180,
+      "difficulty_yellow": 200,
+      "difficulty_green": 215,
+      "difficulty_gray": 230,
+      "url": "https://www.wowhead.com/tbc/spell=3863/spider-belt",
+      "scraped_at": "2026-02-22 16:15:22"
+    },
+    {
+      "recipe_id": 3864,
+      "name": "Star Belt",
+      "profession": "Tailoring",
+      "skill_level": 200,
+      "icon_name": "inv_belt_06",
+      "materials": [
+        {
+          "itemId": 4339,
+          "quantity": 4
+        },
+        {
+          "itemId": 4234,
+          "quantity": 4
+        },
+        {
+          "itemId": 3864,
+          "quantity": 1
+        },
+        {
+          "itemId": 7071,
+          "quantity": 1
+        },
+        {
+          "itemId": 4291,
+          "quantity": 1
+        }
+      ],
+      "result_item_id": 4329,
+      "result_quantity": 1,
+      "difficulty_orange": 200,
+      "difficulty_yellow": 220,
+      "difficulty_green": 235,
+      "difficulty_gray": 250,
+      "url": "https://www.wowhead.com/tbc/spell=3864/star-belt",
+      "scraped_at": "2026-02-22 16:15:29"
+    },
+    {
+      "recipe_id": 3865,
+      "name": "Bolt of Mageweave",
+      "profession": "Tailoring",
+      "skill_level": 175,
+      "icon_name": "inv_fabric_mageweave_03",
+      "materials": [
+        {
+          "itemId": 4338,
+          "quantity": 5
+        }
+      ],
+      "result_item_id": 4339,
+      "result_quantity": 1,
+      "difficulty_orange": 175,
+      "difficulty_yellow": 180,
+      "difficulty_green": 182,
+      "difficulty_gray": 185,
+      "url": "https://www.wowhead.com/tbc/spell=3865/bolt-of-mageweave",
+      "scraped_at": "2026-02-22 16:15:37"
+    },
+    {
+      "recipe_id": 41207,
+      "name": "Swiftheal Wraps",
+      "profession": "Tailoring",
+      "skill_level": 375,
+      "icon_name": "inv_bracer_13",
+      "materials": [
+        {
+          "itemId": 21842,
+          "quantity": 3
+        },
+        {
+          "itemId": 21845,
+          "quantity": 4
+        },
+        {
+          "itemId": 21886,
+          "quantity": 8
+        },
+        {
+          "itemId": 32428,
+          "quantity": 4
+        }
+      ],
+      "result_item_id": 32584,
+      "result_quantity": 1,
+      "difficulty_orange": 375,
+      "difficulty_yellow": 385,
+      "difficulty_green": 390,
+      "difficulty_gray": 395,
+      "url": "https://www.wowhead.com/tbc/spell=41207/swiftheal-wraps",
+      "scraped_at": "2026-02-22 16:15:44"
+    },
+    {
+      "recipe_id": 41208,
+      "name": "Swiftheal Mantle",
+      "profession": "Tailoring",
+      "skill_level": 375,
+      "icon_name": "inv_shoulder_25",
+      "materials": [
+        {
+          "itemId": 21842,
+          "quantity": 4
+        },
+        {
+          "itemId": 21845,
+          "quantity": 2
+        },
+        {
+          "itemId": 21886,
+          "quantity": 6
+        },
+        {
+          "itemId": 32428,
+          "quantity": 2
+        }
+      ],
+      "result_item_id": 32585,
+      "result_quantity": 1,
+      "difficulty_orange": 375,
+      "difficulty_yellow": 385,
+      "difficulty_green": 390,
+      "difficulty_gray": 395,
+      "url": "https://www.wowhead.com/tbc/spell=41208/swiftheal-mantle",
+      "scraped_at": "2026-02-22 16:15:52"
+    },
+    {
+      "recipe_id": 44950,
+      "name": "Green Winter Clothes",
+      "profession": "Tailoring",
+      "skill_level": 250,
+      "icon_name": "inv_chest_christmas01",
+      "materials": [
+        {
+          "itemId": 14048,
+          "quantity": 4
+        },
+        {
+          "itemId": 2997,
+          "quantity": 1
+        },
+        {
+          "itemId": 2605,
+          "quantity": 2
+        },
+        {
+          "itemId": 14341,
+          "quantity": 1
+        }
+      ],
+      "result_item_id": 34087,
+      "result_quantity": 1,
+      "difficulty_orange": 250,
+      "difficulty_yellow": 250,
+      "difficulty_green": 250,
+      "difficulty_gray": 250,
+      "url": "https://www.wowhead.com/tbc/spell=44950/green-winter-clothes",
+      "scraped_at": "2026-02-22 16:15:59"
+    },
+    {
+      "recipe_id": 8764,
+      "name": "Earthen Vest",
+      "profession": "Tailoring",
+      "skill_level": 170,
+      "icon_name": "inv_shirt_04",
+      "materials": [
+        {
+          "itemId": 4305,
+          "quantity": 3
+        },
+        {
+          "itemId": 7067,
+          "quantity": 1
+        },
+        {
+          "itemId": 2321,
+          "quantity": 2
+        }
+      ],
+      "result_item_id": 7051,
+      "result_quantity": 1,
+      "difficulty_orange": 170,
+      "difficulty_yellow": 190,
+      "difficulty_green": 205,
+      "difficulty_gray": 220,
+      "url": "https://www.wowhead.com/tbc/spell=8764/earthen-vest",
+      "scraped_at": "2026-02-22 16:16:06"
+    },
+    {
+      "recipe_id": 8766,
+      "name": "Azure Silk Belt",
+      "profession": "Tailoring",
+      "skill_level": 175,
+      "icon_name": "inv_belt_22",
+      "materials": [
+        {
+          "itemId": 4305,
+          "quantity": 4
+        },
+        {
+          "itemId": 7070,
+          "quantity": 1
+        },
+        {
+          "itemId": 6260,
+          "quantity": 2
+        },
+        {
+          "itemId": 2321,
+          "quantity": 2
+        },
+        {
+          "itemId": 7071,
+          "quantity": 1
+        }
+      ],
+      "result_item_id": 7052,
+      "result_quantity": 1,
+      "difficulty_orange": 175,
+      "difficulty_yellow": 195,
+      "difficulty_green": 210,
+      "difficulty_gray": 225,
+      "url": "https://www.wowhead.com/tbc/spell=8766/azure-silk-belt",
+      "scraped_at": "2026-02-22 16:16:14"
+    },
+    {
+      "recipe_id": 8770,
+      "name": "Robe of Power",
+      "profession": "Tailoring",
+      "skill_level": 190,
+      "icon_name": "inv_chest_cloth_02",
+      "materials": [
+        {
+          "itemId": 4339,
+          "quantity": 2
+        },
+        {
+          "itemId": 7067,
+          "quantity": 2
+        },
+        {
+          "itemId": 7070,
+          "quantity": 2
+        },
+        {
+          "itemId": 7068,
+          "quantity": 2
+        },
+        {
+          "itemId": 7069,
+          "quantity": 2
+        },
+        {
+          "itemId": 4291,
+          "quantity": 2
+        }
+      ],
+      "result_item_id": 7054,
+      "result_quantity": 1,
+      "difficulty_orange": 190,
+      "difficulty_yellow": 210,
+      "difficulty_green": 225,
+      "difficulty_gray": 240,
+      "url": "https://www.wowhead.com/tbc/spell=8770/robe-of-power",
+      "scraped_at": "2026-02-22 16:16:21"
+    },
+    {
+      "recipe_id": 8772,
+      "name": "Crimson Silk Belt",
+      "profession": "Tailoring",
+      "skill_level": 175,
+      "icon_name": "inv_belt_04",
+      "materials": [
+        {
+          "itemId": 4305,
+          "quantity": 4
+        },
+        {
+          "itemId": 7071,
+          "quantity": 1
+        },
+        {
+          "itemId": 2604,
+          "quantity": 2
+        },
+        {
+          "itemId": 4291,
+          "quantity": 1
+        }
+      ],
+      "result_item_id": 7055,
+      "result_quantity": 1,
+      "difficulty_orange": 175,
+      "difficulty_yellow": 195,
+      "difficulty_green": 210,
+      "difficulty_gray": 225,
+      "url": "https://www.wowhead.com/tbc/spell=8772/crimson-silk-belt",
+      "scraped_at": "2026-02-22 16:16:28"
+    },
+    {
+      "recipe_id": 8774,
+      "name": "Green Silken Shoulders",
+      "profession": "Tailoring",
+      "skill_level": 180,
+      "icon_name": "inv_shoulder_18",
+      "materials": [
+        {
+          "itemId": 4305,
+          "quantity": 5
+        },
+        {
+          "itemId": 4291,
+          "quantity": 2
+        }
+      ],
+      "result_item_id": 7057,
+      "result_quantity": 1,
+      "difficulty_orange": 180,
+      "difficulty_yellow": 200,
+      "difficulty_green": 215,
+      "difficulty_gray": 230,
+      "url": "https://www.wowhead.com/tbc/spell=8774/green-silken-shoulders",
+      "scraped_at": "2026-02-22 16:16:36"
+    },
+    {
+      "recipe_id": 8804,
+      "name": "Crimson Silk Gloves",
+      "profession": "Tailoring",
+      "skill_level": 210,
+      "icon_name": "inv_gauntlets_05",
+      "materials": [
+        {
+          "itemId": 4305,
+          "quantity": 6
+        },
+        {
+          "itemId": 7068,
+          "quantity": 2
+        },
+        {
+          "itemId": 6371,
+          "quantity": 2
+        },
+        {
+          "itemId": 4304,
+          "quantity": 2
+        },
+        {
+          "itemId": 2604,
+          "quantity": 4
+        },
+        {
+          "itemId": 4291,
+          "quantity": 2
+        }
+      ],
+      "result_item_id": 7064,
+      "result_quantity": 1,
+      "difficulty_orange": 210,
+      "difficulty_yellow": 225,
+      "difficulty_green": 240,
+      "difficulty_gray": 255,
+      "url": "https://www.wowhead.com/tbc/spell=8804/crimson-silk-gloves",
+      "scraped_at": "2026-02-22 16:16:43"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+#alchemy.txt
+#blacksmithing.txt
+#leatherworking.txt
+#enchanting.txt
+#engineering.txt
+#jewelcrafting.txt
+#mining.txt
+#tailoring.txt
